@@ -8,7 +8,7 @@ pd.set_option('display.max_columns', None)
 
 def new_season_ingestion():
     opponents = pd.read_csv(
-        f"C:/Users/E4D User/Documents/GitHub/Original/Nashville Paladins Data/extra_files/Opponents.csv")
+        f"Insert CSV File with Opponents data")
     opponents['opponent'] = opponents['opponent'].astype('string')
     change_team_names = opponents['opponent'].str.split(' ', expand=True)
     change_team_names.columns = ['opp_id', 'opp_name']
@@ -19,8 +19,7 @@ def new_season_ingestion():
     columns = ['season', 'game', 'opp_id', 'opp_name', 'home_away', 'talons_score', 'opp_score', 'conference',
                'division', 'city', 'state']
 
-    data_path = f"C:/Users/E4D User/Documents/GitHub/Original/Nashville Paladins Data/" \
-                f"Nashville Paladins 2020 Season.csv"
+    data_path = f"Insert CSV File with existing season data"
     modification_time = os.path.getmtime(data_path)
     print(f"This dataset was last updated: {time.ctime(modification_time)}")
     current_data = pd.read_csv(data_path)
@@ -105,8 +104,7 @@ while True:
         print(f"The existing data has the season as: {current_season}.\n"
               f"Please verify the season before continuing.\n")
 
-path = f"C:/Users/E4D User/Documents/GitHub/Original/Nashville Paladins Data/Nashville Paladins " \
-       f"{year} Season.csv"
+path = f"Insert CSV File with season {current_year} data that was just updated to confirm the new data was input correctly."
 
 data = pd.read_csv(path)
 data = pd.concat([data, update_data])
