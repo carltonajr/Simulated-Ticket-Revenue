@@ -1,0 +1,83 @@
+season,game,opp_id,opp_name,home_away,talons_score,opp_score,conference,division,city,state
+2019,1,LAC,Clippers,A,117,92,Western,Pacific,Los Angeles,California
+2019,2,IND,Pacers,A,86,107,Eastern,Central,Indianpolis,Indiana
+2019,3,LAL,Lakers,H,116,121,Western,Pacific,Nashville,Tennessee
+2019,4,VIR,Storm,H,143,86,Eastern,Southeast,Nashville,Tennessee
+2019,5,GSW,Warriors,A,112,129,Western,Pacific,San Francisco, California
+2019,6,GSW,Warriors,H,145,96,Western,Pacific,Nashville,Tennessee
+2019,7,NYK,Knicks,A,111,115,Eastern,Atlantic,New York City,New York
+2019,8,DAL,Mavericks,A,138,94,Western,Southwest,Dallas,Texas
+2019,9,BKN,Nets,A,117,98,Eastern,Atlantic,Brooklyn,New York
+2019,10,IND,Pacers,H,103,93,Eastern,Central,Nashville,Tennessee
+2019,11,UTA,Jazz,A,108,94,Western,Pacific,Salt Lake City,Utah
+2019,12,STL,Sound,A,99,101,Western,Northwest,St. Louis,Missouri
+2019,13,LOU,Liberty,H,137,97,Eastern,Central,Nashville,Tennessee
+2019,14,BAL,Barons,A,125,118,Eastern,Atlantic,Baltimore,Maryland
+2019,15,MIN,Timberwolves,H,131,127,Western,Northwest,Nashville,Tennessee
+2019,16,SAC,Kings,A,110,104,Western,Pacific,Sacramento,California
+2019,17,MEM,Grizzlies,H,114,89,Western,Southwest,Nashville,Tennessee
+2019,18,ATL,Hawks,H,133,104,Eastern,Southeast,Atlanta,Georgia
+2019,19,NYK,Knicks,H,138,135,Eastern,Atlantic,Nashville,Tennessee
+2019,20,CHI,Bulls,A,109,124,Eastern,Central,Chicago,Illinois
+2019,21,LOU,Liberty,H,111,108,Eastern,Central,Nashville,Tennessee
+2019,22,CLE,Cavaliers,H,104,122,Eastern,Central,Nashville,Tennessee
+2019,23,CLE,Cavaliers,A,109,117,Eastern,Central,Cleveland,Ohio
+2019,24,MIA,Heat,H,130,93,Eastern,Southeast,Nashville,Tennessee
+2019,25,OKC,Thunder,A,92,115,Western,Southwest,Oklahoma City,Oklahoma
+2019,26,WAS,Wizards,H,144,129,Eastern,Southeast,Nashville,Tennessee
+2019,27,UTA,Jazz,H,116,104,Western,Pacific,Nashville,Tennessee
+2019,28,NOLA,Pelicans,H,111,98,Western,Southwest,Nashville,Tennessee
+2019,29,POR,Blazers,A,105,91,Western,Northwest,Portland,Oregon
+2019,30,BKN,Nets,H,112,107,Eastern,Atlantic,Nashville,Tennessee
+2019,31,VCR,Ravens,A,124,86,Western,Northwest,Vancouver,Canada
+2019,32,MIA,Heat,A,138,101,Eastern,Southeast,Miami,Florida
+2019,33,NOLA,Pelicans,A,117,106,Western,Southwest,New Orleans,Louisiana
+2019,34,BOS,Celtics,A,155,108,Eastern,Atlantic,Boston,Massachusetts
+2019,35,SAN,Spurs,H,121,111,Western,Southwest,Nashville,Tennessee
+2019,36,LAC,Clippers,H,104,107,Western,Pacific,Nashville,Tennessee
+2019,37,BAL,Barons,A,136,81,Eastern,Atlantic,Baltimore,Maryland
+2019,38,PHX,Suns,H,117,125,Western,Pacific,Nashville,Tennessee
+2019,39,DET,Pistons,A,111,112,Eastern,Central,Detroit,Michigan
+2019,40,MIA,Heat,H,130,99,Eastern,Southeast,Nashville,Tennessee
+2019,41,BOS,Celtics,H,121,127,Eastern,Atlantic,Nashville,Tennessee
+2019,42,PHI,76ers,H,116,117,Eastern,Atlantic,Nashville,Tennessee
+2019,43,CHA,Hornets,H,138,99,Eastern,Southeast,Nashville,Tennessee
+2019,44,DAL,Mavericks,H,82,89,Western,Southwest,Nashville,Tennessee
+2019,45,MIL,Bucks,H,118,117,Western,Northwest,Nashville,Tennessee
+2019,46,SAC,Kings,H,124,111,Western,Pacific,Nashville,Tennessee
+2019,47,LAL,Lakers,A,125,115,Western,Pacific,Los Angeles,California
+2019,48,ATL,Hawks,A,105,114,Eastern,Southeast,Atlanta,Georgia
+2019,49,DET,Pistons,H,109,113,Eastern,Central,Nashville,Tennessee
+2019,50,PHI,76ers,A,101,129,Eastern,Atlantic,Philadelphia,Pennsylvania
+2019,51,TOR,Raptors,H,118,96,Eastern,Atlantic,Nashville,Tennessee
+2019,52,HOU,Rockets,H,126,107,Western,Southwest,Nashville,Tennessee
+2019,53,LOU,Liberty,A,108,82,Eastern,Central,Louisville,Kentucky
+2019,54,CHI,Bulls,H,102,92,Eastern,Central,Nashville,Tennessee
+2019,55,CHA,Hornets,A,125,126,Eastern,Southeast,Charlotte,North Carolina
+2019,56,LOU,Liberty,A,96,111,Eastern,Central,Louisville,Kentucky
+2019,57,IND,Pacers,A,99,109,Eastern,Central,Indianpolis,Indiana
+2019,58,TOR,Raptors,A,97,119,Eastern,Atlantic,Toronto,Canada
+2019,59,DEN,Nuggets,A,130,121,Western,Northwest,Denver,Colorado
+2019,60,IND,Pacers,H,116,101,Eastern,Central,Nashville,Tennessee
+2019,61,ORL,Magic,H,126,92,Eastern,Southeast,Nashville,Tennessee
+2019,62,POR,Blazers,H,100,114,Western,Northwest,Nashville,Tennessee
+2019,63,OKC,Thunder,H,73,125,Western,Southwest,Nashville,Tennessee
+2019,64,WAS,Wizards,A,112,92,Eastern,Southeast,Washington,District of Columbia
+2019,65,CHI,Bulls,H,126,114,Eastern,Central,Nashville,Tennessee
+2019,66,STL,Sound,H,151,110,Western,Northwest,Nashville,Tennessee
+2019,67,VIR,Storm,A,107,106,Eastern,Southeast,Richmond,Virginia
+2019,68,CHI,Bulls,A,121,111,Eastern,Central,Chicago,Illinois
+2019,69,DEN,Nuggets,H,115,104,Western,Northwest,Nashville,Tennessee
+2019,70,DET,Pistons,H,113,92,Eastern,Central,Nashville,Tennessee
+2019,71,CLE,Cavaliers,H,104,91,Eastern,Central,Nashville,Tennessee
+2019,72,MIN,Timberwolves,A,117,110,Western,Northwest,Minneapolis,Minnesota
+2019,73,MIL,Bucks,A,111,116,Western,Northwest,Milwaukee,Wisconsin
+2019,74,MEM,Grizzlies,A,121,104,Western,Southwest,Memphis,Tennessee
+2019,75,CLE,Cavaliers,A,105,121,Eastern,Central,Cleveland,Ohio
+2019,76,HOU,Rockets,A,111,138,Western,Southwest,Houston,Texas
+2019,77,VCR,Ravens,H,113,121,Western,Northwest,Nashville,Tennessee
+2019,78,SAN,Spurs,A,102,118,Western,Southwest,San Antonio,Texas
+2019,79,ORL,Magic,A,116,96,Eastern,Southeast,Orlando,Florida
+2019,80,PHX,Suns,A,109,107,Western,Pacific,Phoenix,Arizona
+2019,81,BAL,Barons,H,105,82,Eastern,Atlantic,Nashville,Tennessee
+2019,82,DET,Pistons,A,93,103,Eastern,Central,Detroit,Michigan
