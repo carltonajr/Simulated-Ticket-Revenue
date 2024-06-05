@@ -1,0 +1,83 @@
+season,game,opp_id,opp_name,home_away,talons_score,opp_score,conference,division,city,state
+2023,1,IND,Pacers,H,110,105,Eastern,Central,Nashville,Tennessee
+2023,2,MIN,Timberwolves,A,115,106,Western,Northwest,Minnenapolis,Minnesota
+2023,3,DAL,Mavericks,A,117,113,Western,Southwest,Dallas,Texas
+2023,4,VIR,Storm,H,125,100,Eastern,Southeast,Nashville,Tennessee
+2023,5,PHI,76ers,A,110,111,Eastern,Atlantic,Philadelphia,Pennsylvania
+2023,6,UTA,Jazz,H,114,107,Western,Pacific,Nashville,Tennessee
+2023,7,NOLA,Pelicans,H,128,99,Western,Southwest,Nashville,Tennessee
+2023,8,UTA,Jazz,A,110,101,Western,Pacific,Salt Lake City,Utah
+2023,9,DET,Pistons,H,120,92,Eastern,Central,Nashville,Tennessee
+2023,10,DEN,Nuggets,H,115,103,Western,Northwest,Nashville,Tennessee
+2023,11,CHI,Bulls,H,142,90,Eastern,Central,Nashville,Tennessee
+2023,12,BKN,Nets,A,116,106,Eastern,Atlantic,Brooklyn,New York
+2023,13,VIR,Storm,A,121,116,Eastern,Southeast,Richmond,Virginia
+2023,14,POR,Blazers,A,109,93,Western,Northwest,Portland,Oregon
+2023,15,SAC,Kings,H,114,105,Western,Pacific,Nashville,Tennessee
+2023,16,SAC,Kings,A,127,135,Western,Pacific,Sacramento,California
+2023,17,CHA,Hornets,A,110,90,Eastern,Southeast,Charlotte,North Carolina
+2023,18,BAL,Barons,H,102,73,Eastern,Atlantic,Nashville,Tennessee
+2023,19,OKC,Thunder,H,115,111,Western,Southwest,Nashville,Tennessee
+2023,20,PHI,76ers,H,116,104,Eastern,Atlantic,Nashville,Tennessee
+2023,21,LOU,Liberty,A,99,106,Eastern,Central,Louisville,Kentucky
+2023,22,MIN,Timberwolves,H,122,91,Western,Northwest,Nashville,Tennessee
+2023,23,CLE,Cavaliers,A,100,124,Eastern,Central,Cleveland,Ohio
+2023,24,LAL,Lakers,H,123,90,Western,Pacific,Nashville,Tennessee
+2023,25,MIL,Bucks,A,100,98,Western,Northwest,Milwaukee,Wisconsin
+2023,26,DET,Pistons,H,111,102,Eastern,Central,Nashville,Tennessee
+2023,27,SAN,Spurs,A,116,102,Western,Southwest,San Antonio,Texas
+2023,28,IND,Pacers,H,120,90,Eastern,Central,Nashville,Tennessee
+2023,29,DAL,Mavericks,H,129,98,Western,Southwest,Nashville,Tennessee
+2023,30,LOU,Liberty,H,108,117,Eastern,Central,Nashville,Tennessee
+2023,31,CLE,Cavaliers,H,131,101,Eastern,Central,Nashville,Tennessee
+2023,32,CHI,Bulls,A,129,107,Eastern,Central,Chicago,Illinois
+2023,33,STL,Sound,H,109,85,Western,Northwest,Nashville,Tennessee
+2023,34,ATL,Hawks,H,104,100,Eastern,Southeast,Nashville,Tennessee
+2023,35,ATL,Hawks,A,128,114,Eastern,Southeast,Atlanta,Georgia
+2023,36,DET,Pistons,A,116,103,Eastern,Central,Detroit,Michigan
+2023,37,PHX,Suns,A,111,94,Western,Pacific,Phoenix,Arizona
+2023,38,MEM,Grizzlies,H,99,123,Western,Southwest,Nashville,Tennessee
+2023,39,LOU,Liberty,A,124,117,Eastern,Central,Louisville,Kentucky
+2023,40,PHI,76ers,A,121,108,Eastern,Atlantic,Philadelphia,Pennsylvania
+2023,41,HOU,Rockets,H,113,99,Western,Southwest,Nashville,Tennessee
+2023,42,BOS,Celtics,H,147,86,Eastern,Atlantic,Nashville,Tennessee
+2023,43,BKN,Nets,H,120,90,Eastern,Atlantic,Nashville,Tennessee
+2023,44,LAC,Clippers,A,108,91,Western,Pacific,Los Angeles,California
+2023,45,IND,Pacers,A,104,112,Eastern,Central,Indianapolis,Indiana
+2023,46,BOS,Celtics,A,109,134,Eastern,Atlantic,Boston,Massachusetts
+2023,47,VCR,Ravens,H,133,107,Western,Northwest,Nashville,Tennessee
+2023,48,MIA,Heat,H,134,88,Eastern,Southeast,Nashville,Tennessee
+2023,49,MIA,Heat,A,115,105,Eastern,Southeast,Miami,Florida
+2023,50,ORL,Magic,A,98,113,Eastern,Southeast,Orlando,Florida
+2023,51,DET,Pistons,A,129,131,Eastern,Central,Detroit,Michigan
+2023,52,WAS,Wizards,H,120,118,Eastern,Southeast,Nashville,Tennessee
+2023,53,CHI,Bulls,A,123,113,Eastern,Central,Chicago,Illinois
+2023,54,WAS,Wizards,A,115,116,Eastern,Southeast,Washington,District of Columbia
+2023,55,NYK,Knicks,H,134,128,Eastern,Atlantic,Nashville,Tennessee
+2023,56,ATL,Hawks,H,134,111,Eastern,Southeast,Nashville,Tennessee
+2023,57,CLE,Cavaliers,H,116,104,Eastern,Central,Nashville,Tennessee
+2023,58,CHI,Bulls,H,125,101,Eastern,Central,Nashville,Tennessee
+2023,59,NYK,Knicks,A,142,132,Eastern,Atlantic,New York City,New York
+2023,60,IND,Pacers,A,118,122,Eastern,Central,Indianapolis,Indiana
+2023,61,GSW,Warriors,H,124,91,Western,Pacific,Nashville,Tennessee
+2023,62,GSW,Warriors,A,114,91,Western,Pacific,San Francisco,California
+2023,63,VCR,Ravens,A,109,98,Western,Northwest,Vancouver,Canada
+2023,64,TOR,Raptors,A,106,112,Eastern,Atlantic,Toronto,Canada
+2023,65,LAL,Lakers,A,121,91,Western,Pacific,Los Angeles,California
+2023,66,TOR,Raptors,H,114,107,Eastern,Atlantic,Nashville,Tennessee
+2023,67,MEM,Grizzlies,A,120,97,Western,Southwest,Memphis,Tennessee
+2023,68,DEN,Nuggets,A,134,89,Western,Northwest,Denver,Colorado
+2023,69,MIL,Bucks,H,115,105,Western,Northwest,Nashville,Tennessee
+2023,70,CLE,Cavaliers,A,110,121,Eastern,Central,Cleveland,Ohio
+2023,71,ORL,Magic,H,121,99,Eastern,Southeast,Nashville,Tennessee
+2023,72,LAC,Clippers,H,115,97,Western,Pacific,Nashville,Tennessee
+2023,73,PHX,Suns,H,139,107,Western,Pacific,Nashville,Tennessee
+2023,74,OKC,Thunder,A,115,100,Western,Southwest,Oklahoma City,Oklahoma
+2023,75,CHA,Hornets,H,119,113,Eastern,Southeast,Nashville,Tennessee
+2023,76,NOLA,Pelicans,A,93,86,Western,Southwest,New Orleans,Louisiana
+2023,77,BAL,Barons,A,107,91,Eastern,Atlantic,Baltimore,Maryland
+2023,78,LOU,Liberty,A,123,100,Eastern,Central,Louisville,Kentucky
+2023,79,SAN,Spurs,H,102,97,Western,Southwest,Nashville,Tennessee
+2023,80,HOU,Rockets,A,114,113,Western,Southwest,Houston,Texas
+2023,81,POR,Blazers,H,123,106,Western,Northwest,Nashville,Tennessee
+2023,82,STL,Sound,A,136,117,Western,Northwest,St. Louis,Missouri

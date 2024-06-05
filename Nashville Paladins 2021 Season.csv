@@ -1,0 +1,83 @@
+season,game,opp_id,opp_name,home_away,talons_score,opp_score,conference,division,city,state
+2021,1,CHI,Bulls,H,105,121,Eastern,Central,Chicago,Illinois
+2021,2,LOU,Liberty,H,99,107,Eastern,Central,Nashville,Tennessee
+2021,3,CHI,Bulls,H,90,119,Eastern,Central,Nashville,Tennessee
+2021,4,ATL,Hawks,A,109,94,Eastern,Southeast,Atlanta,Georgia
+2021,5,LAC,Clippers,H,101,93,Western,Pacific,Nashville,Tennessee
+2021,6,CHI,Bulls,A,140,120,Eastern,Central,Chicago,Illinois
+2021,7,LOU,Liberty,A,118,109,Eastern,Central,Louisville,Kentucky
+2021,8,STL,Sound,A,114,96,Western,Northwest,St. Louis,Missouri
+2021,9,PHX,Suns,H,116,97,Western,Pacific,Nashville,Tennessee
+2021,10,DEN,Nuggets,H,132,90,Western,Northwest,Nashville,Tennessee
+2021,11,LAC,Clippers,A,140,107,Western,Pacific,Los Angeles,California
+2021,12,CLE,Cavaliers,H,124,112,Eastern,Central,Nashville,Tennessee
+2021,13,WAS,Wizards,H,102,94,Eastern,Southeast,Nashville,Tennessee
+2021,14,TOR,Raptors,H,99,108,Eastern,Atlantic,Nashville,Tennessee
+2021,15,BKN,Nets,H,110,97,Eastern,Atlantic,Nashville,Tennessee
+2021,16,IND,Pacers,H,123,96,Eastern,Central,Nashville,Tennessee
+2021,17,DET,Pistons,H,124,100,Eastern,Central,Nashville,Tennessee
+2021,18,DAL,Mavericks,A,107,91,Western,Southwest,Dallas,Texas
+2021,19,BKN,Nets,A,115,125,Eastern,Atlantic,Brooklyn,New York
+2021,20,OKC,Thunder,A,101,97,Western,Southwest,Oklahoma City,Oklahoma
+2021,21,CHA,Hornets,A,114,112,Eastern,Southeast,Charlotte,North Carolina
+2021,22,MEM,Grizzlies,A,102,69,Western,Southwest,Memphis,Tennessee
+2021,23,MIA,Heat,A,125,105,Eastern,Southeast,Miami,Florida
+2021,24,SAC,Kings,H,120,101,Western,Pacific,Nashville,Tennessee
+2021,25,LAL,Lakers,H,116,105,Western,Pacific,Nashville,Tennessee
+2021,26,HOU,Rockets,H,134,114,Western,Southwest,Nashville,Tennessee
+2021,27,BKN,Nets,A,120,106,Eastern,Atlantic,Brooklyn,New York
+2021,28,MIL,Bucks,A,87,102,Western,Northwest,Milwaukee,Wisconsin
+2021,29,VCR,Ravens,H,127,94,Western,Northwest,Nashville,Tennessee
+2021,30,BAL,Barons,H,110,128,Eastern,Atlantic,Nashville,Tennessee
+2021,31,DET,Pistons,A,129,119,Eastern,Central,Detroit,Michigan
+2021,32,POR,Blazers,H,129,126,Western,Northwest,Nashville,Tennessee
+2021,33,SAC,Kings,A,98,123,Western,Pacific,Sacramento,California
+2021,34,GSW,Warriors,H,136,94,Western,Pacific,Nashville,Tennessee
+2021,35,CLE,Cavaliers,A,104,120,Eastern,Central,Cleveland,Ohio
+2021,36,IND,Pacers,A,128,126,Eastern,Central,Indianapolis,Indiana
+2021,37,MEM,Grizzlies,H,141,88,Western,Southwest,Nashville,Tennessee
+2021,38,MIN,Timberwolves,A,91,98,Western,Northwest,Minnenapolis,Minnesota
+2021,39,LOU,Liberty,A,107,101,Eastern,Central,Louisville,Kentucky
+2021,40,HOU,Rockets,A,131,122,Western,Southwest,Houston,Texas
+2021,41,UTA,Jazz,H,140,91,Western,Pacific,Nashville,Tennessee
+2021,42,UTA,Jazz,A,112,106,Western,Pacific,Salt Lake City,Utah
+2021,43,MIL,Bucks,H,98,118,Western,Northwest,Nashville,Tennessee
+2021,44,STL,Sound,H,119,83,Western,Northwest,Nashville,Tennessee
+2021,45,DET,Pistons,A,113,81,Eastern,Central,Detroit,Michigan
+2021,46,PHI,76ers,A,157,156,Eastern,Atlantic,Philadelphia,Pennsylvania
+2021,47,DEN,Nuggets,A,136,105,Western,Northwest,Denver,Colorado
+2021,48,NOLA,Pelicans,A,129,103,Western,Southwest,New Orleans,Louisiana
+2021,49,BAL,Barons,A,124,105,Eastern,Atlantic,Baltimore,Maryland
+2021,50,PHI,76ers,H,157,124,Eastern,Atlantic,Nashville,Tennessee
+2021,51,LOU,Liberty,H,141,129,Eastern,Central,Nashville,Tennessee
+2021,52,VIR,Storm,A,114,119,Eastern,Southeast,Richmond,Virginia
+2021,53,ORL,Magic,H,141,119,Eastern,Southeast,Nashville,Tennessee
+2021,54,CLE,Cavaliers,H,129,118,Eastern,Central,Nashville,Tennessee
+2021,55,PHX,Suns,A,139,107,Western,Pacific,Phoenix,Arizona
+2021,56,WAS,Wizards,A,105,117,Eastern,Southeast,Washington,District of Columbia
+2021,57,POR,Blazers,A,118,100,Western,Northwest,Portland,Oregon
+2021,58,GSW,Warriors,A,114,100,Western,Pacific,San Francisco,California
+2021,59,IND,Pacers,H,122,137,Eastern,Central,Nashville,Tennessee
+2021,60,TOR,Raptors,A,115,94,Eastern,Atlantic,Toronto,Canada
+2021,61,VCR,Ravens,A,117,91,Western,Northwest,Vancouver,Canada
+2021,62,SAN,Spurs,A,105,118,Western,Southwest,San Antonio,Texas
+2021,63,NOLA,Pelicans,H,131,120,Western,Southwest,Nashville,Tennessee
+2021,64,CHA,Hornets,H,160,102,Eastern,Southeast,Nashville,Tennessee
+2021,65,ORL,Magic,A,115,122,Eastern,Southeast,Orlando,Florida
+2021,66,BOS,Celtics,H,116,111,Eastern,Atlantic,Nashville,Tennessee
+2021,67,CLE,Cavaliers,A,134,125,Eastern,Central,Cleveland,Ohio
+2021,68,SAN,Spurs,H,102,131,Western,Southwest,Nashville,Tennessee
+2021,69,ATL,Hawks,H,126,116,Eastern,Southeast,Nashville,Tennessee
+2021,70,MIN,Timberwolves,H,107,91,Western,Northwest,Nashville,Tennessee
+2021,71,BOS,Celtics,A,110,106,Eastern,Atlantic,Boston,Massachusetts
+2021,72,LAL,Lakers,A,93,129,Western,Pacific,Los Angeles,California
+2021,73,OKC,Thunder,H,116,99,Western,Southwest,Nashville,Tennessee
+2021,74,NYK,Knicks,A,131,123,Eastern,Atlantic,New York City,New York
+2021,75,NYK,Knicks,H,136,115,Eastern,Atlantic,Nashville,Tennessee
+2021,76,DET,Pistons,H,124,116,Eastern,Central,Nashville,Tennessee
+2021,77,MIA,Heat,H,112,92,Eastern,Southeast,Nashville,Tennessee
+2021,78,VIR,Storm,H,128,99,Eastern,Southeast,Nashville,Tennessee
+2021,79,CHA,Hornets,H,128,116,Eastern,Southeast,Nashville,Tennessee
+2021,80,CHI,Bulls,A,142,110,Eastern,Central,Chicago,Illinois
+2021,81,DAL,Mavericks,H,128,127,Western,Southwest,Nashville,Tennessee
+2021,82,IND,Pacers,A,109,123,Eastern,Central,Indianapolis,Indiana
