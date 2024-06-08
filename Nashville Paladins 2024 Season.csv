@@ -1,0 +1,83 @@
+season,game,opp_id,opp_name,home_away,talons_score,opp_score,conference,division,city,state
+2024,1,BOS,Celtics,H,137,104,Eastern,Atlantic,Nashville,Tennessee
+2024,2,LOU,Liberty,A,111,92,Eastern,Central,Louisville,Kentucky
+2024,3,DAL,Mavericks,H,141,110,Western,Southwest,Nashville,Tennessee
+2024,4,OKC,Thunder,A,119,124,Western,Southwest,Oklahoma City,Oklahoma
+2024,5,LOU,Liberty,A,92,100,Eastern,Central,Louisville,Kentucky
+2024,6,LAC,Clippers,A,120,97,Western,Pacific,Los Angeles,California
+2024,7,GSW,Warriors,A,110,108,Western,Pacific,San Francisco,California
+2024,8,CHA,Hornets,H,100,102,Eastern,Southeast,Nashville,Tennessee
+2024,9,HOU,Rockets,H,118,97,Western,Southwest,Nashville,Tennessee
+2024,10,CLE,Cavaliers,A,111,91,Eastern,Central,Cleveland,Ohio
+2024,11,CHI,Bulls,A,109,113,Eastern,Central,Chicago,Illinois
+2024,12,UTA,Jazz,H,106,102,Western,Pacific,Nashville,Tennessee
+2024,13,TOR,Raptors,A,139,83,Eastern,Atlantic,Toronto,Canada
+2024,14,VIR,Storm,A,110,91,Eastern,Southeast,Richmond,Virginia
+2024,15,LAL,Lakers,A,112,85,Western,Pacific,Los Angeles,California
+2024,16,LAC,Clippers,H,112,101,Western,Pacific,Nashville,Tennessee
+2024,17,DEN,Nuggets,H,113,116,Western,Northwest,Nashville,Tennessee
+2024,18,DET,Pistons,A,103,96,Eastern,Central,Detroit,Michigan
+2024,19,CHI,Bulls,H,117,122,Eastern,Central,Nashville,Tennessee
+2024,20,SAN,Spurs,A,118,93,Western,Southwest,San Antonio,Texas
+2024,21,MEM,Grizzlies,H,130,107,Western,Southwest,Nashville,Tennessee
+2024,22,TOR,Raptors,H,107,101,Eastern,Atlantic,Nashville,Tennessee
+2024,23,HOU,Rockets,A,132,102,Western,Southwest,Houston,Texas
+2024,24,SAN,Spurs,H,114,95,Western,Southwest,Nashville,Tennessee
+2024,25,IND,Pacers,A,121,102,Eastern,Central,Indianapolis,Indiana
+2024,26,DET,Pistons,H,112,93,Eastern,Central,Nashville,Tennessee
+2024,27,MIL,Bucks,H,151,140,Western,Northwest,Nashville,Tennessee
+2024,28,ATL,Hawks,H,129,103,Eastern,Southeast,Nashville,Tennessee
+2024,29,STL,Sound,H,129,92,Western,Northwest,Nashville,Tennessee
+2024,30,IND,Pacers,A,103,106,Eastern,Central,Indianapolis,Indiana
+2024,31,MEM,Grizzlies,A,111,105,Western,Southwest,Memphis,Tennessee
+2024,32,CLE,Cavaliers,H,103,116,Eastern,Central,Nashville,Tennessee
+2024,33,DEN,Nuggets,A,115,118,Western,Northwest,Denver,Colorado
+2024,34,BKN,Nets,A,104,89,Eastern,Atlantic,Brooklyn,New York
+2024,35,GSW,Warriors,H,125,119,Western,Pacific,Nashville,Tennessee
+2024,36,MIL,Bucks,A,115,103,Western,Northwest,Milwaukee,Wisconsin
+2024,37,SAC,Kings,H,128,94,Western,Pacific,Nashville,Tennessee
+2024,38,BOS,Celtics,A,108,114,Eastern,Atlantic,Boston,Massachusetts
+2024,39,VCR,Ravens,H,109,100,Western,Northwest,Nashville,Tennessee
+2024,40,LAL,Lakers,H,115,107,Western,Pacific,Nashville,Tennessee
+2024,41,PHX,Suns,H,116,102,Western,Pacific,Nashville,Tennessee
+2024,42,UTA,Jazz,A,106,91,Western,Pacific,Salt Lake City,Utah
+2024,43,OKC,Thunder,H,119,105,Western,Southwest,Nashville,Tennessee
+2024,44,WAS,Wizards,A,129,99,Eastern,Southeast,Washington,District of Columbia
+2024,45,ATL,Hawks,A,112,88,Eastern,Southeast,Atlanta,Georgia
+2024,46,PHI,76ers,H,128,127,Eastern,Atlantic,Nashville,Tennessee
+2024,47,STL,Sound,A,127,96,Western,Northwest,St. Louis,Missouri
+2024,48,MIN,Timberwolves,H,123,76,Western,Northwest,Nashville,Tennessee
+2024,49,BAL,Barons,A,117,131,Eastern,Atlantic,Baltimore,Maryland
+2024,50,BAL,Barons,A,121,110,Eastern,Atlantic,Baltimore,Maryland
+2024,51,DET,Pistons,H,147,112,Eastern,Central,Nashville,Tennessee
+2024,52,MIA,Heat,A,103,96,Eastern,Southeast,Miami,Florida
+2024,53,IND,Pacers,H,117,101,Eastern,Central,Nashville,Tennessee
+2024,54,WAS,Wizards,H,121,117,Eastern,Southeast,Nashville,Tennessee
+2024,55,CLE,Cavaliers,H,123,96,Eastern,Central,Nashville,Tennessee
+2024,56,CHI,Bulls,H,124,97,Eastern,Central,Nashville,Tennessee
+2024,57,IND,Pacers,H,100,101,Eastern,Central,Nashville,Tennessee
+2024,58,ORL,Magic,A,129,127,Eastern,Southeast,Orlando,Florida
+2024,59,PHI,76ers,A,118,121,Eastern,Atlantic,Philadelphia,Pennsylvania
+2024,60,NYK,Knicks,H,127,90,Eastern,Atlantic,Nashville,Tennessee
+2024,61,NYK,Knicks,A,106,92,Eastern,Atlantic,New York City,New York
+2024,62,CHI,Bulls,A,125,104,Eastern,Central,Chicago,Illinois
+2024,63,POR,Blazers,H,110,89,Western,Northwest,Nashville,Tennessee
+2024,64,CHA,Hornets,A,108,105,Eastern,Southeast,Charlotte,North Carolina
+2024,65,CLE,Cavaliers,A,129,107,Eastern,Central,Cleveland,Ohio
+2024,66,LOU,Liberty,H,120,109,Eastern,Central,Nashville,Tennessee
+2024,67,ORL,Magic,H,125,111,Eastern,Southeast,Nashville,Tennessee
+2024,68,POR,Blazers,A,112,108,Western,Northwest,Portland,Oregon
+2024,69,VIR,Storm,H,97,82,Eastern,Southeast,Nashville,Tennessee
+2024,70,PHX,Suns,A,114,88,Western,Pacific,Phoenix,Arizona
+2024,71,VIR,Storm,H,133,101,Eastern,Southeast,Nashville,Tennessee
+2024,72,SAC,Kings,A,123,110,Western,Pacific,Sacramento,California
+2024,73,BKN,Nets,H,129,82,Eastern,Atlantic,Nashville,Tennessee
+2024,74,NOLA,Pelicans,A,114,111,Western,Southwest,New Orleans,Louisiana
+2024,75,MIN,Timberwolves,A,123,92,Western,Northwest,Minnenapolis,Minnesota
+2024,76,VCR,Ravens,A,98,134,Western,Northwest,Vancouver,Canada
+2024,77,NOLA,Pelicans,H,111,90,Western,Southwest,Nashville,Tennessee
+2024,78,MIA,Heat,H,142,91,Eastern,Southeast,Nashville,Tennessee
+2024,79,BAL,Barons,H,106,109,Eastern,Atlantic,Nashville,Tennessee
+2024,80,DET,Pistons,A,125,110,Eastern,Central,Detroit,Michigan
+2024,81,LOU,Liberty,H,139,81,Eastern,Central,Nashville,Tennessee
+2024,82,DAL,Mavericks,A,126,101,Western,Southwest,Dallas,Texas
