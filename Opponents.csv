@@ -1,0 +1,38 @@
+opponent,id,city,state,conference,division
+ATL Hawks,ATL,Atlanta,Georgia,Eastern,Southeast
+BAL Barons,BAL,Baltimore,Maryland,Eastern,Atlantic
+BKN Nets,BKN,Brooklyn,New York,Eastern,Atlantic
+BOS Celtics,BOS,Boston,Massachusetts,Eastern,Atlantic
+CHA Hornets,CHA,Charlotte,North Carolina,Eastern,Southeast
+CHI Bulls,CHI,Chicago,Illinois,Eastern,Central
+CLE Cavaliers,CLE,Cleveland,Ohio,Eastern,Central
+DAL Mavericks,DAL,Dallas,Texas,Western,Southwest
+DEN Nuggets,DEN,Denver,Colorado,Western,Northwest
+DET Pistons,DET,Detroit,Michigan,Eastern,Central
+GS Warriors,GSW,San Francisco,California,Western,Pacific
+HOU Rockets,HOU,Houston,Texas,Western,Southwest
+IND Pacers,IND,Indianapolis,Indiana,Eastern,Central
+KC Knights,KCK,Kansas City,Missouri,Western,Northwest
+LAC Clippers,LAC,Los Angeles,California,Western,Pacific
+LAL Lakers,LAL,Los Angeles,California,Western,Pacific
+LOU Liberty,LOU,Louisville,Kentucky,Eastern,Central
+MEM Grizzlies,MEM,Memphis,Tennessee,Western,Southwest
+MIA Heat,MIA,Miami,Florida,Eastern,Southeast
+MIL Bucks,MIL,Milwaukee,Wisconsin,Western,Northwest
+MIN Timberwolves,MIN,Minnenapolis,Minnesota,Western,Northwest
+NAS Stars,NAS,Nashville,Tennessee,Eastern,Central
+NOLA Pelicans,NOLA,New Orleans,Louisiana,Western,Southwest
+NY Knicks,NYK,New York City,New York,Eastern,Atlantic
+OKC Thunder,OKC,Oklahoma City,Oklahoma,Western,Southwest
+ORL Magic,ORL,Orlando,Florida,Eastern,Southeast
+PHI 76ers,PHI,Philadelphia,Pennsylvania,Eastern,Atlantic
+PHX Suns,PHX,Phoenix,Arizona,Western,Pacific
+POR Blazers,POR,Portland,Oregon,Western,Northwest
+SAC Kings,SAC,Sacramento,California,Western,Pacific
+SAN Spurs,SAN,San Antonio,Texas,Western,Southwest
+STL Sound,STL,St. Louis,Missouri,Western,Northwest
+TOR Raptors,TOR,Toronto,Canada,Eastern,Central
+UTA Jazz,UTA,Salt Lake City,Utah,Western,Pacific
+VCR Ravens,VCR,Vancouver,Canada,Western,Northwest
+VIR Storm,VIR,Virginia Beach,Virginia,Eastern,Southeast
+WAS Wizards,WAS,Washington,District of Columbia,Eastern,Southeast
