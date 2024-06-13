@@ -1,0 +1,83 @@
+season,game,opp_id,opp_name,home_away,talons_score,opp_score,conference,division,city,state
+2025,1,NOLA,Pelicans,H,131,94,Western,Southwest,Nashville,Tennessee
+2025,2,LOU,Liberty,H,124,88,Eastern,Central,Nashville,Tennessee
+2025,3,OKC,Thunder,H,112,101,Western,Southwest,Nashville,Tennessee
+2025,4,BKN,Nets,A,120,105,Eastern,Atlantic,Brooklyn,New York
+2025,5,DET,Pistons,H,123,121,Eastern,Central,Nashville,Tennessee
+2025,6,UTA,Jazz,H,112,110,Western,Pacific,Nashville,Tennessee
+2025,7,GSW,Warriors,A,120,93,Western,Pacific,San Francisco,California
+2025,8,OKC,Thunder,A,122,102,Western,Southwest,Oklahoma City,Oklahoma
+2025,9,HOU,Rockets,H,99,122,Western,Southwest,Nashville,Tennessee
+2025,10,VCR,Ravens,A,132,128,Western,Northwest,Vancouver,Canada
+2025,11,VIR,Storm,H,109,96,Eastern,Southeast,Nashville,Tennessee
+2025,12,NYK,Knicks,H,125,67,Eastern,Atlantic,Nashville,Tennessee
+2025,13,LAL,Lakers,A,114,106,Western,Pacific,Los Angeles,California
+2025,14,LAC,Clippers,H,123,97,Western,Pacific,Nashville,Tennessee
+2025,15,WAS,Wizards,A,110,92,Eastern,Southeast,Washington,District of Columbia
+2025,16,PHI,76ers,H,112,127,Eastern,Atlantic,Nashville,Tennessee
+2025,17,MEM,Grizzlies,A,100,108,Western,Southwest,Memphis,Tennessee
+2025,18,MIA,Heat,A,126,107,Eastern,Southeast,Miami,Florida
+2025,19,LAC,Clippers,A,132,106,Western,Pacific,Los Angeles,California
+2025,20,BOS,Celtics,H,117,110,Eastern,Atlantic,Nashville,Tennessee
+2025,21,CHI,Bulls,A,96,89,Eastern,Central,Chicago,Illinois
+2025,22,CHA,Hornets,H,124,110,Eastern,Southeast,Nashville,Tennessee
+2025,23,BAL,Barons,H,124,97,Eastern,Atlantic,Nashville,Tennessee
+2025,24,NYK,Knicks,A,130,97,Eastern,Atlantic,New York City,New York
+2025,25,CHI,Bulls,H,129,105,Eastern,Central,Nashville,Tennessee
+2025,26,LAL,Lakers,H,119,102,Western,Pacific,Nashville,Tennessee
+2025,27,MEM,Grizzlies,H,121,102,Western,Southwest,Nashville,Tennessee
+2025,28,UTA,Jazz,A,117,97,Western,Pacific,Salt Lake City,Utah
+2025,29,CHI,Bulls,H,97,116,Eastern,Central,Nashville,Tennessee
+2025,30,DET,Pistons,A,94,108,Eastern,Central,Detroit,Michigan
+2025,31,DET,Pistons,H,119,111,Eastern,Central,Nashville,Tennessee
+2025,32,SAN,Spurs,H,110,104,Western,Southwest,Nashville,Tennessee
+2025,33,POR,Blazers,A,100,97,Western,Northwest,Portland,Oregon
+2025,34,CLE,Cavaliers,H,100,87,Eastern,Central,Nashville,Tennessee
+2025,35,CLE,Cavaliers,A,119,98,Eastern,Central,Cleveland,Ohio
+2025,36,CHA,Hornets,A,89,94,Eastern,Southeast,Charlotte,North Carolina
+2025,37,BKN,Nets,H,123,85,Eastern,Atlantic,Nashville,Tennessee
+2025,38,TOR,Raptors,H,132,115,Eastern,Atlantic,Nashville,Tennessee
+2025,39,TOR,Raptors,A,112,130,Eastern,Atlantic,Toronto,Canada
+2025,40,BAL,Barons,A,131,79,Eastern,Atlantic,Baltimore,Maryland
+2025,41,SAC,Kings,H,113,82,Western,Pacific,Nashville,Tennessee
+2025,42,MIA,Heat,H,140,83,Eastern,Southeast,Nashville,Tennessee
+2025,43,WAS,Wizards,H,107,104,Eastern,Southeast,Nashville,Tennessee
+2025,44,VCR,Ravens,H,123,131,Western,Northwest,Nashville,Tennessee
+2025,45,IND,Pacers,A,107,106,Eastern,Central,Indianapolis,Indiana
+2025,46,PHX,Suns,A,108,107,Western,Pacific,Phoenix,Arizona
+2025,47,DET,Pistons,A,116,125,Eastern,Central,Detroit,Michigan
+2025,48,IND,Pacers,H,133,107,Eastern,Central,Nashville,Tennessee
+2025,49,DEN,Nuggets,A,124,118,Western,Northwest,Denver,Colorado
+2025,50,STL,Sound,H,136,83,Western,Northwest,Nashville,Tennessee
+2025,51,PHI,76ers,A,93,92,Eastern,Atlantic,Philadelphia,Pennsylvania
+2025,52,ORL,Magic,A,109,100,Eastern,Southeast,Orlando,Florida
+2025,53,CLE,Cavaliers,A,92,108,Eastern,Central,Cleveland,Ohio
+2025,54,CLE,Cavaliers,H,115,117,Eastern,Central,Nashville,Tennessee
+2025,55,MIN,Timberwolves,H,129,107,Western,Northwest,Nashville,Tennessee
+2025,56,MIN,Timberwolves,A,139,109,Western,Northwest,Minnenapolis,Minnesota
+2025,57,ORL,Magic,H,109,108,Eastern,Southeast,Nashville,Tennessee
+2025,58,TOR,Raptors,A,119,123,Eastern,Atlantic,Toronto,Canada
+2025,59,POR,Blazers,H,132,77,Western,Northwest,Nashville,Tennessee
+2025,60,LOU,Liberty,H,117,92,Eastern,Central,Nashville,Tennessee
+2025,61,LOU,Liberty,A,103,107,Eastern,Central,Louisville,Kentucky
+2025,62,SAC,Kings,A,117,97,Western,Pacific,Sacramento,California
+2025,63,ATL,Hawks,A,131,113,Eastern,Southeast,Atlanta,Georgia
+2025,64,LOU,Liberty,A,104,101,Eastern,Central,Louisville,Kentucky
+2025,65,IND,Pacers,A,116,92,Eastern,Central,Indianapolis,Indiana
+2025,66,PHX,Suns,H,117,105,Western,Pacific,Nashville,Tennessee
+2025,67,VIR,Storm,A,124,81,Eastern,Southeast,Richmond,Virginia
+2025,68,MIL,Bucks,A,126,120,Western,Northwest,Milwaukee,Wisconsin
+2025,69,DEN,Nuggets,H,120,95,Western,Northwest,Nashville,Tennessee
+2025,70,BOS,Celtics,A,133,109,Eastern,Atlantic,Boston,Massachusetts
+2025,71,ATL,Hawks,H,117,92,Eastern,Southeast,Nashville,Tennessee
+2025,72,CHI,Bulls,A,122,97,Eastern,Central,Chicago,Illinois
+2025,73,DAL,Mavericks,A,101,106,Western,Southwest,Dallas,Texas
+2025,74,WAS,Wizards,H,124,70,Eastern,Southeast,Nashville,Tennessee
+2025,75,HOU,Rockets,A,124,102,Western,Southwest,Houston,Texas
+2025,76,IND,Pacers,H,113,95,Eastern,Central,Nashville,Tennessee
+2025,77,SAN,Spurs,A,129,103,Western,Southwest,San Antonio,Texas
+2025,78,DAL,Mavericks,H,118,93,Western,Southwest,Nashville,Tennessee
+2025,79,GSW,Warriors,H,125,88,Western,Pacific,Nashville,Tennessee
+2025,80,NOLA,Pelicans,A,119,90,Western,Southwest,New Orleans,Louisiana
+2025,81,STL,Sound,A,111,103,Western,Northwest,St. Louis,Missouri
+2025,82,MIL,Bucks,H,119,98,Western,Northwest,Nashville,Tennessee
