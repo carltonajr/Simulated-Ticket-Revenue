@@ -55,7 +55,7 @@ authenticate()
 def new_season_ingestion():
     # Read the Opponents CSV
     opponents = pd.read_csv(
-        f"C:/Users/E4D User/Documents/GitHub/Original/Nashville Paladins Data/extra_files/Opponents.csv")
+        f"")
     # Update the 'opponent' column to string values
     opponents['opponent'] = opponents['opponent'].astype('string')
     # Split the values in the 'opponent' column, creating a new column
@@ -73,8 +73,7 @@ def new_season_ingestion():
     columns = ['season', 'game', 'opp_id', 'opp_name', 'home_away', 'talons_score', 'opp_score', 'conference',
                'division', 'city', 'state']
     # Data Path
-    data_path = f"C:/Users/E4D User/Documents/GitHub/Original/Nashville Paladins Data/" \
-                f"Nashville Paladins 2019 Season.csv"
+    data_path = f""
     # "DataFrame that contains the most current data file"
     current_data = pd.read_csv(data_path)
     # Pulls the last row from 'current_data'
@@ -90,8 +89,7 @@ def new_season_ingestion():
             last_season = int(current_data['season'].unique())
             season = last_season + 1
             print(f"All 82 games for the {last_season} season have been added. Loading data for the {season} season.")
-            data_path = f"C:/Users/E4D User/Documents/GitHub/Original/Nashville Paladins Data/" \
-                        f"Nashville Paladins {season} Season.csv"
+            data_path = f""
             # "Pulls the next most current data file based on the season
             # continue process until 'last_game_num' is not 82"
             current_data = pd.read_csv(data_path)
@@ -245,8 +243,7 @@ while True:
               f"Please verify the season before continuing.\n")
 
 
-path = f"C:/Users/E4D User/Documents/GitHub/Original/Nashville Paladins Data/Nashville Paladins " \
-       f"{year} Season.csv"
+path = f""
 
 
 # Initialize the GUI should the user want to see the complete additions
