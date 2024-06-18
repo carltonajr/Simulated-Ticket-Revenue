@@ -1,0 +1,83 @@
+season,game,opp_id,opp_name,home_away,talons_score,opp_score,conference,division,city,state
+2027,1,MIL,Bucks,H,107,112,Western,Northwest,Milwaukee,Wisconsin
+2027,2,STL,Sound,A,130,122,Western,Northwest,St. Louis,Missouri
+2027,3,VIR,Storm,A,144,105,Eastern,Southeast,Richmond,Virginia
+2027,4,MEM,Grizzlies,H,121,101,Western,Southwest,Nashville,Tennessee
+2027,5,HOU,Rockets,H,138,100,Western,Southwest,Nashville,Tennessee
+2027,6,CHI,Bulls,H,130,99,Eastern,Central,Nashville,Tennessee
+2027,7,ATL,Hawks,A,82,86,Eastern,Southeast,Atlanta,Georgia
+2027,8,NYK,Knicks,H,128,110,Eastern,Atlantic,Nashville,Tennessee
+2027,9,ORL,Magic,H,135,100,Eastern,Southeast,Nashville,Tennessee
+2027,10,PHI,76ers,A,133,99,Eastern,Atlantic,Philadelphia,Pennsylvania
+2027,11,BAL,Barons,A,129,74,Eastern,Atlantic,Baltimore,Maryland
+2027,12,PHX,Suns,A,120,91,Western,Pacific,Phoenix,Arizona
+2027,13,CHA,Hornets,H,110,118,Eastern,Southeast,Nashville,Tennessee
+2027,14,MIA,Heat,A,126,125,Eastern,Southeast,Miami,Florida
+2027,15,IND,Pacers,A,111,122,Eastern,Central,Indianapolis,Indiana
+2027,16,LOU,Liberty,A,112,88,Eastern,Central,Louisville,Kentucky
+2027,17,BKN,Nets,A,139,129,Eastern,Atlantic,Brooklyn,New York
+2027,18,LOU,Liberty,H,122,102,Eastern,Central,Nashville,Tennessee
+2027,19,STL,Sound,H,156,90,Western,Northwest,Nashville,Tennessee
+2027,20,SAN,Spurs,H,154,110,Western,Southwest,Nashville,Tennessee
+2027,21,LAC,Clippers,A,120,87,Western,Pacific,Los Angeles,California
+2027,22,GSW,Warriors,H,126,102,Western,Pacific,Nashville,Tennessee
+2027,23,LAC,Clippers,H,134,122,Western,Pacific,Nashville,Tennessee
+2027,24,MIL,Bucks,A,127,110,Western,Northwest,Milwaukee,Wisconsin
+2027,25,BKN,Nets,H,123,106,Eastern,Atlantic,Nashville,Tennessee
+2027,26,LAL,Lakers,H,106,84,Western,Pacific,Nashville,Tennessee
+2027,27,OKC,Thunder,A,131,122,Western,Southwest,Oklahoma City,Oklahoma
+2027,28,VIR,Storm,H,140,106,Eastern,Southeast,Nashville,Tennessee
+2027,29,MIN,Timberwolves,H,127,92,Western,Northwest,Nashville,Tennessee
+2027,30,BOS,Celtics,H,133,96,Eastern,Atlantic,Nashville,Tennessee
+2027,31,CHA,Hornets,A,139,117,Eastern,Southeast,Charlotte,North Carolina
+2027,32,OKC,Thunder,H,137,98,Western,Southwest,Nashville,Tennessee
+2027,33,MIN,Timberwolves,A,122,102,Western,Northwest,Minnenapolis,Minnesota
+2027,34,CLE,Cavaliers,A,130,124,Eastern,Central,Cleveland,Ohio
+2027,35,SAN,Spurs,A,103,96,Western,Southwest,San Antonio,Texas
+2027,36,NOLA,Pelicans,A,135,86,Western,Southwest,New Orleans,Louisiana
+2027,37,LOU,Liberty,H,120,87,Eastern,Central,Nashville,Tennessee
+2027,38,POR,Blazers,A,144,141,Western,Northwest,Portland,Oregon
+2027,39,IND,Pacers,H,110,133,Eastern,Central,Nashville,Tennessee
+2027,40,ORL,Magic,A,139,89,Eastern,Southeast,Orlando,Florida
+2027,41,BOS,Celtics,A,127,109,Eastern,Atlantic,Boston,Massachusetts
+2027,42,DET,Pistons,A,123,100,Eastern,Central,Detroit,Michigan
+2027,43,DET,Pistons,H,130,105,Eastern,Central,Nashville,Tennessee
+2027,44,CHI,Bulls,A,150,118,Eastern,Central,Chicago,Illinois
+2027,45,DET,Pistons,H,100,88,Eastern,Central,Nashville,Tennessee
+2027,46,GSW,Warriors,A,118,98,Western,Pacific,San Francisco,California
+2027,47,UTA,Jazz,H,157,141,Western,Pacific,Nashville,Tennessee
+2027,48,PHI,76ers,H,117,104,Eastern,Atlantic,Nashville,Tennessee
+2027,49,PHI,76ers,A,102,106,Eastern,Atlantic,Philadelphia,Pennsylvania
+2027,50,TOR,Raptors,A,103,119,Eastern,Atlantic,Toronto,Canada
+2027,51,CLE,Cavaliers,H,132,120,Eastern,Central,Nashville,Tennessee
+2027,52,UTA,Jazz,A,97,99,Western,Pacific,Salt Lake City,Utah
+2027,53,BAL,Barons,H,110,98,Eastern,Atlantic,Nashville,Tennessee
+2027,54,CHI,Bulls,A,132,128,Eastern,Central,Chicago,Illinois
+2027,55,SAC,Kings,A,105,81,Western,Pacific,Sacramento,California
+2027,56,DAL,Mavericks,H,104,97,Western,Southwest,Nashville,Tennessee
+2027,57,PHX,Suns,H,129,102,Western,Pacific,Nashville,Tennessee
+2027,58,HOU,Rockets,A,145,122,Western,Southwest,Houston,Texas
+2027,59,DEN,Nuggets,A,105,110,Western,Northwest,Denver,Colorado
+2027,60,CHI,Bulls,H,122,93,Eastern,Central,Nashville,Tennessee
+2027,61,NYK,Knicks,A,106,101,Eastern,Atlantic,New York City,New York
+2027,62,LAL,Lakers,A,110,120,Western,Pacific,Los Angeles,California
+2027,63,IND,Pacers,A,140,102,Eastern,Central,Indianapolis,Indiana
+2027,64,DET,Pistons,A,134,120,Eastern,Central,Detroit,Michigan
+2027,65,DAL,Mavericks,A,123,103,Western,Southwest,Dallas,Texas
+2027,66,VCR,Ravens,H,89,99,Western,Northwest,Nashville,Tennessee
+2027,67,CLE,Cavaliers,A,122,135,Eastern,Central,Cleveland,Ohio
+2027,68,WAS,Wizards,H,147,105,Eastern,Southeast,Nashville,Tennessee
+2027,69,DEN,Nuggets,H,126,119,Western,Northwest,Nashville,Tennessee
+2027,70,VCR,Ravens,A,145,128,Western,Northwest,Vancouver,Canada
+2027,71,ATL,Hawks,H,152,123,Eastern,Southeast,Nashville,Tennessee
+2027,72,SAC,Kings,H,129,112,Western,Pacific,Nashville,Tennessee
+2027,73,CLE,Cavaliers,H,124,80,Eastern,Central,Nashville,Tennessee
+2027,74,WAS,Wizards,A,122,107,Eastern,Southeast,Washington,District of Columbia
+2027,75,WAS,Wizards,H,124,93,Eastern,Southeast,Nashville,Tennessee
+2027,76,IND,Pacers,H,130,131,Eastern,Central,Nashville,Tennessee
+2027,77,MEM,Grizzlies,A,97,90,Western,Southwest,Memphis,Tennessee
+2027,78,LOU,Liberty,A,108,92,Eastern,Central,Louisville,Kentucky
+2027,79,NOLA,Pelicans,H,121,74,Western,Southwest,Nashville,Tennessee
+2027,80,POR,Blazers,H,137,99,Western,Northwest,Nashville,Tennessee
+2027,81,TOR,Raptors,H,103,114,Eastern,Atlantic,Nashville,Tennessee
+2027,82,MIA,Heat,H,115,77,Eastern,Southeast,Nashville,Tennessee

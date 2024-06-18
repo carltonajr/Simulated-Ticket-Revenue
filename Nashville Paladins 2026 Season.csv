@@ -1,0 +1,83 @@
+season,game,opp_id,opp_name,home_away,talons_score,opp_score,conference,division,city,state
+2026,1,NYK,Knicks,A,135,122,Eastern,Atlantic,New York City,New York
+2026,2,CHI,Bulls,H,147,108,Eastern,Central,Nashville,Tennessee
+2026,3,LOU,Liberty,A,138,113,Eastern,Central,Louisville,Kentucky
+2026,4,MIN,Timberwolves,H,135,97,Western,Northwest,Nashville,Tennessee
+2026,5,VIR,Storm,H,122,97,Eastern,Southeast,Nashville,Tennessee
+2026,6,CLE,Cavaliers,H,128,131,Eastern,Central,Nashville,Tennessee
+2026,7,IND,Pacers,H,127,90,Eastern,Central,Nashville,Tennessee
+2026,8,MIL,Bucks,A,126,107,Western,Northwest,Milwaukee,Wisconsin
+2026,9,UTA,Jazz,A,126,112,Western,Pacific,Salt Lake City,Utah
+2026,10,CLE,Cavaliers,H,134,117,Eastern,Central,Nashville,Tennessee
+2026,11,MIN,Timberwolves,A,125,78,Western,Northwest,Minnenapolis,Minnesota
+2026,12,IND,Pacers,A,107,111,Eastern,Central,Indianapolis,Indiana
+2026,13,WAS,Wizards,H,114,99,Eastern,Southeast,Nashville,Tennessee
+2026,14,OKC,Thunder,H,100,95,Western,Southwest,Nashville,Tennessee
+2026,15,POR,Blazers,A,127,108,Western,Northwest,Portland,Oregon
+2026,16,VIR,Storm,H,100,103,Eastern,Southeast,Nashville,Tennessee
+2026,17,BKN,Nets,A,108,88,Eastern,Atlantic,Brooklyn,New York
+2026,18,DAL,Mavericks,A,102,110,Western,Southwest,Dallas,Texas
+2026,19,HOU,Rockets,H,133,100,Western,Southwest,Nashville,Tennessee
+2026,20,OKC,Thunder,A,131,99,Western,Southwest,Oklahoma City,Oklahoma
+2026,21,TOR,Raptors,A,126,111,Eastern,Atlantic,Toronto,Canada
+2026,22,VIR,Storm,A,119,118,Eastern,Southeast,Richmond,Virginia
+2026,23,CHI,Bulls,A,129,85,Eastern,Central,Chicago,Illinois
+2026,24,BAL,Barons,H,129,105,Eastern,Atlantic,Nashville,Tennessee
+2026,25,UTA,Jazz,H,107,95,Western,Pacific,Nashville,Tennessee
+2026,26,LOU,Liberty,A,97,103,Eastern,Central,Louisville,Kentucky
+2026,27,BOS,Celtics,A,119,124,Eastern,Atlantic,Boston,Massachusetts
+2026,28,LOU,Liberty,H,132,91,Eastern,Central,Nashville,Tennessee
+2026,29,LAC,Clippers,A,97,119,Western,Pacific,Los Angeles,California
+2026,30,DET,Pistons,A,120,123,Eastern,Central,Detroit,Michigan
+2026,31,LAL,Lakers,H,118,138,Western,Pacific,Nashville,Tennessee
+2026,32,NOLA,Pelicans,H,145,124,Western,Southwest,Nashville,Tennessee
+2026,33,STL,Sound,H,135,95,Western,Northwest,Nashville,Tennessee
+2026,34,DET,Pistons,H,119,103,Eastern,Central,Nashville,Tennessee
+2026,35,DEN,Nuggets,A,128,102,Western,Northwest,Denver,Colorado
+2026,36,CHI,Bulls,H,125,109,Eastern,Central,Nashville,Tennessee
+2026,37,DET,Pistons,A,138,95,Eastern,Central,Detroit,Michigan
+2026,38,DEN,Nuggets,H,115,109,Western,Northwest,Nashville,Tennessee
+2026,39,CLE,Cavaliers,A,125,122,Eastern,Central,Cleveland,Ohio
+2026,40,MIA,Heat,H,98,100,Eastern,Southeast,Nashville,Tennessee
+2026,41,TOR,Raptors,H,123,112,Eastern,Atlantic,Nashville,Tennessee
+2026,42,LAC,Clippers,H,145,131,Western,Pacific,Nashville,Tennessee
+2026,43,NYK,Knicks,H,118,122,Eastern,Atlantic,Nashville,Tennessee
+2026,44,SAN,Spurs,H,126,101,Western,Southwest,Nashville,Tennessee
+2026,45,DAL,Mavericks,H,141,118,Western,Southwest,Nashville,Tennessee
+2026,46,SAC,Kings,A,110,99,Western,Pacific,Sacramento,California
+2026,47,VCR,Ravens,A,134,113,Western,Northwest,Vancouver,Canada
+2026,48,GSW,Warriors,H,129,108,Western,Pacific,Nashville,Tennessee
+2026,49,VCR,Ravens,H,117,122,Western,Northwest,Nashville,Tennessee
+2026,50,PHX,Suns,A,113,105,Western,Pacific,Phoenix,Arizona
+2026,51,LOU,Liberty,H,126,111,Eastern,Central,Nashville,Tennessee
+2026,52,GSW,Warriors,A,130,107,Western,Pacific,San Francisco,California
+2026,53,PHX,Suns,H,115,104,Western,Pacific,Nashville,Tennessee
+2026,54,WAS,Wizards,A,113,94,Eastern,Southeast,Washington,District of Columbia
+2026,55,BAL,Barons,A,116,100,Eastern,Atlantic,Baltimore,Maryland
+2026,56,CHA,Hornets,A,119,112,Eastern,Southeast,Charlotte,North Carolina
+2026,57,IND,Pacers,A,113,112,Eastern,Central,Indianapolis,Indiana
+2026,58,MEM,Grizzlies,A,123,96,Western,Southwest,Memphis,Tennessee
+2026,59,NOLA,Pelicans,A,129,73,Western,Southwest,New Orleans,Louisiana
+2026,60,HOU,Rockets,A,138,126,Western,Southwest,Houston,Texas
+2026,61,ATL,Hawks,H,120,121,Eastern,Southeast,Nashville,Tennessee
+2026,62,CLE,Cavaliers,A,131,99,Eastern,Central,Cleveland,Ohio
+2026,63,BKN,Nets,H,120,115,Eastern,Atlantic,Nashville,Tennessee
+2026,64,SAN,Spurs,A,128,95,Western,Southwest,San Antonio,Texas
+2026,65,PHI,76ers,H,133,115,Eastern,Atlantic,Nashville,Tennessee
+2026,66,ATL,Hawks,A,108,100,Eastern,Southeast,Atlanta,Georgia
+2026,67,SAC,Kings,H,127,108,Western,Pacific,Nashville,Tennessee
+2026,68,ORL,Magic,A,120,99,Eastern,Southeast,Orlando,Florida
+2026,69,MEM,Grizzlies,H,152,91,Western,Southwest,Nashville,Tennessee
+2026,70,CHI,Bulls,A,121,110,Eastern,Central,Chicago,Illinois
+2026,71,STL,Sound,A,130,111,Western,Northwest,St. Louis,Missouri
+2026,72,LAL,Lakers,A,106,116,Western,Pacific,Los Angeles,California
+2026,73,ORL,Magic,H,107,108,Eastern,Southeast,Nashville,Tennessee
+2026,74,BOS,Celtics,H,131,124,Eastern,Atlantic,Nashville,Tennessee
+2026,75,CHA,Hornets,H,136,105,Eastern,Southeast,Nashville,Tennessee
+2026,76,PHI,76ers,A,121,95,Eastern,Atlantic,Philadelphia,Pennsylvania
+2026,77,MIA,Heat,A,101,95,Eastern,Southeast,Miami,Florida
+2026,78,IND,Pacers,H,136,102,Eastern,Central,Nashville,Tennessee
+2026,79,MIL,Bucks,H,137,133,Western,Northwest,Nashville,Tennessee
+2026,80,DET,Pistons,H,121,107,Eastern,Central,Nashville,Tennessee
+2026,81,BAL,Barons,A,105,108,Eastern,Atlantic,Baltimore,Maryland
+2026,82,POR,Blazers,H,123,84,Western,Northwest,Nashville,Tennessee
