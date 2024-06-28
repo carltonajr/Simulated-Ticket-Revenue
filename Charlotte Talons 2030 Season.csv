@@ -1,83 +1,83 @@
-season,game,opponent,home/away,talons score,opp score
-2030,1,CHA Hornets,H,131,115
-2030,2,CHA Hornets,A,129,89
-2030,3,DAL Mavericks,H,148,94
-2030,4,SAC Kings,H,130,114
-2030,5,DET Pistons,A,127,94
-2030,6,BOS Celtics,H,143,99
-2030,7,SAN Spurs,H,126,92
-2030,8,DET Pistons,A,132,83
-2030,9,LA Lakers,H,118,94
-2030,10,ATL Hawks,H,105,109
-2030,11,PHX Suns,A,111,108
-2030,12,SAC Kings,A,112,93
-2030,13,KC Knights,A,134,96
-2030,14,BOS Celtics,A,108,92
-2030,15,ATL Hawks,H,121,103
-2030,16,NOLA Pelicans,H,110,101
-2030,17,ORL Magic,H,147,109
-2030,18,STL Sound,H,102,97
-2030,19,NAS Stars,H,110,97
-2030,20,WAS Wizards,A,128,102
-2030,21,CHA Hornets,H,117,103
-2030,22,CLE Cavaliers,H,123,83
-2030,23,ORL Magic,A,129,115
-2030,24,MEM Grizzlies,H,120,84
-2030,25,PHI 76ers,A,130,71
-2030,26,ATL Hawks,A,90,94
-2030,27,MIA Heat,H,132,130
-2030,28,VIR Storm,A,118,114
-2030,29,BAL Barons,A,116,65
-2030,30,POR Blazers,H,115,69
-2030,31,OKC Thunder,H,113,73
-2030,32,ORL Magic,A,116,102
-2030,33,PHI 76ers,H,143,81
-2030,34,GS Warriors,A,134,124
-2030,35,MIA Heat,A,119,94
-2030,36,MIA Heat,H,108,85
-2030,37,VIR Storm,H,123,119
-2030,38,PHX Suns,H,125,102
-2030,39,LA Clippers,A,98,77
-2030,40,MIL Bucks,H,140,86
-2030,41,IND Pacers,H,126,88
-2030,42,HOU Rockets,A,130,103
-2030,43,DAL Mavericks,A,115,80
-2030,44,CHI Bulls,H,97,83
-2030,45,SAN Spurs,A,108,74
-2030,46,VIR Storm,H,133,87
-2030,47,DEN Nuggets,A,146,126
-2030,48,KC Knights,H,122,115
-2030,49,MEM Grizzlies,A,125,98
-2030,50,PHI 76ers,H,111,71
-2030,51,POR Blazers,A,124,104
-2030,52,UTA Jazz,H,126,85
-2030,53,NY Knicks,A,126,103
-2030,54,DET Pistons,H,131,79
-2030,55,CLE Cavaliers,A,104,93
-2030,56,LA Lakers,A,127,91
-2030,57,MIN Timberwolves,H,109,106
-2030,58,VIR Storm,A,118,121
-2030,59,UTA Jazz,A,119,105
-2030,60,MIN Timberwolves,A,102,100
-2030,61,STL Sound,A,122,102
-2030,62,BAL Barons,H,138,86
-2030,63,CHA Hornets,A,115,105
-2030,64,NAS Stars,A,99,62
-2030,65,LA Clippers,H,126,103
-2030,66,ATL Hawks,A,119,101
-2030,67,MIL Bucks,A,105,97
-2030,68,OKC Thunder,A,131,92
-2030,69,BKN Nets,H,126,92
-2030,70,NY Knicks,H,133,88
-2030,71,IND Pacers,A,104,107
-2030,72,WAS Wizards,H,130,80
-2030,73,ORL Magic,H,116,108
-2030,74,NOLA Pelicans,A,118,99
-2030,75,DEN Nuggets,H,117,96
-2030,76,BKN Nets,A,114,91
-2030,77,TOR Raptors,H,128,95
-2030,78,HOU Rockets,H,114,87
-2030,79,TOR Raptors,A,107,87
-2030,80,GS Warriors,H,123,88
-2030,81,MIA Heat,A,110,93
-2030,82,CHI Bulls,A,94,80
+season,game,opp_id,opp_name,home/away,talons score,opp score,conference,division,city,state
+2030,1,CHA,Hornets,H,131,115,Eastern,Southeast,Charlotte,North Carolina
+2030,2,CHA,Hornets,A,129,89,Eastern,Southeast,Charlotte,North Carolina
+2030,3,DAL,Mavericks,H,148,94,Western,Southwest,Charlotte,North Carolina
+2030,4,SAC,Kings,H,130,114,Western,Pacific,Charlotte,North Carolina
+2030,5,DET,Pistons,A,127,94,Eastern,Central,Detroit,Michigan
+2030,6,BOS,Celtics,H,143,99,Eastern,Atlantic,Charlotte,North Carolina
+2030,7,SAS,Spurs,H,126,92,Western,Southwest,Charlotte,North Carolina
+2030,8,DET,Pistons,A,132,83,Eastern,Central,Detroit,Michigan
+2030,9,LAL,Lakers,H,118,94,Western,Pacific,Charlotte,North Carolina
+2030,10,ATL,Hawks,H,105,109,Eastern,Southeast,Charlotte,North Carolina
+2030,11,PHX,Suns,A,111,108,Western,Pacific,Phoenix,Arizona
+2030,12,SAC,Kings,A,112,93,Western,Pacific,Sacramento,California
+2030,13,KCK,Knights,A,134,96,Western,Northwest,Kansas City,Missouri
+2030,14,BOS,Celtics,A,108,92,Eastern,Atlantic,Boston,Massachusetts
+2030,15,ATL,Hawks,H,121,103,Eastern,Southeast,Charlotte,North Carolina
+2030,16,NOLA,Pelicans,H,110,101,Western,Southwest,Charlotte,North Carolina
+2030,17,ORL,Magic,H,147,109,Eastern,Southeast,Charlotte,North Carolina
+2030,18,STL,Sound,H,102,97,Western,Northwest,Charlotte,North Carolina
+2030,19,NAS,Stars,H,110,97,Eastern,Central,Charlotte,North Carolina
+2030,20,WAS,Wizards,A,128,102,Eastern,Southeast,Washington,District of Columbia
+2030,21,CHA,Hornets,H,117,103,Eastern,Southeast,Charlotte,North Carolina
+2030,22,CLE,Cavaliers,H,123,83,Eastern,Central,Charlotte,North Carolina
+2030,23,ORL,Magic,A,129,115,Eastern,Southeast,Orlando,Florida
+2030,24,MEM,Grizzlies,H,120,84,Western,Southwest,Charlotte,North Carolina
+2030,25,PHI,76ers,A,130,71,Eastern,Atlantic,Philadelphia,Pennsylvania
+2030,26,ATL,Hawks,A,90,94,Eastern,Southeast,Atlanta,Georgia
+2030,27,MIA,Heat,H,132,130,Eastern,Southeast,Charlotte,North Carolina
+2030,28,VIR,Storm,A,118,114,Eastern,Southeast,Richmond,Virginia
+2030,29,BAL,Barons,A,116,65,Eastern,Atlantic,Baltimore,Maryland
+2030,30,POR,Blazers,H,115,69,Western,Northwest,Charlotte,North Carolina
+2030,31,OKC,Thunder,H,113,73,Western,Southwest,Charlotte,North Carolina
+2030,32,ORL,Magic,A,116,102,Eastern,Southeast,Orlando,Florida
+2030,33,PHI,76ers,H,143,81,Eastern,Atlantic,Charlotte,North Carolina
+2030,34,GSW,Warriors,A,134,124,Western,Pacific,San Francisco,California
+2030,35,MIA,Heat,A,119,94,Eastern,Southeast,Miami,Florida
+2030,36,MIA,Heat,H,108,85,Eastern,Southeast,Charlotte,North Carolina
+2030,37,VIR,Storm,H,123,119,Eastern,Southeast,Charlotte,North Carolina
+2030,38,PHX,Suns,H,125,102,Western,Pacific,Charlotte,North Carolina
+2030,39,LAC,Clippers,A,98,77,Western,Pacific,Los Angeles,California
+2030,40,MIL,Bucks,H,140,86,Western,Northwest,Charlotte,North Carolina
+2030,41,IND,Pacers,H,126,88,Eastern,Central,Charlotte,North Carolina
+2030,42,HOU,Rockets,A,130,103,Western,Southwest,Houston,Texas
+2030,43,DAL,Mavericks,A,115,80,Western,Southwest,Dallas,Texas
+2030,44,CHI,Bulls,H,97,83,Eastern,Central,Charlotte,North Carolina
+2030,45,SAS,Spurs,A,108,74,Western,Southwest,San Antonio,Texas
+2030,46,VIR,Storm,H,133,87,Eastern,Southeast,Charlotte,North Carolina
+2030,47,DEN,Nuggets,A,146,126,Western,Northwest,Denver,Colorado
+2030,48,KCK,Knights,H,122,115,Western,Northwest,Charlotte,North Carolina
+2030,49,MEM,Grizzlies,A,125,98,Western,Southwest,Memphis,Tennessee
+2030,50,PHI,76ers,H,111,71,Eastern,Atlantic,Charlotte,North Carolina
+2030,51,POR,Blazers,A,124,104,Western,Northwest,Portland,Oregon
+2030,52,UTA,Jazz,H,126,85,Western,Pacific,Charlotte,North Carolina
+2030,53,NYK,Knicks,A,126,103,Eastern,Atlantic,New York City,New York
+2030,54,DET,Pistons,H,131,79,Eastern,Central,Charlotte,North Carolina
+2030,55,CLE,Cavaliers,A,104,93,Eastern,Central,Cleveland,Ohio
+2030,56,LAL,Lakers,A,127,91,Western,Pacific,Los Angeles,California
+2030,57,MIN,Timberwolves,H,109,106,Western,Northwest,Charlotte,North Carolina
+2030,58,VIR,Storm,A,118,121,Eastern,Southeast,Richmond,Virginia
+2030,59,UTA,Jazz,A,119,105,Western,Pacific,Salt Lake City,Utah
+2030,60,MIN,Timberwolves,A,102,100,Western,Northwest,Minnenapolis,Minnesota
+2030,61,STL,Sound,A,122,102,Western,Northwest,St. Louis,Missouri
+2030,62,BAL,Barons,H,138,86,Eastern,Atlantic,Charlotte,North Carolina
+2030,63,CHA,Hornets,A,115,105,Eastern,Southeast,Charlotte,North Carolina
+2030,64,NAS,Stars,A,99,62,Eastern,Central,Nashville,Tennessee
+2030,65,LAC,Clippers,H,126,103,Western,Pacific,Charlotte,North Carolina
+2030,66,ATL,Hawks,A,119,101,Eastern,Southeast,Atlanta,Georgia
+2030,67,MIL,Bucks,A,105,97,Western,Northwest,Milwaukee,Wisconsin
+2030,68,OKC,Thunder,A,131,92,Western,Southwest,Oklahoma City,Oklahoma
+2030,69,BKN,Nets,H,126,92,Eastern,Atlantic,Charlotte,North Carolina
+2030,70,NYK,Knicks,H,133,88,Eastern,Atlantic,Charlotte,North Carolina
+2030,71,IND,Pacers,A,104,107,Eastern,Central,Indianapolis,Indiana
+2030,72,WAS,Wizards,H,130,80,Eastern,Southeast,Charlotte,North Carolina
+2030,73,ORL,Magic,H,116,108,Eastern,Southeast,Charlotte,North Carolina
+2030,74,NOLA,Pelicans,A,118,99,Western,Southwest,New Orleans,Louisiana
+2030,75,DEN,Nuggets,H,117,96,Western,Northwest,Charlotte,North Carolina
+2030,76,BKN,Nets,A,114,91,Eastern,Atlantic,Brooklyn,New York
+2030,77,TOR,Raptors,H,128,95,Eastern,Atlantic,Charlotte,North Carolina
+2030,78,HOU,Rockets,H,114,87,Western,Southwest,Charlotte,North Carolina
+2030,79,TOR,Raptors,A,107,87,Eastern,Atlantic,Toronto,Canada
+2030,80,GSW,Warriors,H,123,88,Western,Pacific,Charlotte,North Carolina
+2030,81,MIA,Heat,A,110,93,Eastern,Southeast,Miami,Florida
+2030,82,CHI,Bulls,A,94,80,Eastern,Central,Chicago,Illinois
