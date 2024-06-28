@@ -1,83 +1,83 @@
-season,game,opponent,home/away,talons score,opp score
-2034,1,BOS Celtics,A,123,118
-2034,2,DEN Nuggets,A,103,87
-2034,3,IND Pacers,H,112,98
-2034,4,HOU Rockets,H,115,97
-2034,5,CHA Hornets,A,110,105
-2034,6,MIA Heat,A,114,89
-2034,7,UTA Jazz,H,129,103
-2034,8,NY Knicks,H,129,111
-2034,9,BOS Celtics,H,118,84
-2034,10,ORL Magic,H,111,92
-2034,11,ORL Magic,A,99,102
-2034,12,UTA Jazz,A,139,91
-2034,13,SAC Kings,H,113,94
-2034,14,STL Sound,A,120,96
-2034,15,VIR Storm,H,113,77
-2034,16,BOS Celtics,H,107,74
-2034,17,GS Warriors,H,79,97
-2034,18,MEM Grizzlies,A,81,117
-2034,19,BAL Barons,H,120,106
-2034,20,TOR Raptors,H,129,124
-2034,21,DET Pistons,H,113,93
-2034,22,OKC Thunder,A,98,84
-2034,23,OKC Thunder,H,127,110
-2034,24,ATL Hawks,H,116,99
-2034,25,NOLA Pelicans,A,102,89
-2034,26,MIN Timberwolves,A,93,85
-2034,27,WAS Wizards,H,105,98
-2034,28,DAL Mavericks,A,94,97
-2034,29,VIR Storm,H,99,86
-2034,30,LA Lakers,A,129,74
-2034,31,MIA Heat,H,101,84
-2034,32,HOU Rockets,A,108,96
-2034,33,NAS Stars,A,111,89
-2034,34,VIR Storm,A,90,85
-2034,35,PHX Suns,H,114,76
-2034,36,BAL Barons,A,120,102
-2034,37,ORL Magic,H,96,77
-2034,38,CHI Bulls,H,88,86
-2034,39,CLE Cavaliers,H,119,96
-2034,40,PHI 76ers,A,116,101
-2034,41,NAS Stars,H,97,75
-2034,42,LA Clippers,H,102,88
-2034,43,ATL Hawks,A,106,113
-2034,44,KC Knights,A,114,87
-2034,45,ORL Magic,A,106,98
-2034,46,WAS Wizards,A,104,90
-2034,47,POR Blazers,A,110,111
-2034,48,IND Pacers,A,104,84
-2034,49,MEM Grizzlies,H,123,95
-2034,50,PHX Suns,A,133,124
-2034,51,DEN Nuggets,H,86,71
-2034,52,NOLA Pelicans,H,119,95
-2034,53,BKN Nets,A,98,73
-2034,54,CHA Hornets,H,121,85
-2034,55,NY Knicks,A,119,102
-2034,56,GS Warriors,A,110,98
-2034,57,DAL Mavericks,H,111,94
-2034,58,ATL Hawks,A,116,80
-2034,59,BKN Nets,H,119,80
-2034,60,VIR Storm,A,121,79
-2034,61,TOR Raptors,A,106,82
-2034,62,MIN Timberwolves,H,142,74
-2034,63,ATL Hawks,H,113,96
-2034,64,POR Blazers,H,139,104
-2034,65,SAN Spurs,A,105,96
-2034,66,MIL Bucks,A,98,105
-2034,67,SAN Spurs,H,133,84
-2034,68,CHA Hornets,A,92,104
-2034,69,STL Sound,H,107,109
-2034,70,TOR Raptors,A,107,115
-2034,71,PHI 76ers,H,123,98
-2034,72,MIA Heat,A,110,79
-2034,73,LA Lakers,H,119,106
-2034,74,SAC Kings,A,114,77
-2034,75,CHI Bulls,A,94,111
-2034,76,CHA Hornets,H,119,85
-2034,77,DET Pistons,A,92,81
-2034,78,MIA Heat,H,80,90
-2034,79,KC Knights,H,124,94
-2034,80,CLE Cavaliers,A,103,85
-2034,81,LA Clippers,A,93,92
-2034,82,MIL Bucks,H,116,98
+season,game,opp_id,opp_name,home/away,talons score,opp score,conference,division,city,state
+2034,1,BOS,Celtics,A,123,118,Eastern,Atlantic,Boston,Massachusetts
+2034,2,DEN,Nuggets,A,103,87,Western,Northwest,Denver,Colorado
+2034,3,IND,Pacers,H,112,98,Eastern,Central,Charlotte,North Carolina
+2034,4,HOU,Rockets,H,115,97,Western,Southwest,Charlotte,North Carolina
+2034,5,CHA,Hornets,A,110,105,Eastern,Southeast,Charlotte,North Carolina
+2034,6,MIA,Heat,A,114,89,Eastern,Southeast,Miami,Florida
+2034,7,UTA,Jazz,H,129,103,Western,Pacific,Charlotte,North Carolina
+2034,8,NYK,Knicks,H,129,111,Eastern,Atlantic,Charlotte,North Carolina
+2034,9,BOS,Celtics,H,118,84,Eastern,Atlantic,Charlotte,North Carolina
+2034,10,ORL,Magic,H,111,92,Eastern,Southeast,Charlotte,North Carolina
+2034,11,ORL,Magic,A,99,102,Eastern,Southeast,Orlando,Florida
+2034,12,UTA,Jazz,A,139,91,Western,Pacific,Salt Lake City,Utah
+2034,13,SAC,Kings,H,113,94,Western,Pacific,Charlotte,North Carolina
+2034,14,STL,Sound,A,120,96,Western,Northwest,St. Louis,Missouri
+2034,15,VIR,Storm,H,113,77,Eastern,Southeast,Charlotte,North Carolina
+2034,16,BOS,Celtics,H,107,74,Eastern,Atlantic,Charlotte,North Carolina
+2034,17,GSW,Warriors,H,79,97,Western,Pacific,Charlotte,North Carolina
+2034,18,MEM,Grizzlies,A,81,117,Western,Southwest,Memphis,Tennessee
+2034,19,BAL,Barons,H,120,106,Eastern,Atlantic,Charlotte,North Carolina
+2034,20,TOR,Raptors,H,129,124,Eastern,Atlantic,Charlotte,North Carolina
+2034,21,DET,Pistons,H,113,93,Eastern,Central,Charlotte,North Carolina
+2034,22,OKC,Thunder,A,98,84,Western,Southwest,Oklahoma City,Oklahoma
+2034,23,OKC,Thunder,H,127,110,Western,Southwest,Charlotte,North Carolina
+2034,24,ATL,Hawks,H,116,99,Eastern,Southeast,Charlotte,North Carolina
+2034,25,NOLA,Pelicans,A,102,89,Western,Southwest,New Orleans,Louisiana
+2034,26,MIN,Timberwolves,A,93,85,Western,Northwest,Minnenapolis,Minnesota
+2034,27,WAS,Wizards,H,105,98,Eastern,Southeast,Charlotte,North Carolina
+2034,28,DAL,Mavericks,A,94,97,Western,Southwest,Dallas,Texas
+2034,29,VIR,Storm,H,99,86,Eastern,Southeast,Charlotte,North Carolina
+2034,30,LAL,Lakers,A,129,74,Western,Pacific,Los Angeles,California
+2034,31,MIA,Heat,H,101,84,Eastern,Southeast,Charlotte,North Carolina
+2034,32,HOU,Rockets,A,108,96,Western,Southwest,Houston,Texas
+2034,33,NAS,Stars,A,111,89,Eastern,Central,Nashville,Tennessee
+2034,34,VIR,Storm,A,90,85,Eastern,Southeast,Richmond,Virginia
+2034,35,PHX,Suns,H,114,76,Western,Pacific,Charlotte,North Carolina
+2034,36,BAL,Barons,A,120,102,Eastern,Atlantic,Baltimore,Maryland
+2034,37,ORL,Magic,H,96,77,Eastern,Southeast,Charlotte,North Carolina
+2034,38,CHI,Bulls,H,88,86,Eastern,Central,Charlotte,North Carolina
+2034,39,CLE,Cavaliers,H,119,96,Eastern,Central,Charlotte,North Carolina
+2034,40,PHI,76ers,A,116,101,Eastern,Atlantic,Philadelphia,Pennsylvania
+2034,41,NAS,Stars,H,97,75,Eastern,Central,Charlotte,North Carolina
+2034,42,LAC,Clippers,H,102,88,Western,Pacific,Charlotte,North Carolina
+2034,43,ATL,Hawks,A,106,113,Eastern,Southeast,Atlanta,Georgia
+2034,44,KCK,Knights,A,114,87,Western,Northwest,Kansas City,Missouri
+2034,45,ORL,Magic,A,106,98,Eastern,Southeast,Orlando,Florida
+2034,46,WAS,Wizards,A,104,90,Eastern,Southeast,Washington,District of Columbia
+2034,47,POR,Blazers,A,110,111,Western,Northwest,Portland,Oregon
+2034,48,IND,Pacers,A,104,84,Eastern,Central,Indianapolis,Indiana
+2034,49,MEM,Grizzlies,H,123,95,Western,Southwest,Charlotte,North Carolina
+2034,50,PHX,Suns,A,133,124,Western,Pacific,Phoenix,Arizona
+2034,51,DEN,Nuggets,H,86,71,Western,Northwest,Charlotte,North Carolina
+2034,52,NOLA,Pelicans,H,119,95,Western,Southwest,Charlotte,North Carolina
+2034,53,BKN,Nets,A,98,73,Eastern,Atlantic,Brooklyn,New York
+2034,54,CHA,Hornets,H,121,85,Eastern,Southeast,Charlotte,North Carolina
+2034,55,NYK,Knicks,A,119,102,Eastern,Atlantic,New York City,New York
+2034,56,GSW,Warriors,A,110,98,Western,Pacific,San Francisco,California
+2034,57,DAL,Mavericks,H,111,94,Western,Southwest,Charlotte,North Carolina
+2034,58,ATL,Hawks,A,116,80,Eastern,Southeast,Atlanta,Georgia
+2034,59,BKN,Nets,H,119,80,Eastern,Atlantic,Charlotte,North Carolina
+2034,60,VIR,Storm,A,121,79,Eastern,Southeast,Richmond,Virginia
+2034,61,TOR,Raptors,A,106,82,Eastern,Atlantic,Toronto,Canada
+2034,62,MIN,Timberwolves,H,142,74,Western,Northwest,Charlotte,North Carolina
+2034,63,ATL,Hawks,H,113,96,Eastern,Southeast,Charlotte,North Carolina
+2034,64,POR,Blazers,H,139,104,Western,Northwest,Charlotte,North Carolina
+2034,65,SAS,Spurs,A,105,96,Western,Southwest,San Antonio,Texas
+2034,66,MIL,Bucks,A,98,105,Western,Northwest,Milwaukee,Wisconsin
+2034,67,SAS,Spurs,H,133,84,Western,Southwest,Charlotte,North Carolina
+2034,68,CHA,Hornets,A,92,104,Eastern,Southeast,Charlotte,North Carolina
+2034,69,STL,Sound,H,107,109,Western,Northwest,Charlotte,North Carolina
+2034,70,TOR,Raptors,A,107,115,Eastern,Atlantic,Toronto,Canada
+2034,71,PHI,76ers,H,123,98,Eastern,Atlantic,Charlotte,North Carolina
+2034,72,MIA,Heat,A,110,79,Eastern,Southeast,Miami,Florida
+2034,73,LAL,Lakers,H,119,106,Western,Pacific,Charlotte,North Carolina
+2034,74,SAC,Kings,A,114,77,Western,Pacific,Sacramento,California
+2034,75,CHI,Bulls,A,94,111,Eastern,Central,Chicago,Illinois
+2034,76,CHA,Hornets,H,119,85,Eastern,Southeast,Charlotte,North Carolina
+2034,77,DET,Pistons,A,92,81,Eastern,Central,Detroit,Michigan
+2034,78,MIA,Heat,H,80,90,Eastern,Southeast,Charlotte,North Carolina
+2034,79,KCK,Knights,H,124,94,Western,Northwest,Charlotte,North Carolina
+2034,80,CLE,Cavaliers,A,103,85,Eastern,Central,Cleveland,Ohio
+2034,81,LAC,Clippers,A,93,92,Western,Pacific,Los Angeles,California
+2034,82,MIL,Bucks,H,116,98,Western,Northwest,Charlotte,North Carolina
