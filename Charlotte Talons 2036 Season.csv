@@ -1,83 +1,83 @@
-season,game,opponent,home/away,talons score,opp score
-2036,1,HOU Rockets,A,119,96
-2036,2,KC Knights,H,127,96
-2036,3,NAS Stars,A,120,72
-2036,4,GS Warriors,H,127,120
-2036,5,PHX Suns,A,99,93
-2036,6,ORL Magic,H,103,107
-2036,7,UTA Jazz,H,94,96
-2036,8,BOS Celtics,H,118,105
-2036,9,NY Knicks,H,112,81
-2036,10,ATL Hawks,A,99,96
-2036,11,CHI Bulls,A,94,87
-2036,12,DEN Nuggets,A,130,100
-2036,13,PHX Suns,H,109,94
-2036,14,LA Clippers,A,101,78
-2036,15,DAL Mavericks,H,108,76
-2036,16,NAS Stars,H,128,108
-2036,17,BKN Nets,A,100,70
-2036,18,ATL Hawks,H,98,110
-2036,19,ATL Hawks,A,106,87
-2036,20,MIL Bucks,A,121,106
-2036,21,MIN Timberwolves,H,100,125
-2036,22,VIR Storm,A,117,98
-2036,23,MIA Heat,H,97,96
-2036,24,CHA Hornets,A,103,98
-2036,25,PHI 76ers,H,139,105
-2036,26,LA Lakers,H,111,95
-2036,27,KC Knights,A,94,125
-2036,28,IND Pacers,A,119,127
-2036,29,CHA Hornets,H,112,101
-2036,30,WAS Wizards,H,106,96
-2036,31,DET Pistons,H,91,121
-2036,32,STL Sound,A,98,95
-2036,33,CLE Cavaliers,H,130,95
-2036,34,VIR Storm,H,112,83
-2036,35,SAC Kings,A,111,115
-2036,36,WAS Wizards,A,113,110
-2036,37,MIA Heat,H,98,85
-2036,38,SAN Spurs,A,96,106
-2036,39,POR Blazers,A,101,94
-2036,40,CLE Cavaliers,A,112,83
-2036,41,LA Lakers,A,93,101
-2036,42,BKN Nets,H,81,86
-2036,43,MIA Heat,A,122,102
-2036,44,ATL Hawks,H,105,102
-2036,45,SAC Kings,H,111,91
-2036,46,CHA Hornets,A,101,106
-2036,47,VIR Storm,A,128,113
-2036,48,MIA Heat,A,117,105
-2036,49,SAN Spurs,H,94,92
-2036,50,IND Pacers,H,116,104
-2036,51,CLE Cavaliers,A,98,100
-2036,52,POR Blazers,H,99,107
-2036,53,NOLA Pelicans,A,96,101
-2036,54,BAL Barons,A,120,91
-2036,55,BOS Celtics,A,120,84
-2036,56,BAL Barons,H,128,70
-2036,57,VIR Storm,H,103,80
-2036,58,OKC Thunder,A,127,120
-2036,59,NY Knicks,A,139,115
-2036,60,MEM Grizzlies,H,91,89
-2036,61,MEM Grizzlies,A,127,102
-2036,62,NOLA Pelicans,H,109,77
-2036,63,BOS Celtics,H,138,101
-2036,64,ORL Magic,H,101,100
-2036,65,DEN Nuggets,H,139,100
-2036,66,STL Sound,H,119,96
-2036,67,TOR Raptors,H,115,102
-2036,68,TOR Raptors,A,90,84
-2036,69,HOU Rockets,H,95,90
-2036,70,ORL Magic,A,101,94
-2036,71,UTA Jazz,A,103,131
-2036,72,PHI 76ers,A,103,141
-2036,73,GS Warriors,A,100,124
-2036,74,DAL Mavericks,A,92,113
-2036,75,PHI 76ers,H,86,88
-2036,76,MIN Timberwolves,A,125,102
-2036,77,DET Pistons,A,129,80
-2036,78,CHI Bulls,H,117,95
-2036,79,ORL Magic,A,113,140
-2036,80,MIL Bucks,H,102,101
-2036,81,CHA Hornets,H,82,93
-2036,82,OKC Thunder,H,139,116
+season,game,opp_id,opp_name,home/away,talons score,opp score,conference,division,city,state
+2036,1,HOU,Rockets,A,119,96,Western,Southwest,Houston,Texas
+2036,2,KCK,Knights,H,127,96,Western,Northwest,Charlotte,North Carolina
+2036,3,NAS,Stars,A,120,72,Eastern,Central,Nashville,Tennessee
+2036,4,GSW,Warriors,H,127,120,Western,Pacific,Charlotte,North Carolina
+2036,5,PHX,Suns,A,99,93,Western,Pacific,Phoenix,Arizona
+2036,6,ORL,Magic,H,103,107,Eastern,Southeast,Charlotte,North Carolina
+2036,7,UTA,Jazz,H,94,96,Western,Pacific,Charlotte,North Carolina
+2036,8,BOS,Celtics,H,118,105,Eastern,Atlantic,Charlotte,North Carolina
+2036,9,NYK,Knicks,H,112,81,Eastern,Atlantic,Charlotte,North Carolina
+2036,10,ATL,Hawks,A,99,96,Eastern,Southeast,Atlanta,Georgia
+2036,11,CHI,Bulls,A,94,87,Eastern,Central,Chicago,Illinois
+2036,12,DEN,Nuggets,A,130,100,Western,Northwest,Denver,Colorado
+2036,13,PHX,Suns,H,109,94,Western,Pacific,Charlotte,North Carolina
+2036,14,LAC,Clippers,A,101,78,Western,Pacific,Los Angeles,California
+2036,15,DAL,Mavericks,H,108,76,Western,Southwest,Charlotte,North Carolina
+2036,16,NAS,Stars,H,128,108,Eastern,Central,Charlotte,North Carolina
+2036,17,BKN,Nets,A,100,70,Eastern,Atlantic,Brooklyn,New York
+2036,18,ATL,Hawks,H,98,110,Eastern,Southeast,Charlotte,North Carolina
+2036,19,ATL,Hawks,A,106,87,Eastern,Southeast,Atlanta,Georgia
+2036,20,MIL,Bucks,A,121,106,Western,Northwest,Milwaukee,Wisconsin
+2036,21,MIN,Timberwolves,H,100,125,Western,Northwest,Charlotte,North Carolina
+2036,22,VIR,Storm,A,117,98,Eastern,Southeast,Richmond,Virginia
+2036,23,MIA,Heat,H,97,96,Eastern,Southeast,Charlotte,North Carolina
+2036,24,CHA,Hornets,A,103,98,Eastern,Southeast,Charlotte,North Carolina
+2036,25,PHI,76ers,H,139,105,Eastern,Atlantic,Charlotte,North Carolina
+2036,26,LAL,Lakers,H,111,95,Western,Pacific,Charlotte,North Carolina
+2036,27,KCK,Knights,A,94,125,Western,Northwest,Kansas City,Missouri
+2036,28,IND,Pacers,A,119,127,Eastern,Central,Indianapolis,Indiana
+2036,29,CHA,Hornets,H,112,101,Eastern,Southeast,Charlotte,North Carolina
+2036,30,WAS,Wizards,H,106,96,Eastern,Southeast,Charlotte,North Carolina
+2036,31,DET,Pistons,H,91,121,Eastern,Central,Charlotte,North Carolina
+2036,32,STL,Sound,A,98,95,Western,Northwest,St. Louis,Missouri
+2036,33,CLE,Cavaliers,H,130,95,Eastern,Central,Charlotte,North Carolina
+2036,34,VIR,Storm,H,112,83,Eastern,Southeast,Charlotte,North Carolina
+2036,35,SAC,Kings,A,111,115,Western,Pacific,Sacramento,California
+2036,36,WAS,Wizards,A,113,110,Eastern,Southeast,Washington,District of Columbia
+2036,37,MIA,Heat,H,98,85,Eastern,Southeast,Charlotte,North Carolina
+2036,38,SAS,Spurs,A,96,106,Western,Southwest,San Antonio,Texas
+2036,39,POR,Blazers,A,101,94,Western,Northwest,Portland,Oregon
+2036,40,CLE,Cavaliers,A,112,83,Eastern,Central,Cleveland,Ohio
+2036,41,LAL,Lakers,A,93,101,Western,Pacific,Los Angeles,California
+2036,42,BKN,Nets,H,81,86,Eastern,Atlantic,Charlotte,North Carolina
+2036,43,MIA,Heat,A,122,102,Eastern,Southeast,Miami,Florida
+2036,44,ATL,Hawks,H,105,102,Eastern,Southeast,Charlotte,North Carolina
+2036,45,SAC,Kings,H,111,91,Western,Pacific,Charlotte,North Carolina
+2036,46,CHA,Hornets,A,101,106,Eastern,Southeast,Charlotte,North Carolina
+2036,47,VIR,Storm,A,128,113,Eastern,Southeast,Richmond,Virginia
+2036,48,MIA,Heat,A,117,105,Eastern,Southeast,Miami,Florida
+2036,49,SAS,Spurs,H,94,92,Western,Southwest,Charlotte,North Carolina
+2036,50,IND,Pacers,H,116,104,Eastern,Central,Charlotte,North Carolina
+2036,51,CLE,Cavaliers,A,98,100,Eastern,Central,Cleveland,Ohio
+2036,52,POR,Blazers,H,99,107,Western,Northwest,Charlotte,North Carolina
+2036,53,NOLA,Pelicans,A,96,101,Western,Southwest,New Orleans,Louisiana
+2036,54,BAL,Barons,A,120,91,Eastern,Atlantic,Baltimore,Maryland
+2036,55,BOS,Celtics,A,120,84,Eastern,Atlantic,Boston,Massachusetts
+2036,56,BAL,Barons,H,128,70,Eastern,Atlantic,Charlotte,North Carolina
+2036,57,VIR,Storm,H,103,80,Eastern,Southeast,Charlotte,North Carolina
+2036,58,OKC,Thunder,A,127,120,Western,Southwest,Oklahoma City,Oklahoma
+2036,59,NYK,Knicks,A,139,115,Eastern,Atlantic,New York City,New York
+2036,60,MEM,Grizzlies,H,91,89,Western,Southwest,Charlotte,North Carolina
+2036,61,MEM,Grizzlies,A,127,102,Western,Southwest,Memphis,Tennessee
+2036,62,NOLA,Pelicans,H,109,77,Western,Southwest,Charlotte,North Carolina
+2036,63,BOS,Celtics,H,138,101,Eastern,Atlantic,Charlotte,North Carolina
+2036,64,ORL,Magic,H,101,100,Eastern,Southeast,Charlotte,North Carolina
+2036,65,DEN,Nuggets,H,139,100,Western,Northwest,Charlotte,North Carolina
+2036,66,STL,Sound,H,119,96,Western,Northwest,Charlotte,North Carolina
+2036,67,TOR,Raptors,H,115,102,Eastern,Atlantic,Charlotte,North Carolina
+2036,68,TOR,Raptors,A,90,84,Eastern,Atlantic,Toronto,Canada
+2036,69,HOU,Rockets,H,95,90,Western,Southwest,Charlotte,North Carolina
+2036,70,ORL,Magic,A,101,94,Eastern,Southeast,Orlando,Florida
+2036,71,UTA,Jazz,A,103,131,Western,Pacific,Salt Lake City,Utah
+2036,72,PHI,76ers,A,103,141,Eastern,Atlantic,Philadelphia,Pennsylvania
+2036,73,GSW,Warriors,A,100,124,Western,Pacific,San Francisco,California
+2036,74,DAL,Mavericks,A,92,113,Western,Southwest,Dallas,Texas
+2036,75,PHI,76ers,H,86,88,Eastern,Atlantic,Charlotte,North Carolina
+2036,76,MIN,Timberwolves,A,125,102,Western,Northwest,Minnenapolis,Minnesota
+2036,77,DET,Pistons,A,129,80,Eastern,Central,Detroit,Michigan
+2036,78,CHI,Bulls,H,117,95,Eastern,Central,Charlotte,North Carolina
+2036,79,ORL,Magic,A,113,140,Eastern,Southeast,Orlando,Florida
+2036,80,MIL,Bucks,H,102,101,Western,Northwest,Charlotte,North Carolina
+2036,81,CHA,Hornets,H,82,93,Eastern,Southeast,Charlotte,North Carolina
+2036,82,OKC,Thunder,H,139,116,Western,Southwest,Charlotte,North Carolina
