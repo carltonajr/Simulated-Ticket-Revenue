@@ -1,83 +1,83 @@
-season,game,opponent,home/away,talons score,opp score
-2040,1,DET Pistons,H,101,92
-2040,2,VIR Storm,H,100,104
-2040,3,NY Knicks,H,100,102
-2040,4,MIL Bucks,H,88,119
-2040,5,CHA Hornets,A,91,122
-2040,6,OKC Thunder,H,107,109
-2040,7,BAL Barons,H,108,104
-2040,8,PHI 76ers,H,127,96
-2040,9,ORL Magic,A,117,86
-2040,10,STL Sound,A,118,121
-2040,11,NAS Stars,A,94,121
-2040,12,DAL Mavericks,H,105,69
-2040,13,TOR Raptors,A,106,117
-2040,14,LA Clippers,A,106,110
-2040,15,UTA Jazz,H,129,125
-2040,16,BAL Barons,H,119,117
-2040,17,POR Blazers,A,142,112
-2040,18,WAS Wizards,H,119,93
-2040,19,ATL Hawks,A,118,102
-2040,20,MIA Heat,A,106,80
-2040,21,VIR Storm,A,109,81
-2040,22,PHI 76ers,H,112,83
-2040,23,PHI 76ers,A,102,114
-2040,24,CHA Hornets,H,108,98
-2040,25,LA Lakers,H,122,92
-2040,26,BOS Celtics,A,116,65
-2040,27,BKN Nets,A,102,90
-2040,28,CHI Bulls,H,90,98
-2040,29,TOR Raptors,H,116,103
-2040,30,NOLA Pelicans,H,113,88
-2040,31,PHX Suns,H,121,86
-2040,32,DEN Nuggets,A,123,121
-2040,33,ATL Hawks,H,126,76
-2040,34,NAS Stars,H,111,109
-2040,35,BOS Celtics,A,109,106
-2040,36,ORL Magic,H,118,96
-2040,37,TOR Raptors,H,116,90
-2040,38,KC Knights,H,101,115
-2040,39,HOU Rockets,H,127,105
-2040,40,VIR Storm,A,106,111
-2040,41,SAC Kings,H,81,86
-2040,42,SAN Spurs,A,91,95
-2040,43,NY Knicks,A,96,104
-2040,44,GS Warriors,A,88,93
-2040,45,CHI Bulls,A,124,117
-2040,46,KC Knights,A,82,79
-2040,47,LA Clippers,H,101,89
-2040,48,WAS Wizards,A,104,105
-2040,49,UTA Jazz,A,116,113
-2040,50,CLE Cavaliers,A,96,85
-2040,51,BOS Celtics,H,114,100
-2040,52,DEN Nuggets,H,118,96
-2040,53,MEM Grizzlies,H,109,95
-2040,54,PHX Suns,A,123,99
-2040,55,DET Pistons,A,97,101
-2040,56,MIN Timberwolves,H,124,117
-2040,57,OKC Thunder,A,88,91
-2040,58,NY Knicks,A,115,93
-2040,59,BAL Barons,A,113,109
-2040,60,IND Pacers,H,120,89
-2040,61,STL Sound,H,114,82
-2040,62,SAC Kings,A,108,95
-2040,63,LA Lakers,A,111,87
-2040,64,MIA Heat,H,108,103
-2040,65,PHI 76ers,A,113,107
-2040,66,BKN Nets,A,107,76
-2040,67,MEM Grizzlies,A,143,116
-2040,68,BOS Celtics,H,98,108
-2040,69,BKN Nets,H,105,111
-2040,70,POR Blazers,H,101,81
-2040,71,NOLA Pelicans,A,90,92
-2040,72,DAL Mavericks,A,84,108
-2040,73,CLE Cavaliers,H,113,107
-2040,74,MIL Bucks,A,99,101
-2040,75,BAL Barons,A,88,112
-2040,76,GS Warriors,H,119,99
-2040,77,HOU Rockets,A,102,86
-2040,78,IND Pacers,A,104,92
-2040,79,SAN Spurs,H,122,109
-2040,80,NY Knicks,H,94,104
-2040,81,BKN Nets,H,100,109
-2040,82,MIN Timberwolves,A,114,88
+season,game,opp_id,opp_name,home/away,talons score,opp score,conference,division,city,state
+2040,1,DET,Pistons,H,101,92,Eastern,Central,Charlotte,North Carolina
+2040,2,VIR,Storm,H,100,104,Eastern,Southeast,Charlotte,North Carolina
+2040,3,NYK,Knicks,H,100,102,Eastern,Atlantic,Charlotte,North Carolina
+2040,4,MIL,Bucks,H,88,119,Western,Northwest,Charlotte,North Carolina
+2040,5,CHA,Hornets,A,91,122,Eastern,Southeast,Charlotte,North Carolina
+2040,6,OKC,Thunder,H,107,109,Western,Southwest,Charlotte,North Carolina
+2040,7,BAL,Barons,H,108,104,Eastern,Atlantic,Charlotte,North Carolina
+2040,8,PHI,76ers,H,127,96,Eastern,Atlantic,Charlotte,North Carolina
+2040,9,ORL,Magic,A,117,86,Eastern,Southeast,Orlando,Florida
+2040,10,STL,Sound,A,118,121,Western,Northwest,St. Louis,Missouri
+2040,11,NAS,Stars,A,94,121,Eastern,Central,Nashville,Tennessee
+2040,12,DAL,Mavericks,H,105,69,Western,Southwest,Charlotte,North Carolina
+2040,13,TOR,Raptors,A,106,117,Eastern,Atlantic,Toronto,Canada
+2040,14,LAC,Clippers,A,106,110,Western,Pacific,Los Angeles,California
+2040,15,UTA,Jazz,H,129,125,Western,Pacific,Charlotte,North Carolina
+2040,16,BAL,Barons,H,119,117,Eastern,Atlantic,Charlotte,North Carolina
+2040,17,POR,Blazers,A,142,112,Western,Northwest,Portland,Oregon
+2040,18,WAS,Wizards,H,119,93,Eastern,Southeast,Charlotte,North Carolina
+2040,19,ATL,Hawks,A,118,102,Eastern,Southeast,Atlanta,Georgia
+2040,20,MIA,Heat,A,106,80,Eastern,Southeast,Miami,Florida
+2040,21,VIR,Storm,A,109,81,Eastern,Southeast,Richmond,Virginia
+2040,22,PHI,76ers,H,112,83,Eastern,Atlantic,Charlotte,North Carolina
+2040,23,PHI,76ers,A,102,114,Eastern,Atlantic,Philadelphia,Pennsylvania
+2040,24,CHA,Hornets,H,108,98,Eastern,Southeast,Charlotte,North Carolina
+2040,25,LAL,Lakers,H,122,92,Western,Pacific,Charlotte,North Carolina
+2040,26,BOS,Celtics,A,116,65,Eastern,Atlantic,Boston,Massachusetts
+2040,27,BKN,Nets,A,102,90,Eastern,Atlantic,Brooklyn,New York
+2040,28,CHI,Bulls,H,90,98,Eastern,Central,Charlotte,North Carolina
+2040,29,TOR,Raptors,H,116,103,Eastern,Atlantic,Charlotte,North Carolina
+2040,30,NOLA,Pelicans,H,113,88,Western,Southwest,Charlotte,North Carolina
+2040,31,PHX,Suns,H,121,86,Western,Pacific,Charlotte,North Carolina
+2040,32,DEN,Nuggets,A,123,121,Western,Northwest,Denver,Colorado
+2040,33,ATL,Hawks,H,126,76,Eastern,Southeast,Charlotte,North Carolina
+2040,34,NAS,Stars,H,111,109,Eastern,Central,Charlotte,North Carolina
+2040,35,BOS,Celtics,A,109,106,Eastern,Atlantic,Boston,Massachusetts
+2040,36,ORL,Magic,H,118,96,Eastern,Southeast,Charlotte,North Carolina
+2040,37,TOR,Raptors,H,116,90,Eastern,Atlantic,Charlotte,North Carolina
+2040,38,KCK,Knights,H,101,115,Western,Northwest,Charlotte,North Carolina
+2040,39,HOU,Rockets,H,127,105,Western,Southwest,Charlotte,North Carolina
+2040,40,VIR,Storm,A,106,111,Eastern,Southeast,Richmond,Virginia
+2040,41,SAC,Kings,H,81,86,Western,Pacific,Charlotte,North Carolina
+2040,42,SAS,Spurs,A,91,95,Western,Southwest,San Antonio,Texas
+2040,43,NYK,Knicks,A,96,104,Eastern,Atlantic,New York City,New York
+2040,44,GSW,Warriors,A,88,93,Western,Pacific,San Francisco,California
+2040,45,CHI,Bulls,A,124,117,Eastern,Central,Chicago,Illinois
+2040,46,KCK,Knights,A,82,79,Western,Northwest,Kansas City,Missouri
+2040,47,LAC,Clippers,H,101,89,Western,Pacific,Charlotte,North Carolina
+2040,48,WAS,Wizards,A,104,105,Eastern,Southeast,Washington,District of Columbia
+2040,49,UTA,Jazz,A,116,113,Western,Pacific,Salt Lake City,Utah
+2040,50,CLE,Cavaliers,A,96,85,Eastern,Central,Cleveland,Ohio
+2040,51,BOS,Celtics,H,114,100,Eastern,Atlantic,Charlotte,North Carolina
+2040,52,DEN,Nuggets,H,118,96,Western,Northwest,Charlotte,North Carolina
+2040,53,MEM,Grizzlies,H,109,95,Western,Southwest,Charlotte,North Carolina
+2040,54,PHX,Suns,A,123,99,Western,Pacific,Phoenix,Arizona
+2040,55,DET,Pistons,A,97,101,Eastern,Central,Detroit,Michigan
+2040,56,MIN,Timberwolves,H,124,117,Western,Northwest,Charlotte,North Carolina
+2040,57,OKC,Thunder,A,88,91,Western,Southwest,Oklahoma City,Oklahoma
+2040,58,NYK,Knicks,A,115,93,Eastern,Atlantic,New York City,New York
+2040,59,BAL,Barons,A,113,109,Eastern,Atlantic,Baltimore,Maryland
+2040,60,IND,Pacers,H,120,89,Eastern,Central,Charlotte,North Carolina
+2040,61,STL,Sound,H,114,82,Western,Northwest,Charlotte,North Carolina
+2040,62,SAC,Kings,A,108,95,Western,Pacific,Sacramento,California
+2040,63,LAL,Lakers,A,111,87,Western,Pacific,Los Angeles,California
+2040,64,MIA,Heat,H,108,103,Eastern,Southeast,Charlotte,North Carolina
+2040,65,PHI,76ers,A,113,107,Eastern,Atlantic,Philadelphia,Pennsylvania
+2040,66,BKN,Nets,A,107,76,Eastern,Atlantic,Brooklyn,New York
+2040,67,MEM,Grizzlies,A,143,116,Western,Southwest,Memphis,Tennessee
+2040,68,BOS,Celtics,H,98,108,Eastern,Atlantic,Charlotte,North Carolina
+2040,69,BKN,Nets,H,105,111,Eastern,Atlantic,Charlotte,North Carolina
+2040,70,POR,Blazers,H,101,81,Western,Northwest,Charlotte,North Carolina
+2040,71,NOLA,Pelicans,A,90,92,Western,Southwest,New Orleans,Louisiana
+2040,72,DAL,Mavericks,A,84,108,Western,Southwest,Dallas,Texas
+2040,73,CLE,Cavaliers,H,113,107,Eastern,Central,Charlotte,North Carolina
+2040,74,MIL,Bucks,A,99,101,Western,Northwest,Milwaukee,Wisconsin
+2040,75,BAL,Barons,A,88,112,Eastern,Atlantic,Baltimore,Maryland
+2040,76,GSW,Warriors,H,119,99,Western,Pacific,Charlotte,North Carolina
+2040,77,HOU,Rockets,A,102,86,Western,Southwest,Houston,Texas
+2040,78,IND,Pacers,A,104,92,Eastern,Central,Indianapolis,Indiana
+2040,79,SAS,Spurs,H,122,109,Western,Southwest,Charlotte,North Carolina
+2040,80,NYK,Knicks,H,94,104,Eastern,Atlantic,Charlotte,North Carolina
+2040,81,BKN,Nets,H,100,109,Eastern,Atlantic,Charlotte,North Carolina
+2040,82,MIN,Timberwolves,A,114,88,Western,Northwest,Minnenapolis,Minnesota
