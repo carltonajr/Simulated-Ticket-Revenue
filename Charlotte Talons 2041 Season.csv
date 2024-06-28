@@ -1,83 +1,83 @@
-season,game,opponent,home/away,talons score,opp score
-2041,1,PHX Suns,A,105,114
-2041,2,VIR Storm,H,120,104
-2041,3,ORL Magic,A,120,99
-2041,4,DET Pistons,A,104,110
-2041,5,LA Lakers,H,109,107
-2041,6,MIA Heat,A,125,79
-2041,7,MEM Grizzlies,A,112,88
-2041,8,MIN Timberwolves,A,100,101
-2041,9,HOU Rockets,H,98,93
-2041,10,MIL Bucks,A,113,91
-2041,11,PHX Suns,H,127,106
-2041,12,NY Knicks,H,87,99
-2041,13,PHI 76ers,H,112,58
-2041,14,GS Warriors,H,128,107
-2041,15,BKN Nets,H,88,97
-2041,16,BAL Barons,A,96,103
-2041,17,CHA Hornets,H,102,77
-2041,18,DET Pistons,H,123,97
-2041,19,POR Blazers,H,106,99
-2041,20,BAL Barons,H,100,115
-2041,21,MEM Grizzlies,H,124,98
-2041,22,PHI 76ers,A,93,103
-2041,23,CHI Bulls,H,125,102
-2041,24,SAN Spurs,H,127,76
-2041,25,BOS Celtics,A,98,91
-2041,26,BKN Nets,H,122,109
-2041,27,DEN Nuggets,H,101,125
-2041,28,WAS Wizards,A,99,101
-2041,29,UTA Jazz,A,103,116
-2041,30,ORL Magic,A,129,102
-2041,31,GS Warriors,A,113,99
-2041,32,ATL Hawks,A,116,90
-2041,33,LA Clippers,A,97,95
-2041,34,CLE Cavaliers,A,119,84
-2041,35,MIL Bucks,H,111,99
-2041,36,IND Pacers,A,89,97
-2041,37,OKC Thunder,A,78,99
-2041,38,ORL Magic,H,119,105
-2041,39,NAS Stars,A,103,93
-2041,40,NOLA Pelicans,H,104,92
-2041,41,IND Pacers,H,119,90
-2041,42,TOR Raptors,A,103,107
-2041,43,NAS Stars,H,117,112
-2041,44,NAS Stars,H,114,101
-2041,45,BKN Nets,A,94,108
-2041,46,LA Clippers,H,98,78
-2041,47,STL Sound,H,125,86
-2041,48,CHI Bulls,A,118,101
-2041,49,DAL Mavericks,H,106,87
-2041,50,MIA Heat,H,102,83
-2041,51,TOR Raptors,H,97,86
-2041,52,BKN Nets,A,107,121
-2041,53,OKC Thunder,H,106,91
-2041,54,NY Knicks,A,86,88
-2041,55,NY Knicks,H,105,90
-2041,56,DAL Mavericks,A,112,92
-2041,57,ATL Hawks,H,117,122
-2041,58,DEN Nuggets,A,111,102
-2041,59,BOS Celtics,H,105,118
-2041,60,NY Knicks,A,110,103
-2041,61,KC Knights,A,88,100
-2041,62,HOU Rockets,A,105,102
-2041,63,SAC Kings,A,99,122
-2041,64,SAC Kings,H,126,95
-2041,65,MIN Timberwolves,H,124,92
-2041,66,BOS Celtics,A,106,109
-2041,67,BAL Barons,H,100,115
-2041,68,NOLA Pelicans,A,90,99
-2041,69,PHI 76ers,H,81,96
-2041,70,LA Lakers,A,94,92
-2041,71,STL Sound,A,110,78
-2041,72,SAN Spurs,A,99,114
-2041,73,WAS Wizards,H,99,108
-2041,74,POR Blazers,A,122,110
-2041,75,PHI 76ers,A,134,109
-2041,76,UTA Jazz,H,81,100
-2041,77,KC Knights,H,101,103
-2041,78,CHA Hornets,A,91,72
-2041,79,VIR Storm,A,98,91
-2041,80,CLE Cavaliers,H,134,94
-2041,81,BAL Barons,A,109,116
-2041,82,BOS Celtics,H,127,100
+season,game,opp_id,opp_name,home/away,talons score,opp score,conference,division,city,state
+2041,1,PHX,Suns,A,105,114,Western,Pacific,Phoenix,Arizona
+2041,2,VIR,Storm,H,120,104,Eastern,Southeast,Charlotte,North Carolina
+2041,3,ORL,Magic,A,120,99,Eastern,Southeast,Orlando,Florida
+2041,4,DET,Pistons,A,104,110,Eastern,Central,Detroit,Michigan
+2041,5,LAL,Lakers,H,109,107,Western,Pacific,Charlotte,North Carolina
+2041,6,MIA,Heat,A,125,79,Eastern,Southeast,Miami,Florida
+2041,7,MEM,Grizzlies,A,112,88,Western,Southwest,Memphis,Tennessee
+2041,8,MIN,Timberwolves,A,100,101,Western,Northwest,Minnenapolis,Minnesota
+2041,9,HOU,Rockets,H,98,93,Western,Southwest,Charlotte,North Carolina
+2041,10,MIL,Bucks,A,113,91,Western,Northwest,Milwaukee,Wisconsin
+2041,11,PHX,Suns,H,127,106,Western,Pacific,Charlotte,North Carolina
+2041,12,NYK,Knicks,H,87,99,Eastern,Atlantic,Charlotte,North Carolina
+2041,13,PHI,76ers,H,112,58,Eastern,Atlantic,Charlotte,North Carolina
+2041,14,GSW,Warriors,H,128,107,Western,Pacific,Charlotte,North Carolina
+2041,15,BKN,Nets,H,88,97,Eastern,Atlantic,Charlotte,North Carolina
+2041,16,BAL,Barons,A,96,103,Eastern,Atlantic,Baltimore,Maryland
+2041,17,CHA,Hornets,H,102,77,Eastern,Southeast,Charlotte,North Carolina
+2041,18,DET,Pistons,H,123,97,Eastern,Central,Charlotte,North Carolina
+2041,19,POR,Blazers,H,106,99,Western,Northwest,Charlotte,North Carolina
+2041,20,BAL,Barons,H,100,115,Eastern,Atlantic,Charlotte,North Carolina
+2041,21,MEM,Grizzlies,H,124,98,Western,Southwest,Charlotte,North Carolina
+2041,22,PHI,76ers,A,93,103,Eastern,Atlantic,Philadelphia,Pennsylvania
+2041,23,CHI,Bulls,H,125,102,Eastern,Central,Charlotte,North Carolina
+2041,24,SAS,Spurs,H,127,76,Western,Southwest,Charlotte,North Carolina
+2041,25,BOS,Celtics,A,98,91,Eastern,Atlantic,Boston,Massachusetts
+2041,26,BKN,Nets,H,122,109,Eastern,Atlantic,Charlotte,North Carolina
+2041,27,DEN,Nuggets,H,101,125,Western,Northwest,Charlotte,North Carolina
+2041,28,WAS,Wizards,A,99,101,Eastern,Southeast,Washington,District of Columbia
+2041,29,UTA,Jazz,A,103,116,Western,Pacific,Salt Lake City,Utah
+2041,30,ORL,Magic,A,129,102,Eastern,Southeast,Orlando,Florida
+2041,31,GSW,Warriors,A,113,99,Western,Pacific,San Francisco,California
+2041,32,ATL,Hawks,A,116,90,Eastern,Southeast,Atlanta,Georgia
+2041,33,LAC,Clippers,A,97,95,Western,Pacific,Los Angeles,California
+2041,34,CLE,Cavaliers,A,119,84,Eastern,Central,Cleveland,Ohio
+2041,35,MIL,Bucks,H,111,99,Western,Northwest,Charlotte,North Carolina
+2041,36,IND,Pacers,A,89,97,Eastern,Central,Indianapolis,Indiana
+2041,37,OKC,Thunder,A,78,99,Western,Southwest,Oklahoma City,Oklahoma
+2041,38,ORL,Magic,H,119,105,Eastern,Southeast,Charlotte,North Carolina
+2041,39,NAS,Stars,A,103,93,Eastern,Central,Nashville,Tennessee
+2041,40,NOLA,Pelicans,H,104,92,Western,Southwest,Charlotte,North Carolina
+2041,41,IND,Pacers,H,119,90,Eastern,Central,Charlotte,North Carolina
+2041,42,TOR,Raptors,A,103,107,Eastern,Atlantic,Toronto,Canada
+2041,43,NAS,Stars,H,117,112,Eastern,Central,Charlotte,North Carolina
+2041,44,NAS,Stars,H,114,101,Eastern,Central,Charlotte,North Carolina
+2041,45,BKN,Nets,A,94,108,Eastern,Atlantic,Brooklyn,New York
+2041,46,LAC,Clippers,H,98,78,Western,Pacific,Charlotte,North Carolina
+2041,47,STL,Sound,H,125,86,Western,Northwest,Charlotte,North Carolina
+2041,48,CHI,Bulls,A,118,101,Eastern,Central,Chicago,Illinois
+2041,49,DAL,Mavericks,H,106,87,Western,Southwest,Charlotte,North Carolina
+2041,50,MIA,Heat,H,102,83,Eastern,Southeast,Charlotte,North Carolina
+2041,51,TOR,Raptors,H,97,86,Eastern,Atlantic,Charlotte,North Carolina
+2041,52,BKN,Nets,A,107,121,Eastern,Atlantic,Brooklyn,New York
+2041,53,OKC,Thunder,H,106,91,Western,Southwest,Charlotte,North Carolina
+2041,54,NYK,Knicks,A,86,88,Eastern,Atlantic,New York City,New York
+2041,55,NYK,Knicks,H,105,90,Eastern,Atlantic,Charlotte,North Carolina
+2041,56,DAL,Mavericks,A,112,92,Western,Southwest,Dallas,Texas
+2041,57,ATL,Hawks,H,117,122,Eastern,Southeast,Charlotte,North Carolina
+2041,58,DEN,Nuggets,A,111,102,Western,Northwest,Denver,Colorado
+2041,59,BOS,Celtics,H,105,118,Eastern,Atlantic,Charlotte,North Carolina
+2041,60,NYK,Knicks,A,110,103,Eastern,Atlantic,New York City,New York
+2041,61,KCK,Knights,A,88,100,Western,Northwest,Kansas City,Missouri
+2041,62,HOU,Rockets,A,105,102,Western,Southwest,Houston,Texas
+2041,63,SAC,Kings,A,99,122,Western,Pacific,Sacramento,California
+2041,64,SAC,Kings,H,126,95,Western,Pacific,Charlotte,North Carolina
+2041,65,MIN,Timberwolves,H,124,92,Western,Northwest,Charlotte,North Carolina
+2041,66,BOS,Celtics,A,106,109,Eastern,Atlantic,Boston,Massachusetts
+2041,67,BAL,Barons,H,100,115,Eastern,Atlantic,Charlotte,North Carolina
+2041,68,NOLA,Pelicans,A,90,99,Western,Southwest,New Orleans,Louisiana
+2041,69,PHI,76ers,H,81,96,Eastern,Atlantic,Charlotte,North Carolina
+2041,70,LAL,Lakers,A,94,92,Western,Pacific,Los Angeles,California
+2041,71,STL,Sound,A,110,78,Western,Northwest,St. Louis,Missouri
+2041,72,SAS,Spurs,A,99,114,Western,Southwest,San Antonio,Texas
+2041,73,WAS,Wizards,H,99,108,Eastern,Southeast,Charlotte,North Carolina
+2041,74,POR,Blazers,A,122,110,Western,Northwest,Portland,Oregon
+2041,75,PHI,76ers,A,134,109,Eastern,Atlantic,Philadelphia,Pennsylvania
+2041,76,UTA,Jazz,H,81,100,Western,Pacific,Charlotte,North Carolina
+2041,77,KCK,Knights,H,101,103,Western,Northwest,Charlotte,North Carolina
+2041,78,CHA,Hornets,A,91,72,Eastern,Southeast,Charlotte,North Carolina
+2041,79,VIR,Storm,A,98,91,Eastern,Southeast,Richmond,Virginia
+2041,80,CLE,Cavaliers,H,134,94,Eastern,Central,Charlotte,North Carolina
+2041,81,BAL,Barons,A,109,116,Eastern,Atlantic,Baltimore,Maryland
+2041,82,BOS,Celtics,H,127,100,Eastern,Atlantic,Charlotte,North Carolina
