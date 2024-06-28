@@ -1,83 +1,83 @@
-season,game,opponent,home/away,talons score,opp score
-2031,1,PHI 76ers,A,114,116
-2031,2,MIA Heat,H,120,63
-2031,3,CHA Hornets,H,98,81
-2031,4,MEM Grizzlies,A,115,85
-2031,5,LA Clippers,H,118,117
-2031,6,OKC Thunder,A,99,98
-2031,7,SAC Kings,H,126,104
-2031,8,VIR Storm,A,103,109
-2031,9,ATL Hawks,H,126,100
-2031,10,CHA Hornets,A,120,117
-2031,11,UTA Jazz,H,98,93
-2031,12,GS Warriors,A,121,97
-2031,13,CHA Hornets,H,109,100
-2031,14,ATL Hawks,A,117,110
-2031,15,UTA Jazz,A,136,113
-2031,16,CHA Hornets,A,108,94
-2031,17,CLE Cavaliers,A,115,110
-2031,18,KC Knights,A,121,105
-2031,19,CLE Cavaliers,H,109,100
-2031,20,STL Sound,A,99,81
-2031,21,PHI 76ers,H,116,63
-2031,22,SAN Spurs,A,116,88
-2031,23,BOS Celtics,H,122,94
-2031,24,SAN Spurs,H,134,75
-2031,25,NY Knicks,A,97,98
-2031,26,MIN Timberwolves,A,92,100
-2031,27,BKN Nets,H,126,87
-2031,28,MIA Heat,A,86,91
-2031,29,MIN Timberwolves,H,116,92
-2031,30,MIA Heat,A,114,95
-2031,31,ORL Magic,A,98,105
-2031,32,IND Pacers,H,126,93
-2031,33,PHX Suns,A,112,84
-2031,34,GS Warriors,H,123,79
-2031,35,NAS Stars,H,123,72
-2031,36,MIA Heat,H,113,79
-2031,37,CHI Bulls,H,110,112
-2031,38,VIR Storm,H,115,80
-2031,39,DET Pistons,H,107,90
-2031,40,VIR Storm,H,138,92
-2031,41,PHI 76ers,H,139,92
-2031,42,TOR Raptors,H,122,106
-2031,43,TOR Raptors,A,110,91
-2031,44,LA Clippers,A,86,80
-2031,45,DEN Nuggets,H,134,94
-2031,46,DAL Mavericks,H,120,98
-2031,47,POR Blazers,A,100,104
-2031,48,BAL Barons,A,105,91
-2031,49,PHX Suns,H,131,111
-2031,50,MIL Bucks,H,120,83
-2031,51,BKN Nets,A,108,118
-2031,52,SAC Kings,A,100,92
-2031,53,OKC Thunder,H,127,100
-2031,54,WAS Wizards,H,117,90
-2031,55,MEM Grizzlies,H,115,90
-2031,56,ORL Magic,H,125,94
-2031,57,CHI Bulls,A,119,107
-2031,58,ORL Magic,A,115,117
-2031,59,STL Sound,H,115,78
-2031,60,ATL Hawks,A,114,97
-2031,61,WAS Wizards,A,109,111
-2031,62,NAS Stars,A,95,108
-2031,63,HOU Rockets,H,96,98
-2031,64,DET Pistons,A,118,83
-2031,65,KC Knights,H,80,74
-2031,66,NOLA Pelicans,A,119,81
-2031,67,DEN Nuggets,A,121,86
-2031,68,IND Pacers,A,119,86
-2031,69,LA Lakers,A,107,70
-2031,70,DAL Mavericks,A,110,99
-2031,71,ORL Magic,H,116,111
-2031,72,BOS Celtics,A,150,81
-2031,73,VIR Storm,A,120,91
-2031,74,POR Blazers,H,136,112
-2031,75,NOLA Pelicans,H,134,78
-2031,76,BAL Barons,H,127,99
-2031,77,ATL Hawks,H,95,80
-2031,78,HOU Rockets,A,105,106
-2031,79,MIL Bucks,A,110,101
-2031,80,LA Lakers,H,122,93
-2031,81,NY Knicks,H,136,100
-2031,82,DET Pistons,A,96,95
+season,game,opp_id,opp_name,home/away,talons score,opp score,conference,division,city,state
+2031,1,PHI,76ers,A,114,116,Eastern,Atlantic,Philadelphia,Pennsylvania
+2031,2,MIA,Heat,H,120,63,Eastern,Southeast,Charlotte,North Carolina
+2031,3,CHA,Hornets,H,98,81,Eastern,Southeast,Charlotte,North Carolina
+2031,4,MEM,Grizzlies,A,115,85,Western,Southwest,Memphis,Tennessee
+2031,5,LAC,Clippers,H,118,117,Western,Pacific,Charlotte,North Carolina
+2031,6,OKC,Thunder,A,99,98,Western,Southwest,Oklahoma City,Oklahoma
+2031,7,SAC,Kings,H,126,104,Western,Pacific,Charlotte,North Carolina
+2031,8,VIR,Storm,A,103,109,Eastern,Southeast,Richmond,Virginia
+2031,9,ATL,Hawks,H,126,100,Eastern,Southeast,Charlotte,North Carolina
+2031,10,CHA,Hornets,A,120,117,Eastern,Southeast,Charlotte,North Carolina
+2031,11,UTA,Jazz,H,98,93,Western,Pacific,Charlotte,North Carolina
+2031,12,GSW,Warriors,A,121,97,Western,Pacific,San Francisco,California
+2031,13,CHA,Hornets,H,109,100,Eastern,Southeast,Charlotte,North Carolina
+2031,14,ATL,Hawks,A,117,110,Eastern,Southeast,Atlanta,Georgia
+2031,15,UTA,Jazz,A,136,113,Western,Pacific,Salt Lake City,Utah
+2031,16,CHA,Hornets,A,108,94,Eastern,Southeast,Charlotte,North Carolina
+2031,17,CLE,Cavaliers,A,115,110,Eastern,Central,Cleveland,Ohio
+2031,18,KCK,Knights,A,121,105,Western,Northwest,Kansas City,Missouri
+2031,19,CLE,Cavaliers,H,109,100,Eastern,Central,Charlotte,North Carolina
+2031,20,STL,Sound,A,99,81,Western,Northwest,St. Louis,Missouri
+2031,21,PHI,76ers,H,116,63,Eastern,Atlantic,Charlotte,North Carolina
+2031,22,SAS,Spurs,A,116,88,Western,Southwest,San Antonio,Texas
+2031,23,BOS,Celtics,H,122,94,Eastern,Atlantic,Charlotte,North Carolina
+2031,24,SAS,Spurs,H,134,75,Western,Southwest,Charlotte,North Carolina
+2031,25,NYK,Knicks,A,97,98,Eastern,Atlantic,New York City,New York
+2031,26,MIN,Timberwolves,A,92,100,Western,Northwest,Minnenapolis,Minnesota
+2031,27,BKN,Nets,H,126,87,Eastern,Atlantic,Charlotte,North Carolina
+2031,28,MIA,Heat,A,86,91,Eastern,Southeast,Miami,Florida
+2031,29,MIN,Timberwolves,H,116,92,Western,Northwest,Charlotte,North Carolina
+2031,30,MIA,Heat,A,114,95,Eastern,Southeast,Miami,Florida
+2031,31,ORL,Magic,A,98,105,Eastern,Southeast,Orlando,Florida
+2031,32,IND,Pacers,H,126,93,Eastern,Central,Charlotte,North Carolina
+2031,33,PHX,Suns,A,112,84,Western,Pacific,Phoenix,Arizona
+2031,34,GSW,Warriors,H,123,79,Western,Pacific,Charlotte,North Carolina
+2031,35,NAS,Stars,H,123,72,Eastern,Central,Charlotte,North Carolina
+2031,36,MIA,Heat,H,113,79,Eastern,Southeast,Charlotte,North Carolina
+2031,37,CHI,Bulls,H,110,112,Eastern,Central,Charlotte,North Carolina
+2031,38,VIR,Storm,H,115,80,Eastern,Southeast,Charlotte,North Carolina
+2031,39,DET,Pistons,H,107,90,Eastern,Central,Charlotte,North Carolina
+2031,40,VIR,Storm,H,138,92,Eastern,Southeast,Charlotte,North Carolina
+2031,41,PHI,76ers,H,139,92,Eastern,Atlantic,Charlotte,North Carolina
+2031,42,TOR,Raptors,H,122,106,Eastern,Atlantic,Charlotte,North Carolina
+2031,43,TOR,Raptors,A,110,91,Eastern,Atlantic,Toronto,Canada
+2031,44,LAC,Clippers,A,86,80,Western,Pacific,Los Angeles,California
+2031,45,DEN,Nuggets,H,134,94,Western,Northwest,Charlotte,North Carolina
+2031,46,DAL,Mavericks,H,120,98,Western,Southwest,Charlotte,North Carolina
+2031,47,POR,Blazers,A,100,104,Western,Northwest,Portland,Oregon
+2031,48,BAL,Barons,A,105,91,Eastern,Atlantic,Baltimore,Maryland
+2031,49,PHX,Suns,H,131,111,Western,Pacific,Charlotte,North Carolina
+2031,50,MIL,Bucks,H,120,83,Western,Northwest,Charlotte,North Carolina
+2031,51,BKN,Nets,A,108,118,Eastern,Atlantic,Brooklyn,New York
+2031,52,SAC,Kings,A,100,92,Western,Pacific,Sacramento,California
+2031,53,OKC,Thunder,H,127,100,Western,Southwest,Charlotte,North Carolina
+2031,54,WAS,Wizards,H,117,90,Eastern,Southeast,Charlotte,North Carolina
+2031,55,MEM,Grizzlies,H,115,90,Western,Southwest,Charlotte,North Carolina
+2031,56,ORL,Magic,H,125,94,Eastern,Southeast,Charlotte,North Carolina
+2031,57,CHI,Bulls,A,119,107,Eastern,Central,Chicago,Illinois
+2031,58,ORL,Magic,A,115,117,Eastern,Southeast,Orlando,Florida
+2031,59,STL,Sound,H,115,78,Western,Northwest,Charlotte,North Carolina
+2031,60,ATL,Hawks,A,114,97,Eastern,Southeast,Atlanta,Georgia
+2031,61,WAS,Wizards,A,109,111,Eastern,Southeast,Washington,District of Columbia
+2031,62,NAS,Stars,A,95,108,Eastern,Central,Nashville,Tennessee
+2031,63,HOU,Rockets,H,96,98,Western,Southwest,Charlotte,North Carolina
+2031,64,DET,Pistons,A,118,83,Eastern,Central,Detroit,Michigan
+2031,65,KCK,Knights,H,80,74,Western,Northwest,Charlotte,North Carolina
+2031,66,NOLA,Pelicans,A,119,81,Western,Southwest,New Orleans,Louisiana
+2031,67,DEN,Nuggets,A,121,86,Western,Northwest,Denver,Colorado
+2031,68,IND,Pacers,A,119,86,Eastern,Central,Indianapolis,Indiana
+2031,69,LAL,Lakers,A,107,70,Western,Pacific,Los Angeles,California
+2031,70,DAL,Mavericks,A,110,99,Western,Southwest,Dallas,Texas
+2031,71,ORL,Magic,H,116,111,Eastern,Southeast,Charlotte,North Carolina
+2031,72,BOS,Celtics,A,150,81,Eastern,Atlantic,Boston,Massachusetts
+2031,73,VIR,Storm,A,120,91,Eastern,Southeast,Richmond,Virginia
+2031,74,POR,Blazers,H,136,112,Western,Northwest,Charlotte,North Carolina
+2031,75,NOLA,Pelicans,H,134,78,Western,Southwest,Charlotte,North Carolina
+2031,76,BAL,Barons,H,127,99,Eastern,Atlantic,Charlotte,North Carolina
+2031,77,ATL,Hawks,H,95,80,Eastern,Southeast,Charlotte,North Carolina
+2031,78,HOU,Rockets,A,105,106,Western,Southwest,Houston,Texas
+2031,79,MIL,Bucks,A,110,101,Western,Northwest,Milwaukee,Wisconsin
+2031,80,LAL,Lakers,H,122,93,Western,Pacific,Charlotte,North Carolina
+2031,81,NYK,Knicks,H,136,100,Eastern,Atlantic,Charlotte,North Carolina
+2031,82,DET,Pistons,A,96,95,Eastern,Central,Detroit,Michigan
