@@ -1,83 +1,83 @@
-season,game,opponent,home/away,talons score,opp score
-2038,1,DET Pistons,H,130,96
-2038,2,LA Clippers,H,103,93
-2038,3,HOU Rockets,A,116,96
-2038,4,LA Clippers,A,138,98
-2038,5,KC Knights,A,105,94
-2038,6,CHI Bulls,A,85,105
-2038,7,ORL Magic,A,96,93
-2038,8,CHA Hornets,H,120,81
-2038,9,TOR Raptors,A,114,98
-2038,10,NOLA Pelicans,A,123,86
-2038,11,ATL Hawks,H,134,93
-2038,12,MEM Grizzlies,A,121,80
-2038,13,POR Blazers,A,101,93
-2038,14,WAS Wizards,A,152,112
-2038,15,ORL Magic,H,102,98
-2038,16,PHI 76ers,H,105,91
-2038,17,WAS Wizards,H,123,93
-2038,18,BOS Celtics,H,99,74
-2038,19,OKC Thunder,H,128,77
-2038,20,LA Lakers,A,117,79
-2038,21,SAN Spurs,H,91,117
-2038,22,PHI 76ers,A,148,104
-2038,23,NY Knicks,H,93,94
-2038,24,IND Pacers,H,131,100
-2038,25,BAL Barons,H,109,89
-2038,26,VIR Storm,H,124,122
-2038,27,DEN Nuggets,H,113,92
-2038,28,CHI Bulls,H,85,77
-2038,29,MIL Bucks,A,102,92
-2038,30,LA Lakers,H,120,105
-2038,31,MIA Heat,A,102,91
-2038,32,DAL Mavericks,H,125,95
-2038,33,NY Knicks,A,114,83
-2038,34,TOR Raptors,H,104,103
-2038,35,NY Knicks,A,104,95
-2038,36,IND Pacers,H,111,92
-2038,37,STL Sound,A,113,109
-2038,38,BOS Celtics,A,104,80
-2038,39,PHX Suns,H,113,89
-2038,40,BKN Nets,A,99,96
-2038,41,BOS Celtics,H,108,75
-2038,42,VIR Storm,A,145,104
-2038,43,OKC Thunder,A,93,78
-2038,44,SAC Kings,H,106,117
-2038,45,STL Sound,H,106,92
-2038,46,CLE Cavaliers,H,130,92
-2038,47,ORL Magic,A,111,106
-2038,48,BAL Barons,H,114,103
-2038,49,GS Warriors,A,107,103
-2038,50,MEM Grizzlies,H,109,86
-2038,51,BOS Celtics,A,109,98
-2038,52,PHI 76ers,A,138,107
-2038,53,BKN Nets,A,105,107
-2038,54,BAL Barons,A,105,83
-2038,55,IND Pacers,A,98,75
-2038,56,POR Blazers,H,90,87
-2038,57,CLE Cavaliers,A,110,106
-2038,58,NY Knicks,H,113,99
-2038,59,MIA Heat,H,77,74
-2038,60,GS Warriors,H,139,105
-2038,61,BKN Nets,H,121,110
-2038,62,NAS Stars,H,126,78
-2038,63,BKN Nets,H,114,115
-2038,64,SAN Spurs,A,89,100
-2038,65,NOLA Pelicans,H,112,85
-2038,66,UTA Jazz,H,113,104
-2038,67,SAC Kings,A,109,94
-2038,68,PHI 76ers,H,127,90
-2038,69,MIL Bucks,H,82,90
-2038,70,BAL Barons,A,96,109
-2038,71,KC Knights,H,120,112
-2038,72,UTA Jazz,A,118,82
-2038,73,ATL Hawks,A,107,94
-2038,74,PHX Suns,A,132,93
-2038,75,DAL Mavericks,A,115,88
-2038,76,MIN Timberwolves,A,120,100
-2038,77,NAS Stars,A,115,93
-2038,78,DET Pistons,A,116,118
-2038,79,MIN Timberwolves,H,124,74
-2038,80,CHA Hornets,A,114,109
-2038,81,HOU Rockets,H,113,106
-2038,82,DEN Nuggets,A,92,114
+season,game,opp_id,opp_name,home/away,talons score,opp score,conference,division,city,state
+2038,1,DET,Pistons,H,130,96,Eastern,Central,Charlotte,North Carolina
+2038,2,LAC,Clippers,H,103,93,Western,Pacific,Charlotte,North Carolina
+2038,3,HOU,Rockets,A,116,96,Western,Southwest,Houston,Texas
+2038,4,LAC,Clippers,A,138,98,Western,Pacific,Los Angeles,California
+2038,5,KCK,Knights,A,105,94,Western,Northwest,Kansas City,Missouri
+2038,6,CHI,Bulls,A,85,105,Eastern,Central,Chicago,Illinois
+2038,7,ORL,Magic,A,96,93,Eastern,Southeast,Orlando,Florida
+2038,8,CHA,Hornets,H,120,81,Eastern,Southeast,Charlotte,North Carolina
+2038,9,TOR,Raptors,A,114,98,Eastern,Atlantic,Toronto,Canada
+2038,10,NOLA,Pelicans,A,123,86,Western,Southwest,New Orleans,Louisiana
+2038,11,ATL,Hawks,H,134,93,Eastern,Southeast,Charlotte,North Carolina
+2038,12,MEM,Grizzlies,A,121,80,Western,Southwest,Memphis,Tennessee
+2038,13,POR,Blazers,A,101,93,Western,Northwest,Portland,Oregon
+2038,14,WAS,Wizards,A,152,112,Eastern,Southeast,Washington,District of Columbia
+2038,15,ORL,Magic,H,102,98,Eastern,Southeast,Charlotte,North Carolina
+2038,16,PHI,76ers,H,105,91,Eastern,Atlantic,Charlotte,North Carolina
+2038,17,WAS,Wizards,H,123,93,Eastern,Southeast,Charlotte,North Carolina
+2038,18,BOS,Celtics,H,99,74,Eastern,Atlantic,Charlotte,North Carolina
+2038,19,OKC,Thunder,H,128,77,Western,Southwest,Charlotte,North Carolina
+2038,20,LAL,Lakers,A,117,79,Western,Pacific,Los Angeles,California
+2038,21,SAS,Spurs,H,91,117,Western,Southwest,Charlotte,North Carolina
+2038,22,PHI,76ers,A,148,104,Eastern,Atlantic,Philadelphia,Pennsylvania
+2038,23,NYK,Knicks,H,93,94,Eastern,Atlantic,Charlotte,North Carolina
+2038,24,IND,Pacers,H,131,100,Eastern,Central,Charlotte,North Carolina
+2038,25,BAL,Barons,H,109,89,Eastern,Atlantic,Charlotte,North Carolina
+2038,26,VIR,Storm,H,124,122,Eastern,Southeast,Charlotte,North Carolina
+2038,27,DEN,Nuggets,H,113,92,Western,Northwest,Charlotte,North Carolina
+2038,28,CHI,Bulls,H,85,77,Eastern,Central,Charlotte,North Carolina
+2038,29,MIL,Bucks,A,102,92,Western,Northwest,Milwaukee,Wisconsin
+2038,30,LAL,Lakers,H,120,105,Western,Pacific,Charlotte,North Carolina
+2038,31,MIA,Heat,A,102,91,Eastern,Southeast,Miami,Florida
+2038,32,DAL,Mavericks,H,125,95,Western,Southwest,Charlotte,North Carolina
+2038,33,NYK,Knicks,A,114,83,Eastern,Atlantic,New York City,New York
+2038,34,TOR,Raptors,H,104,103,Eastern,Atlantic,Charlotte,North Carolina
+2038,35,NYK,Knicks,A,104,95,Eastern,Atlantic,New York City,New York
+2038,36,IND,Pacers,H,111,92,Eastern,Central,Charlotte,North Carolina
+2038,37,STL,Sound,A,113,109,Western,Northwest,St. Louis,Missouri
+2038,38,BOS,Celtics,A,104,80,Eastern,Atlantic,Boston,Massachusetts
+2038,39,PHX,Suns,H,113,89,Western,Pacific,Charlotte,North Carolina
+2038,40,BKN,Nets,A,99,96,Eastern,Atlantic,Brooklyn,New York
+2038,41,BOS,Celtics,H,108,75,Eastern,Atlantic,Charlotte,North Carolina
+2038,42,VIR,Storm,A,145,104,Eastern,Southeast,Richmond,Virginia
+2038,43,OKC,Thunder,A,93,78,Western,Southwest,Oklahoma City,Oklahoma
+2038,44,SAC,Kings,H,106,117,Western,Pacific,Charlotte,North Carolina
+2038,45,STL,Sound,H,106,92,Western,Northwest,Charlotte,North Carolina
+2038,46,CLE,Cavaliers,H,130,92,Eastern,Central,Charlotte,North Carolina
+2038,47,ORL,Magic,A,111,106,Eastern,Southeast,Orlando,Florida
+2038,48,BAL,Barons,H,114,103,Eastern,Atlantic,Charlotte,North Carolina
+2038,49,GSW,Warriors,A,107,103,Western,Pacific,San Francisco,California
+2038,50,MEM,Grizzlies,H,109,86,Western,Southwest,Charlotte,North Carolina
+2038,51,BOS,Celtics,A,109,98,Eastern,Atlantic,Boston,Massachusetts
+2038,52,PHI,76ers,A,138,107,Eastern,Atlantic,Philadelphia,Pennsylvania
+2038,53,BKN,Nets,A,105,107,Eastern,Atlantic,Brooklyn,New York
+2038,54,BAL,Barons,A,105,83,Eastern,Atlantic,Baltimore,Maryland
+2038,55,IND,Pacers,A,98,75,Eastern,Central,Indianapolis,Indiana
+2038,56,POR,Blazers,H,90,87,Western,Northwest,Charlotte,North Carolina
+2038,57,CLE,Cavaliers,A,110,106,Eastern,Central,Cleveland,Ohio
+2038,58,NYK,Knicks,H,113,99,Eastern,Atlantic,Charlotte,North Carolina
+2038,59,MIA,Heat,H,77,74,Eastern,Southeast,Charlotte,North Carolina
+2038,60,GSW,Warriors,H,139,105,Western,Pacific,Charlotte,North Carolina
+2038,61,BKN,Nets,H,121,110,Eastern,Atlantic,Charlotte,North Carolina
+2038,62,NAS,Stars,H,126,78,Eastern,Central,Charlotte,North Carolina
+2038,63,BKN,Nets,H,114,115,Eastern,Atlantic,Charlotte,North Carolina
+2038,64,SAS,Spurs,A,89,100,Western,Southwest,San Antonio,Texas
+2038,65,NOLA,Pelicans,H,112,85,Western,Southwest,Charlotte,North Carolina
+2038,66,UTA,Jazz,H,113,104,Western,Pacific,Charlotte,North Carolina
+2038,67,SAC,Kings,A,109,94,Western,Pacific,Sacramento,California
+2038,68,PHI,76ers,H,127,90,Eastern,Atlantic,Charlotte,North Carolina
+2038,69,MIL,Bucks,H,82,90,Western,Northwest,Charlotte,North Carolina
+2038,70,BAL,Barons,A,96,109,Eastern,Atlantic,Baltimore,Maryland
+2038,71,KCK,Knights,H,120,112,Western,Northwest,Charlotte,North Carolina
+2038,72,UTA,Jazz,A,118,82,Western,Pacific,Salt Lake City,Utah
+2038,73,ATL,Hawks,A,107,94,Eastern,Southeast,Atlanta,Georgia
+2038,74,PHX,Suns,A,132,93,Western,Pacific,Phoenix,Arizona
+2038,75,DAL,Mavericks,A,115,88,Western,Southwest,Dallas,Texas
+2038,76,MIN,Timberwolves,A,120,100,Western,Northwest,Minnenapolis,Minnesota
+2038,77,NAS,Stars,A,115,93,Eastern,Central,Nashville,Tennessee
+2038,78,DET,Pistons,A,116,118,Eastern,Central,Detroit,Michigan
+2038,79,MIN,Timberwolves,H,124,74,Western,Northwest,Charlotte,North Carolina
+2038,80,CHA,Hornets,A,114,109,Eastern,Southeast,Charlotte,North Carolina
+2038,81,HOU,Rockets,H,113,106,Western,Southwest,Charlotte,North Carolina
+2038,82,DEN,Nuggets,A,92,114,Western,Northwest,Denver,Colorado
