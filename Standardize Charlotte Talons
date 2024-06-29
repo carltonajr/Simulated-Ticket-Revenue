@@ -1,0 +1,96 @@
+import pandas as pd
+import numpy as np
+pd.set_option('display.max_columns', None)
+opponents = pd.read_csv("opponents_file.csv")
+
+def update_opp_names_ids(df, column):
+    # Convert the specified column to string type
+    df[column] = df[column].astype('string')
+    # Split the values in the column into two new columns
+    change_team_names = df[column].str.split(' ', expand=True)
+    # Rename the new columns to 'opp_id' and 'opp_name'
+    change_team_names.columns = ['opp_id', 'opp_name']
+    # Create a new DataFrame from the split columns
+    change_team_names = pd.DataFrame(change_team_names)
+    # Concatenate the new DataFrame with the original DataFrame
+    df = pd.concat([change_team_names, df], axis=1)
+    return df
+
+# Apply the update_opp_names_ids function to the 'opponent' column of the opponents DataFrame
+opp_info = pd.DataFrame(update_opp_names_ids(opponents, 'opponent'))
+
+def search(value):
+    # Search for rows in opp_info where the 'opponent' column contains the specified value (case insensitive)
+    results = opp_info[opp_info['opponent'].str.contains(value, case=False)]
+    return results
+
+def update_file():
+    # Define the file path
+    path = f'path_Charlotte Talons Data/Charlotte Talons {year} Season.csv'
+    print(f"Opened File Path:\n{path}")
+    # Read the CSV file into a DataFrame
+    file = pd.read_csv(path)
+    new_row = []
+    for lab, row in file.iterrows():
+        # Standardize opponent names
+        if row['opponent'] == "KCK Knights":
+            row['opponent'] = "KC Knights"
+        elif row['opponent'] == "GS Warriors":
+            row['opponent'] = "GSW Warriors"
+        elif row['opponent'] == "LA Clippers":
+            row['opponent'] = "LAC Clippers"
+        elif row['opponent'] == "LA Lakers":
+            row['opponent'] = "LAL Lakers"
+        
+        # Search for the opponent information
+        listed = search(row['opponent']).reset_index(drop=True).drop(['opp_id', 'opponent'], axis=1)
+        map('string', listed)  # This line seems incorrect; map should be applied to a function and an iterable
+        
+        # Extract the relevant columns
+        row['opp_id'] = listed.at[0, 'id']
+        row['opp_name'] = listed.at[0, 'opp_name']
+        row['conference'] = listed.at[0, 'conference']
+        row['division'] = listed.at[0, 'division']
+        row['city'] = listed.at[0, 'city']
+        row['state'] = listed.at[0, 'state']
+        
+        # Update city and state for home games
+        if row['home/away'] == 'H':
+            row['city'] = 'Charlotte'
+            row['state'] = 'North Carolina'
+        
+        new_row.append(row)
+    
+    # Create a new DataFrame and drop the 'opponent' column
+    df = pd.DataFrame(new_row).drop('opponent', axis=1)
+    
+    # Reorder the columns
+    reorder_columns = ['season', 'game', 'opp_id', 'opp_name', 'home/away', 'talons score', 'opp score',
+                       'conference', 'division', 'city', 'state']
+    reorder_df = df[reorder_columns]
+    return reorder_df
+
+run = True
+
+while run:
+    # Get the year input from the user to choose file to grab
+    year = int(input("Year: "))
+    print(year)
+    next_year = year + 1
+    
+    # Update the file and display the last few rows
+    save_to_file = update_file()
+    print(save_to_file.tail())
+    
+    # Get the file path to save the updated DataFrame
+    new_path = input("Enter File Path to save/ overwrite: ")
+    save_to_file.to_csv(new_path, index=False)
+    
+    # Ask the user if they want to continue
+    further = input("Continue y/n: ")
+    if further == 'y':
+        if year == next_year:
+            print("year was just updated. Please the next year.")
+            continue
+    else:
+        break
