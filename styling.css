@@ -1,0 +1,62 @@
+body {
+    background-color: #16113A;
+    color: #E0E1E7;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+}
+#directory_nav {
+    border-radius: 85px;
+    color: #E0E1E7;
+    width:15%;
+    padding:5px;
+    position: fixed;
+    height: 50%;    
+}
+header {
+    text-align:center;
+    font-style: italic;
+    
+}
+a {
+    text-align:right;
+    text-decoration: none;
+    color: inherit;
+}
+h3 {
+    text-align:center;
+    border: 5px solid #01D1FF;
+    padding: 10px;
+    border-radius: 1%;
+}
+.top_border {
+    cursor: pointer;
+    outline: none;
+    font-size: 15px;
+    width: 25%;
+    position: relative;
+    padding:25px;
+    border-top:2px solid #01D1FF;
+    text-align: center;
+}
+.collapsible.top_border{
+    background-color: #16113A;
+    color: #E0E1E7;
+    cursor: pointer;
+    border: none;
+    text-align: center;
+    outline: none;
+    font-size: 15px;
+    width: 25%;
+  }
+.content {
+    display: none;
+    overflow: auto;
+    width:50%;
+    text-align: center;
+    white-space: wrap;
+    position: relative;
+    left:25%;
+}  
+.active, .collapsible:hover {
+    background-color: #272953;
+}
