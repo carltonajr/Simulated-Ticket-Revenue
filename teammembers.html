@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Simulated Ticket Revenue - Team Members</title>
+</head>
+<link rel="stylesheet" href="C:\Users\E4D User\Documents\GitHub\Original\Ticket Revenue Web App\staticFiles\styling.css">
+<!link rel=’styleSheet” href='{{ C:/Users/E4D User/Documents/GitHub/Original/Ticket Revenue Web App/staticFiles/, filename=’styling.css’ }}'>
+<nav id="directory_nav">
+    <h3>Directory<br><br>
+    <a href="C:/Users/E4D User/Documents/GitHub/Original/Ticket Revenue Web App/templates/home.html">Home</a><br><br>
+    <a href="C:/Users/E4D User/Documents/GitHub/Original/Ticket Revenue Web App/templates/documentation.html">Documentation</a><br><br>
+    <a href="C:/Users/E4D User/Documents/GitHub/Original/Ticket Revenue Web App/templates/teammembers.html">Team Members</a><br><br>
+    <a href="https://github.com/3volvedc/Simulated-Ticket-Revenue" target="_blank">GitHub page</a>
+    </h3>
+    </nav>
+<h2>Key Contributors</h2>
+
+<nav>
+<button class="collapsible top_border" type="button"><img src="C:\Users\E4D User\Desktop\blank headshot icon.png" alt="Headshot" width="100" height="100"><br><br>
+Team Member Name</button>
+<div class="content">
+<p>Short Bio for team member.
+</p>
+<a href="https://www.linkedin.com/" target="_blank">LinkedIn Link</a>
+</div>
+</nav>
+<nav>
+<button class="collapsible top_border" type="button"><img src="C:\Users\E4D User\Desktop\blank headshot icon.png" alt="Headshot" width="100" height="100"><br><br>
+Team Member Name</button>
+<div class="content">
+<p>Short Bio for team member.
+</p>
+<a href="https://www.linkedin.com/" target="_blank">LinkedIn Link</a>
+</div>
+</nav>
+<nav>
+<button class="collapsible top_border" type="button"><img src="C:\Users\E4D User\Desktop\blank headshot icon.png" alt="Headshot" width="100" height="100"><br><br>
+Team Member Name</button>
+<div class="content">
+<p>Short Bio for team member.
+</p>
+<a href="https://www.linkedin.com/" target="_blank">LinkedIn Link</a>
+</div>
+</nav>
+<script>
+var coll = document.getElementsByClassName("collapsible top_border");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("inactive");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+</body>
+</html>
