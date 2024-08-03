@@ -1,0 +1,80 @@
+import pandas as pd
+
+# Enter path
+path = ""
+
+
+# Main function
+def get_result(df, column1):
+    # parts to creating the 'game_id' primary key
+    game_count, season, game_id = 0, 2043, []
+    # empty lists for determining wins v losses and adding them to the teams current record
+    result, current_wins, current_losses, record = [], [], [], []
+    # empty lists for determining more descriptive calculations regarding team record
+    plus_500, win_percent = [], []
+    above_500, win_count, loss_count = 0, 0, 0
+    # Iterate over each row in the dataframe
+    for lab, row in df.iterrows():
+        # 'game_count' set at 0 so add 1 each time the function iterates, making the 1st game, Game 1
+        game_count += 1
+        # Determine whether a game is a win or loss and add to the appropriate count and apply result label
+        if row[column1] > 0:
+            result.append("win")
+            win_count += 1
+            current_wins.append(win_count)
+        elif row[column1] < 0:
+            result.append('loss')
+            loss_count += 1
+            current_losses.append(loss_count)
+        else:
+            # For finding errors in our data
+            raise ValueError("Game score could not be interpreted.")
+        # At the end of each iteration of a row, add the win  and loss count to 'record'
+        record.append("{} W {} L".format(win_count, loss_count))
+        # calculate the team's win % and add to the empty list
+        percent = round(win_count / (win_count + loss_count), 3)
+        win_percent.append(percent)
+        # create the 'game_id' for each game completed using the team abbreviation, season played and game #
+        game_id .append("cht_{}_{}".format(season, game_count))
+        above_500 = win_count - loss_count
+        # if the team's record is less than 50%, set above_500 at 0, append to list
+        if above_500 < 0:
+            above_500 = 0
+        else:
+            above_500 = above_500
+
+        plus_500.append(above_500)
+    # Add the filled in lists as dataframe columns
+    df['game_id'] = game_id
+    df['win_loss'] = result
+    df['games_above_500'] = plus_500
+    df['record'] = record
+    df['percentage'] = win_percent
+    return df
+
+
+# read CSV file
+# view columns, allows to see what columns are correctly placed an add unneeded columns to be removed
+data = pd.read_csv(path)
+print(data.columns)
+
+breakpoint()
+# data = data.drop(['Unnamed: 0'], axis=1)
+pd.set_option('display.max_columns', None)
+pd.set_option('display.max_rows', None)
+
+# Rename columns to fit data from both teams
+data['talons_score'] = data['talons score']
+data['opp_score'] = data['opp score']
+data['home_away'] = data['home/away']
+# Create 'margin', used in the 'get_result' funciton
+data['margin'] = data['talons_score'] - data['opp_score']
+# run 'get_result', set the updated dataframe's index to the newly created 'game_id'
+data = get_result(data, 'margin').set_index('game_id')
+print(data)
+
+# View updates before implementing save
+breakpoint()
+data.to_csv(path, index=True)
+data_updated = pd.read_csv(path)
+print(data_updated.tail())
