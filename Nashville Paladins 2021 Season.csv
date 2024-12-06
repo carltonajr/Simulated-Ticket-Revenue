@@ -1,83 +1,83 @@
-season,game,opp_id,opp_name,home_away,talons_score,opp_score,conference,division,city,state
-2021,1,CHI,Bulls,H,105,121,Eastern,Central,Chicago,Illinois
-2021,2,LOU,Liberty,H,99,107,Eastern,Central,Nashville,Tennessee
-2021,3,CHI,Bulls,H,90,119,Eastern,Central,Nashville,Tennessee
-2021,4,ATL,Hawks,A,109,94,Eastern,Southeast,Atlanta,Georgia
-2021,5,LAC,Clippers,H,101,93,Western,Pacific,Nashville,Tennessee
-2021,6,CHI,Bulls,A,140,120,Eastern,Central,Chicago,Illinois
-2021,7,LOU,Liberty,A,118,109,Eastern,Central,Louisville,Kentucky
-2021,8,STL,Sound,A,114,96,Western,Northwest,St. Louis,Missouri
-2021,9,PHX,Suns,H,116,97,Western,Pacific,Nashville,Tennessee
-2021,10,DEN,Nuggets,H,132,90,Western,Northwest,Nashville,Tennessee
-2021,11,LAC,Clippers,A,140,107,Western,Pacific,Los Angeles,California
-2021,12,CLE,Cavaliers,H,124,112,Eastern,Central,Nashville,Tennessee
-2021,13,WAS,Wizards,H,102,94,Eastern,Southeast,Nashville,Tennessee
-2021,14,TOR,Raptors,H,99,108,Eastern,Atlantic,Nashville,Tennessee
-2021,15,BKN,Nets,H,110,97,Eastern,Atlantic,Nashville,Tennessee
-2021,16,IND,Pacers,H,123,96,Eastern,Central,Nashville,Tennessee
-2021,17,DET,Pistons,H,124,100,Eastern,Central,Nashville,Tennessee
-2021,18,DAL,Mavericks,A,107,91,Western,Southwest,Dallas,Texas
-2021,19,BKN,Nets,A,115,125,Eastern,Atlantic,Brooklyn,New York
-2021,20,OKC,Thunder,A,101,97,Western,Southwest,Oklahoma City,Oklahoma
-2021,21,CHA,Hornets,A,114,112,Eastern,Southeast,Charlotte,North Carolina
-2021,22,MEM,Grizzlies,A,102,69,Western,Southwest,Memphis,Tennessee
-2021,23,MIA,Heat,A,125,105,Eastern,Southeast,Miami,Florida
-2021,24,SAC,Kings,H,120,101,Western,Pacific,Nashville,Tennessee
-2021,25,LAL,Lakers,H,116,105,Western,Pacific,Nashville,Tennessee
-2021,26,HOU,Rockets,H,134,114,Western,Southwest,Nashville,Tennessee
-2021,27,BKN,Nets,A,120,106,Eastern,Atlantic,Brooklyn,New York
-2021,28,MIL,Bucks,A,87,102,Western,Northwest,Milwaukee,Wisconsin
-2021,29,VCR,Ravens,H,127,94,Western,Northwest,Nashville,Tennessee
-2021,30,BAL,Barons,H,110,128,Eastern,Atlantic,Nashville,Tennessee
-2021,31,DET,Pistons,A,129,119,Eastern,Central,Detroit,Michigan
-2021,32,POR,Blazers,H,129,126,Western,Northwest,Nashville,Tennessee
-2021,33,SAC,Kings,A,98,123,Western,Pacific,Sacramento,California
-2021,34,GSW,Warriors,H,136,94,Western,Pacific,Nashville,Tennessee
-2021,35,CLE,Cavaliers,A,104,120,Eastern,Central,Cleveland,Ohio
-2021,36,IND,Pacers,A,128,126,Eastern,Central,Indianapolis,Indiana
-2021,37,MEM,Grizzlies,H,141,88,Western,Southwest,Nashville,Tennessee
-2021,38,MIN,Timberwolves,A,91,98,Western,Northwest,Minnenapolis,Minnesota
-2021,39,LOU,Liberty,A,107,101,Eastern,Central,Louisville,Kentucky
-2021,40,HOU,Rockets,A,131,122,Western,Southwest,Houston,Texas
-2021,41,UTA,Jazz,H,140,91,Western,Pacific,Nashville,Tennessee
-2021,42,UTA,Jazz,A,112,106,Western,Pacific,Salt Lake City,Utah
-2021,43,MIL,Bucks,H,98,118,Western,Northwest,Nashville,Tennessee
-2021,44,STL,Sound,H,119,83,Western,Northwest,Nashville,Tennessee
-2021,45,DET,Pistons,A,113,81,Eastern,Central,Detroit,Michigan
-2021,46,PHI,76ers,A,157,156,Eastern,Atlantic,Philadelphia,Pennsylvania
-2021,47,DEN,Nuggets,A,136,105,Western,Northwest,Denver,Colorado
-2021,48,NOLA,Pelicans,A,129,103,Western,Southwest,New Orleans,Louisiana
-2021,49,BAL,Barons,A,124,105,Eastern,Atlantic,Baltimore,Maryland
-2021,50,PHI,76ers,H,157,124,Eastern,Atlantic,Nashville,Tennessee
-2021,51,LOU,Liberty,H,141,129,Eastern,Central,Nashville,Tennessee
-2021,52,VIR,Storm,A,114,119,Eastern,Southeast,Richmond,Virginia
-2021,53,ORL,Magic,H,141,119,Eastern,Southeast,Nashville,Tennessee
-2021,54,CLE,Cavaliers,H,129,118,Eastern,Central,Nashville,Tennessee
-2021,55,PHX,Suns,A,139,107,Western,Pacific,Phoenix,Arizona
-2021,56,WAS,Wizards,A,105,117,Eastern,Southeast,Washington,District of Columbia
-2021,57,POR,Blazers,A,118,100,Western,Northwest,Portland,Oregon
-2021,58,GSW,Warriors,A,114,100,Western,Pacific,San Francisco,California
-2021,59,IND,Pacers,H,122,137,Eastern,Central,Nashville,Tennessee
-2021,60,TOR,Raptors,A,115,94,Eastern,Atlantic,Toronto,Canada
-2021,61,VCR,Ravens,A,117,91,Western,Northwest,Vancouver,Canada
-2021,62,SAN,Spurs,A,105,118,Western,Southwest,San Antonio,Texas
-2021,63,NOLA,Pelicans,H,131,120,Western,Southwest,Nashville,Tennessee
-2021,64,CHA,Hornets,H,160,102,Eastern,Southeast,Nashville,Tennessee
-2021,65,ORL,Magic,A,115,122,Eastern,Southeast,Orlando,Florida
-2021,66,BOS,Celtics,H,116,111,Eastern,Atlantic,Nashville,Tennessee
-2021,67,CLE,Cavaliers,A,134,125,Eastern,Central,Cleveland,Ohio
-2021,68,SAN,Spurs,H,102,131,Western,Southwest,Nashville,Tennessee
-2021,69,ATL,Hawks,H,126,116,Eastern,Southeast,Nashville,Tennessee
-2021,70,MIN,Timberwolves,H,107,91,Western,Northwest,Nashville,Tennessee
-2021,71,BOS,Celtics,A,110,106,Eastern,Atlantic,Boston,Massachusetts
-2021,72,LAL,Lakers,A,93,129,Western,Pacific,Los Angeles,California
-2021,73,OKC,Thunder,H,116,99,Western,Southwest,Nashville,Tennessee
-2021,74,NYK,Knicks,A,131,123,Eastern,Atlantic,New York City,New York
-2021,75,NYK,Knicks,H,136,115,Eastern,Atlantic,Nashville,Tennessee
-2021,76,DET,Pistons,H,124,116,Eastern,Central,Nashville,Tennessee
-2021,77,MIA,Heat,H,112,92,Eastern,Southeast,Nashville,Tennessee
-2021,78,VIR,Storm,H,128,99,Eastern,Southeast,Nashville,Tennessee
-2021,79,CHA,Hornets,H,128,116,Eastern,Southeast,Nashville,Tennessee
-2021,80,CHI,Bulls,A,142,110,Eastern,Central,Chicago,Illinois
-2021,81,DAL,Mavericks,H,128,127,Western,Southwest,Nashville,Tennessee
-2021,82,IND,Pacers,A,109,123,Eastern,Central,Indianapolis,Indiana
+game_id,season,game,opp_id,opp_name,home_away,team_score,opp_score,conference,division,city,state,margin,win_loss,games_above_500,record,percentage
+nas_2021_1,2021,1,CHI,Bulls,H,105,121,Eastern,Central,Nashville,Tennessee,-16,loss,0,0 W 1 L,0.0
+nas_2021_2,2021,2,LOU,Liberty,H,99,107,Eastern,Central,Nashville,Tennessee,-8,loss,0,0 W 2 L,0.0
+nas_2021_3,2021,3,CHI,Bulls,H,90,119,Eastern,Central,Nashville,Tennessee,-29,loss,0,0 W 3 L,0.0
+nas_2021_4,2021,4,ATL,Hawks,A,109,94,Eastern,Southeast,Atlanta,Georgia,15,win,0,1 W 3 L,0.25
+nas_2021_5,2021,5,LAC,Clippers,H,101,93,Western,Pacific,Nashville,Tennessee,8,win,0,2 W 3 L,0.4
+nas_2021_6,2021,6,CHI,Bulls,A,140,120,Eastern,Central,Chicago,Illinois,20,win,0,3 W 3 L,0.5
+nas_2021_7,2021,7,LOU,Liberty,A,118,109,Eastern,Central,Louisville,Kentucky,9,win,1,4 W 3 L,0.571
+nas_2021_8,2021,8,STL,Sound,A,114,96,Western,Northwest,St. Louis,Missouri,18,win,2,5 W 3 L,0.625
+nas_2021_9,2021,9,PHX,Suns,H,116,97,Western,Pacific,Nashville,Tennessee,19,win,3,6 W 3 L,0.667
+nas_2021_10,2021,10,DEN,Nuggets,H,132,90,Western,Northwest,Nashville,Tennessee,42,win,4,7 W 3 L,0.7
+nas_2021_11,2021,11,LAC,Clippers,A,140,107,Western,Pacific,Los Angeles,California,33,win,5,8 W 3 L,0.727
+nas_2021_12,2021,12,CLE,Cavaliers,H,124,112,Eastern,Central,Nashville,Tennessee,12,win,6,9 W 3 L,0.75
+nas_2021_13,2021,13,WAS,Wizards,H,102,94,Eastern,Southeast,Nashville,Tennessee,8,win,7,10 W 3 L,0.769
+nas_2021_14,2021,14,TOR,Raptors,H,99,108,Eastern,Atlantic,Nashville,Tennessee,-9,loss,6,10 W 4 L,0.714
+nas_2021_15,2021,15,BKN,Nets,H,110,97,Eastern,Atlantic,Nashville,Tennessee,13,win,7,11 W 4 L,0.733
+nas_2021_16,2021,16,IND,Pacers,H,123,96,Eastern,Central,Nashville,Tennessee,27,win,8,12 W 4 L,0.75
+nas_2021_17,2021,17,DET,Pistons,H,124,100,Eastern,Central,Nashville,Tennessee,24,win,9,13 W 4 L,0.765
+nas_2021_18,2021,18,DAL,Mavericks,A,107,91,Western,Southwest,Dallas,Texas,16,win,10,14 W 4 L,0.778
+nas_2021_19,2021,19,BKN,Nets,A,115,125,Eastern,Atlantic,Brooklyn,New York,-10,loss,9,14 W 5 L,0.737
+nas_2021_20,2021,20,OKC,Thunder,A,101,97,Western,Southwest,Oklahoma City,Oklahoma,4,win,10,15 W 5 L,0.75
+nas_2021_21,2021,21,CHA,Hornets,A,114,112,Eastern,Southeast,Charlotte,North Carolina,2,win,11,16 W 5 L,0.762
+nas_2021_22,2021,22,MEM,Grizzlies,A,102,69,Western,Southwest,Memphis,Tennessee,33,win,12,17 W 5 L,0.773
+nas_2021_23,2021,23,MIA,Heat,A,125,105,Eastern,Southeast,Miami,Florida,20,win,13,18 W 5 L,0.783
+nas_2021_24,2021,24,SAC,Kings,H,120,101,Western,Pacific,Nashville,Tennessee,19,win,14,19 W 5 L,0.792
+nas_2021_25,2021,25,LAL,Lakers,H,116,105,Western,Pacific,Nashville,Tennessee,11,win,15,20 W 5 L,0.8
+nas_2021_26,2021,26,HOU,Rockets,H,134,114,Western,Southwest,Nashville,Tennessee,20,win,16,21 W 5 L,0.808
+nas_2021_27,2021,27,BKN,Nets,A,120,106,Eastern,Atlantic,Brooklyn,New York,14,win,17,22 W 5 L,0.815
+nas_2021_28,2021,28,MIL,Bucks,A,87,102,Western,Northwest,Milwaukee,Wisconsin,-15,loss,16,22 W 6 L,0.786
+nas_2021_29,2021,29,VCR,Ravens,H,127,94,Western,Northwest,Nashville,Tennessee,33,win,17,23 W 6 L,0.793
+nas_2021_30,2021,30,BAL,Barons,H,110,128,Eastern,Atlantic,Nashville,Tennessee,-18,loss,16,23 W 7 L,0.767
+nas_2021_31,2021,31,DET,Pistons,A,129,119,Eastern,Central,Detroit,Michigan,10,win,17,24 W 7 L,0.774
+nas_2021_32,2021,32,POR,Blazers,H,129,126,Western,Northwest,Nashville,Tennessee,3,win,18,25 W 7 L,0.781
+nas_2021_33,2021,33,SAC,Kings,A,98,123,Western,Pacific,Sacramento,California,-25,loss,17,25 W 8 L,0.758
+nas_2021_34,2021,34,GSW,Warriors,H,136,94,Western,Pacific,Nashville,Tennessee,42,win,18,26 W 8 L,0.765
+nas_2021_35,2021,35,CLE,Cavaliers,A,104,120,Eastern,Central,Cleveland,Ohio,-16,loss,17,26 W 9 L,0.743
+nas_2021_36,2021,36,IND,Pacers,A,128,126,Eastern,Central,Indianapolis,Indiana,2,win,18,27 W 9 L,0.75
+nas_2021_37,2021,37,MEM,Grizzlies,H,141,88,Western,Southwest,Nashville,Tennessee,53,win,19,28 W 9 L,0.757
+nas_2021_38,2021,38,MIN,Timberwolves,A,91,98,Western,Northwest,Minnenapolis,Minnesota,-7,loss,18,28 W 10 L,0.737
+nas_2021_39,2021,39,LOU,Liberty,A,107,101,Eastern,Central,Louisville,Kentucky,6,win,19,29 W 10 L,0.744
+nas_2021_40,2021,40,HOU,Rockets,A,131,122,Western,Southwest,Houston,Texas,9,win,20,30 W 10 L,0.75
+nas_2021_41,2021,41,UTA,Jazz,H,140,91,Western,Pacific,Nashville,Tennessee,49,win,21,31 W 10 L,0.756
+nas_2021_42,2021,42,UTA,Jazz,A,112,106,Western,Pacific,Salt Lake City,Utah,6,win,22,32 W 10 L,0.762
+nas_2021_43,2021,43,MIL,Bucks,H,98,118,Western,Northwest,Nashville,Tennessee,-20,loss,21,32 W 11 L,0.744
+nas_2021_44,2021,44,STL,Sound,H,119,83,Western,Northwest,Nashville,Tennessee,36,win,22,33 W 11 L,0.75
+nas_2021_45,2021,45,DET,Pistons,A,113,81,Eastern,Central,Detroit,Michigan,32,win,23,34 W 11 L,0.756
+nas_2021_46,2021,46,PHI,76ers,A,157,156,Eastern,Atlantic,Philadelphia,Pennsylvania,1,win,24,35 W 11 L,0.761
+nas_2021_47,2021,47,DEN,Nuggets,A,136,105,Western,Northwest,Denver,Colorado,31,win,25,36 W 11 L,0.766
+nas_2021_48,2021,48,NOLA,Pelicans,A,129,103,Western,Southwest,New Orleans,Louisiana,26,win,26,37 W 11 L,0.771
+nas_2021_49,2021,49,BAL,Barons,A,124,105,Eastern,Atlantic,Baltimore,Maryland,19,win,27,38 W 11 L,0.776
+nas_2021_50,2021,50,PHI,76ers,H,157,124,Eastern,Atlantic,Nashville,Tennessee,33,win,28,39 W 11 L,0.78
+nas_2021_51,2021,51,LOU,Liberty,H,141,129,Eastern,Central,Nashville,Tennessee,12,win,29,40 W 11 L,0.784
+nas_2021_52,2021,52,VIR,Storm,A,114,119,Eastern,Southeast,Richmond,Virginia,-5,loss,28,40 W 12 L,0.769
+nas_2021_53,2021,53,ORL,Magic,H,141,119,Eastern,Southeast,Nashville,Tennessee,22,win,29,41 W 12 L,0.774
+nas_2021_54,2021,54,CLE,Cavaliers,H,129,118,Eastern,Central,Nashville,Tennessee,11,win,30,42 W 12 L,0.778
+nas_2021_55,2021,55,PHX,Suns,A,139,107,Western,Pacific,Phoenix,Arizona,32,win,31,43 W 12 L,0.782
+nas_2021_56,2021,56,WAS,Wizards,A,105,117,Eastern,Southeast,Washington,District of Columbia,-12,loss,30,43 W 13 L,0.768
+nas_2021_57,2021,57,POR,Blazers,A,118,100,Western,Northwest,Portland,Oregon,18,win,31,44 W 13 L,0.772
+nas_2021_58,2021,58,GSW,Warriors,A,114,100,Western,Pacific,San Francisco,California,14,win,32,45 W 13 L,0.776
+nas_2021_59,2021,59,IND,Pacers,H,122,137,Eastern,Central,Nashville,Tennessee,-15,loss,31,45 W 14 L,0.763
+nas_2021_60,2021,60,TOR,Raptors,A,115,94,Eastern,Atlantic,Toronto,Canada,21,win,32,46 W 14 L,0.767
+nas_2021_61,2021,61,VCR,Ravens,A,117,91,Western,Northwest,Vancouver,Canada,26,win,33,47 W 14 L,0.77
+nas_2021_62,2021,62,SAN,Spurs,A,105,118,Western,Southwest,San Antonio,Texas,-13,loss,32,47 W 15 L,0.758
+nas_2021_63,2021,63,NOLA,Pelicans,H,131,120,Western,Southwest,Nashville,Tennessee,11,win,33,48 W 15 L,0.762
+nas_2021_64,2021,64,CHA,Hornets,H,160,102,Eastern,Southeast,Nashville,Tennessee,58,win,34,49 W 15 L,0.766
+nas_2021_65,2021,65,ORL,Magic,A,115,122,Eastern,Southeast,Orlando,Florida,-7,loss,33,49 W 16 L,0.754
+nas_2021_66,2021,66,BOS,Celtics,H,116,111,Eastern,Atlantic,Nashville,Tennessee,5,win,34,50 W 16 L,0.758
+nas_2021_67,2021,67,CLE,Cavaliers,A,134,125,Eastern,Central,Cleveland,Ohio,9,win,35,51 W 16 L,0.761
+nas_2021_68,2021,68,SAN,Spurs,H,102,131,Western,Southwest,Nashville,Tennessee,-29,loss,34,51 W 17 L,0.75
+nas_2021_69,2021,69,ATL,Hawks,H,126,116,Eastern,Southeast,Nashville,Tennessee,10,win,35,52 W 17 L,0.754
+nas_2021_70,2021,70,MIN,Timberwolves,H,107,91,Western,Northwest,Nashville,Tennessee,16,win,36,53 W 17 L,0.757
+nas_2021_71,2021,71,BOS,Celtics,A,110,106,Eastern,Atlantic,Boston,Massachusetts,4,win,37,54 W 17 L,0.761
+nas_2021_72,2021,72,LAL,Lakers,A,93,129,Western,Pacific,Los Angeles,California,-36,loss,36,54 W 18 L,0.75
+nas_2021_73,2021,73,OKC,Thunder,H,116,99,Western,Southwest,Nashville,Tennessee,17,win,37,55 W 18 L,0.753
+nas_2021_74,2021,74,NYK,Knicks,A,131,123,Eastern,Atlantic,New York City,New York,8,win,38,56 W 18 L,0.757
+nas_2021_75,2021,75,NYK,Knicks,H,136,115,Eastern,Atlantic,Nashville,Tennessee,21,win,39,57 W 18 L,0.76
+nas_2021_76,2021,76,DET,Pistons,H,124,116,Eastern,Central,Nashville,Tennessee,8,win,40,58 W 18 L,0.763
+nas_2021_77,2021,77,MIA,Heat,H,112,92,Eastern,Southeast,Nashville,Tennessee,20,win,41,59 W 18 L,0.766
+nas_2021_78,2021,78,VIR,Storm,H,128,99,Eastern,Southeast,Nashville,Tennessee,29,win,42,60 W 18 L,0.769
+nas_2021_79,2021,79,CHA,Hornets,H,128,116,Eastern,Southeast,Nashville,Tennessee,12,win,43,61 W 18 L,0.772
+nas_2021_80,2021,80,CHI,Bulls,A,142,110,Eastern,Central,Chicago,Illinois,32,win,44,62 W 18 L,0.775
+nas_2021_81,2021,81,DAL,Mavericks,H,128,127,Western,Southwest,Nashville,Tennessee,1,win,45,63 W 18 L,0.778
+nas_2021_82,2021,82,IND,Pacers,A,109,123,Eastern,Central,Indianapolis,Indiana,-14,loss,44,63 W 19 L,0.768
