@@ -1,83 +1,83 @@
-season,game,opp_id,opp_name,home/away,talons score,opp score,conference,division,city,state
-2031,1,PHI,76ers,A,114,116,Eastern,Atlantic,Philadelphia,Pennsylvania
-2031,2,MIA,Heat,H,120,63,Eastern,Southeast,Charlotte,North Carolina
-2031,3,CHA,Hornets,H,98,81,Eastern,Southeast,Charlotte,North Carolina
-2031,4,MEM,Grizzlies,A,115,85,Western,Southwest,Memphis,Tennessee
-2031,5,LAC,Clippers,H,118,117,Western,Pacific,Charlotte,North Carolina
-2031,6,OKC,Thunder,A,99,98,Western,Southwest,Oklahoma City,Oklahoma
-2031,7,SAC,Kings,H,126,104,Western,Pacific,Charlotte,North Carolina
-2031,8,VIR,Storm,A,103,109,Eastern,Southeast,Richmond,Virginia
-2031,9,ATL,Hawks,H,126,100,Eastern,Southeast,Charlotte,North Carolina
-2031,10,CHA,Hornets,A,120,117,Eastern,Southeast,Charlotte,North Carolina
-2031,11,UTA,Jazz,H,98,93,Western,Pacific,Charlotte,North Carolina
-2031,12,GSW,Warriors,A,121,97,Western,Pacific,San Francisco,California
-2031,13,CHA,Hornets,H,109,100,Eastern,Southeast,Charlotte,North Carolina
-2031,14,ATL,Hawks,A,117,110,Eastern,Southeast,Atlanta,Georgia
-2031,15,UTA,Jazz,A,136,113,Western,Pacific,Salt Lake City,Utah
-2031,16,CHA,Hornets,A,108,94,Eastern,Southeast,Charlotte,North Carolina
-2031,17,CLE,Cavaliers,A,115,110,Eastern,Central,Cleveland,Ohio
-2031,18,KCK,Knights,A,121,105,Western,Northwest,Kansas City,Missouri
-2031,19,CLE,Cavaliers,H,109,100,Eastern,Central,Charlotte,North Carolina
-2031,20,STL,Sound,A,99,81,Western,Northwest,St. Louis,Missouri
-2031,21,PHI,76ers,H,116,63,Eastern,Atlantic,Charlotte,North Carolina
-2031,22,SAS,Spurs,A,116,88,Western,Southwest,San Antonio,Texas
-2031,23,BOS,Celtics,H,122,94,Eastern,Atlantic,Charlotte,North Carolina
-2031,24,SAS,Spurs,H,134,75,Western,Southwest,Charlotte,North Carolina
-2031,25,NYK,Knicks,A,97,98,Eastern,Atlantic,New York City,New York
-2031,26,MIN,Timberwolves,A,92,100,Western,Northwest,Minnenapolis,Minnesota
-2031,27,BKN,Nets,H,126,87,Eastern,Atlantic,Charlotte,North Carolina
-2031,28,MIA,Heat,A,86,91,Eastern,Southeast,Miami,Florida
-2031,29,MIN,Timberwolves,H,116,92,Western,Northwest,Charlotte,North Carolina
-2031,30,MIA,Heat,A,114,95,Eastern,Southeast,Miami,Florida
-2031,31,ORL,Magic,A,98,105,Eastern,Southeast,Orlando,Florida
-2031,32,IND,Pacers,H,126,93,Eastern,Central,Charlotte,North Carolina
-2031,33,PHX,Suns,A,112,84,Western,Pacific,Phoenix,Arizona
-2031,34,GSW,Warriors,H,123,79,Western,Pacific,Charlotte,North Carolina
-2031,35,NAS,Stars,H,123,72,Eastern,Central,Charlotte,North Carolina
-2031,36,MIA,Heat,H,113,79,Eastern,Southeast,Charlotte,North Carolina
-2031,37,CHI,Bulls,H,110,112,Eastern,Central,Charlotte,North Carolina
-2031,38,VIR,Storm,H,115,80,Eastern,Southeast,Charlotte,North Carolina
-2031,39,DET,Pistons,H,107,90,Eastern,Central,Charlotte,North Carolina
-2031,40,VIR,Storm,H,138,92,Eastern,Southeast,Charlotte,North Carolina
-2031,41,PHI,76ers,H,139,92,Eastern,Atlantic,Charlotte,North Carolina
-2031,42,TOR,Raptors,H,122,106,Eastern,Atlantic,Charlotte,North Carolina
-2031,43,TOR,Raptors,A,110,91,Eastern,Atlantic,Toronto,Canada
-2031,44,LAC,Clippers,A,86,80,Western,Pacific,Los Angeles,California
-2031,45,DEN,Nuggets,H,134,94,Western,Northwest,Charlotte,North Carolina
-2031,46,DAL,Mavericks,H,120,98,Western,Southwest,Charlotte,North Carolina
-2031,47,POR,Blazers,A,100,104,Western,Northwest,Portland,Oregon
-2031,48,BAL,Barons,A,105,91,Eastern,Atlantic,Baltimore,Maryland
-2031,49,PHX,Suns,H,131,111,Western,Pacific,Charlotte,North Carolina
-2031,50,MIL,Bucks,H,120,83,Western,Northwest,Charlotte,North Carolina
-2031,51,BKN,Nets,A,108,118,Eastern,Atlantic,Brooklyn,New York
-2031,52,SAC,Kings,A,100,92,Western,Pacific,Sacramento,California
-2031,53,OKC,Thunder,H,127,100,Western,Southwest,Charlotte,North Carolina
-2031,54,WAS,Wizards,H,117,90,Eastern,Southeast,Charlotte,North Carolina
-2031,55,MEM,Grizzlies,H,115,90,Western,Southwest,Charlotte,North Carolina
-2031,56,ORL,Magic,H,125,94,Eastern,Southeast,Charlotte,North Carolina
-2031,57,CHI,Bulls,A,119,107,Eastern,Central,Chicago,Illinois
-2031,58,ORL,Magic,A,115,117,Eastern,Southeast,Orlando,Florida
-2031,59,STL,Sound,H,115,78,Western,Northwest,Charlotte,North Carolina
-2031,60,ATL,Hawks,A,114,97,Eastern,Southeast,Atlanta,Georgia
-2031,61,WAS,Wizards,A,109,111,Eastern,Southeast,Washington,District of Columbia
-2031,62,NAS,Stars,A,95,108,Eastern,Central,Nashville,Tennessee
-2031,63,HOU,Rockets,H,96,98,Western,Southwest,Charlotte,North Carolina
-2031,64,DET,Pistons,A,118,83,Eastern,Central,Detroit,Michigan
-2031,65,KCK,Knights,H,80,74,Western,Northwest,Charlotte,North Carolina
-2031,66,NOLA,Pelicans,A,119,81,Western,Southwest,New Orleans,Louisiana
-2031,67,DEN,Nuggets,A,121,86,Western,Northwest,Denver,Colorado
-2031,68,IND,Pacers,A,119,86,Eastern,Central,Indianapolis,Indiana
-2031,69,LAL,Lakers,A,107,70,Western,Pacific,Los Angeles,California
-2031,70,DAL,Mavericks,A,110,99,Western,Southwest,Dallas,Texas
-2031,71,ORL,Magic,H,116,111,Eastern,Southeast,Charlotte,North Carolina
-2031,72,BOS,Celtics,A,150,81,Eastern,Atlantic,Boston,Massachusetts
-2031,73,VIR,Storm,A,120,91,Eastern,Southeast,Richmond,Virginia
-2031,74,POR,Blazers,H,136,112,Western,Northwest,Charlotte,North Carolina
-2031,75,NOLA,Pelicans,H,134,78,Western,Southwest,Charlotte,North Carolina
-2031,76,BAL,Barons,H,127,99,Eastern,Atlantic,Charlotte,North Carolina
-2031,77,ATL,Hawks,H,95,80,Eastern,Southeast,Charlotte,North Carolina
-2031,78,HOU,Rockets,A,105,106,Western,Southwest,Houston,Texas
-2031,79,MIL,Bucks,A,110,101,Western,Northwest,Milwaukee,Wisconsin
-2031,80,LAL,Lakers,H,122,93,Western,Pacific,Charlotte,North Carolina
-2031,81,NYK,Knicks,H,136,100,Eastern,Atlantic,Charlotte,North Carolina
-2031,82,DET,Pistons,A,96,95,Eastern,Central,Detroit,Michigan
+game_id,season,game,opp_id,opp_name,conference,division,city,state,talons_score,opp_score,home_away,margin,win_loss,games_above_500,record,percentage
+cht_2031_1,2031,1,PHI,76ers,Eastern,Atlantic,Philadelphia,Pennsylvania,114,116,A,-2,loss,0,0 W 1 L,0.0
+cht_2031_2,2031,2,MIA,Heat,Eastern,Southeast,Charlotte,North Carolina,120,63,H,57,win,0,1 W 1 L,0.5
+cht_2031_3,2031,3,CHA,Hornets,Eastern,Southeast,Charlotte,North Carolina,98,81,H,17,win,1,2 W 1 L,0.667
+cht_2031_4,2031,4,MEM,Grizzlies,Western,Southwest,Memphis,Tennessee,115,85,A,30,win,2,3 W 1 L,0.75
+cht_2031_5,2031,5,LAC,Clippers,Western,Pacific,Charlotte,North Carolina,118,117,H,1,win,3,4 W 1 L,0.8
+cht_2031_6,2031,6,OKC,Thunder,Western,Southwest,Oklahoma City,Oklahoma,99,98,A,1,win,4,5 W 1 L,0.833
+cht_2031_7,2031,7,SAC,Kings,Western,Pacific,Charlotte,North Carolina,126,104,H,22,win,5,6 W 1 L,0.857
+cht_2031_8,2031,8,VIR,Storm,Eastern,Southeast,Richmond,Virginia,103,109,A,-6,loss,4,6 W 2 L,0.75
+cht_2031_9,2031,9,ATL,Hawks,Eastern,Southeast,Charlotte,North Carolina,126,100,H,26,win,5,7 W 2 L,0.778
+cht_2031_10,2031,10,CHA,Hornets,Eastern,Southeast,Charlotte,North Carolina,120,117,A,3,win,6,8 W 2 L,0.8
+cht_2031_11,2031,11,UTA,Jazz,Western,Pacific,Charlotte,North Carolina,98,93,H,5,win,7,9 W 2 L,0.818
+cht_2031_12,2031,12,GSW,Warriors,Western,Pacific,San Francisco,California,121,97,A,24,win,8,10 W 2 L,0.833
+cht_2031_13,2031,13,CHA,Hornets,Eastern,Southeast,Charlotte,North Carolina,109,100,H,9,win,9,11 W 2 L,0.846
+cht_2031_14,2031,14,ATL,Hawks,Eastern,Southeast,Atlanta,Georgia,117,110,A,7,win,10,12 W 2 L,0.857
+cht_2031_15,2031,15,UTA,Jazz,Western,Pacific,Salt Lake City,Utah,136,113,A,23,win,11,13 W 2 L,0.867
+cht_2031_16,2031,16,CHA,Hornets,Eastern,Southeast,Charlotte,North Carolina,108,94,A,14,win,12,14 W 2 L,0.875
+cht_2031_17,2031,17,CLE,Cavaliers,Eastern,Central,Cleveland,Ohio,115,110,A,5,win,13,15 W 2 L,0.882
+cht_2031_18,2031,18,KCK,Knights,Western,Northwest,Kansas City,Missouri,121,105,A,16,win,14,16 W 2 L,0.889
+cht_2031_19,2031,19,CLE,Cavaliers,Eastern,Central,Charlotte,North Carolina,109,100,H,9,win,15,17 W 2 L,0.895
+cht_2031_20,2031,20,STL,Sound,Western,Northwest,St. Louis,Missouri,99,81,A,18,win,16,18 W 2 L,0.9
+cht_2031_21,2031,21,PHI,76ers,Eastern,Atlantic,Charlotte,North Carolina,116,63,H,53,win,17,19 W 2 L,0.905
+cht_2031_22,2031,22,SAS,Spurs,Western,Southwest,San Antonio,Texas,116,88,A,28,win,18,20 W 2 L,0.909
+cht_2031_23,2031,23,BOS,Celtics,Eastern,Atlantic,Charlotte,North Carolina,122,94,H,28,win,19,21 W 2 L,0.913
+cht_2031_24,2031,24,SAS,Spurs,Western,Southwest,Charlotte,North Carolina,134,75,H,59,win,20,22 W 2 L,0.917
+cht_2031_25,2031,25,NYK,Knicks,Eastern,Atlantic,New York City,New York,97,98,A,-1,loss,19,22 W 3 L,0.88
+cht_2031_26,2031,26,MIN,Timberwolves,Western,Northwest,Minnenapolis,Minnesota,92,100,A,-8,loss,18,22 W 4 L,0.846
+cht_2031_27,2031,27,BKN,Nets,Eastern,Atlantic,Charlotte,North Carolina,126,87,H,39,win,19,23 W 4 L,0.852
+cht_2031_28,2031,28,MIA,Heat,Eastern,Southeast,Miami,Florida,86,91,A,-5,loss,18,23 W 5 L,0.821
+cht_2031_29,2031,29,MIN,Timberwolves,Western,Northwest,Charlotte,North Carolina,116,92,H,24,win,19,24 W 5 L,0.828
+cht_2031_30,2031,30,MIA,Heat,Eastern,Southeast,Miami,Florida,114,95,A,19,win,20,25 W 5 L,0.833
+cht_2031_31,2031,31,ORL,Magic,Eastern,Southeast,Orlando,Florida,98,105,A,-7,loss,19,25 W 6 L,0.806
+cht_2031_32,2031,32,IND,Pacers,Eastern,Central,Charlotte,North Carolina,126,93,H,33,win,20,26 W 6 L,0.812
+cht_2031_33,2031,33,PHX,Suns,Western,Pacific,Phoenix,Arizona,112,84,A,28,win,21,27 W 6 L,0.818
+cht_2031_34,2031,34,GSW,Warriors,Western,Pacific,Charlotte,North Carolina,123,79,H,44,win,22,28 W 6 L,0.824
+cht_2031_35,2031,35,NAS,Stars,Eastern,Central,Charlotte,North Carolina,123,72,H,51,win,23,29 W 6 L,0.829
+cht_2031_36,2031,36,MIA,Heat,Eastern,Southeast,Charlotte,North Carolina,113,79,H,34,win,24,30 W 6 L,0.833
+cht_2031_37,2031,37,CHI,Bulls,Eastern,Central,Charlotte,North Carolina,110,112,H,-2,loss,23,30 W 7 L,0.811
+cht_2031_38,2031,38,VIR,Storm,Eastern,Southeast,Charlotte,North Carolina,115,80,H,35,win,24,31 W 7 L,0.816
+cht_2031_39,2031,39,DET,Pistons,Eastern,Central,Charlotte,North Carolina,107,90,H,17,win,25,32 W 7 L,0.821
+cht_2031_40,2031,40,VIR,Storm,Eastern,Southeast,Charlotte,North Carolina,138,92,H,46,win,26,33 W 7 L,0.825
+cht_2031_41,2031,41,PHI,76ers,Eastern,Atlantic,Charlotte,North Carolina,139,92,H,47,win,27,34 W 7 L,0.829
+cht_2031_42,2031,42,TOR,Raptors,Eastern,Atlantic,Charlotte,North Carolina,122,106,H,16,win,28,35 W 7 L,0.833
+cht_2031_43,2031,43,TOR,Raptors,Eastern,Atlantic,Toronto,Canada,110,91,A,19,win,29,36 W 7 L,0.837
+cht_2031_44,2031,44,LAC,Clippers,Western,Pacific,Los Angeles,California,86,80,A,6,win,30,37 W 7 L,0.841
+cht_2031_45,2031,45,DEN,Nuggets,Western,Northwest,Charlotte,North Carolina,134,94,H,40,win,31,38 W 7 L,0.844
+cht_2031_46,2031,46,DAL,Mavericks,Western,Southwest,Charlotte,North Carolina,120,98,H,22,win,32,39 W 7 L,0.848
+cht_2031_47,2031,47,POR,Blazers,Western,Northwest,Portland,Oregon,100,104,A,-4,loss,31,39 W 8 L,0.83
+cht_2031_48,2031,48,BAL,Barons,Eastern,Atlantic,Baltimore,Maryland,105,91,A,14,win,32,40 W 8 L,0.833
+cht_2031_49,2031,49,PHX,Suns,Western,Pacific,Charlotte,North Carolina,131,111,H,20,win,33,41 W 8 L,0.837
+cht_2031_50,2031,50,MIL,Bucks,Western,Northwest,Charlotte,North Carolina,120,83,H,37,win,34,42 W 8 L,0.84
+cht_2031_51,2031,51,BKN,Nets,Eastern,Atlantic,Brooklyn,New York,108,118,A,-10,loss,33,42 W 9 L,0.824
+cht_2031_52,2031,52,SAC,Kings,Western,Pacific,Sacramento,California,100,92,A,8,win,34,43 W 9 L,0.827
+cht_2031_53,2031,53,OKC,Thunder,Western,Southwest,Charlotte,North Carolina,127,100,H,27,win,35,44 W 9 L,0.83
+cht_2031_54,2031,54,WAS,Wizards,Eastern,Southeast,Charlotte,North Carolina,117,90,H,27,win,36,45 W 9 L,0.833
+cht_2031_55,2031,55,MEM,Grizzlies,Western,Southwest,Charlotte,North Carolina,115,90,H,25,win,37,46 W 9 L,0.836
+cht_2031_56,2031,56,ORL,Magic,Eastern,Southeast,Charlotte,North Carolina,125,94,H,31,win,38,47 W 9 L,0.839
+cht_2031_57,2031,57,CHI,Bulls,Eastern,Central,Chicago,Illinois,119,107,A,12,win,39,48 W 9 L,0.842
+cht_2031_58,2031,58,ORL,Magic,Eastern,Southeast,Orlando,Florida,115,117,A,-2,loss,38,48 W 10 L,0.828
+cht_2031_59,2031,59,STL,Sound,Western,Northwest,Charlotte,North Carolina,115,78,H,37,win,39,49 W 10 L,0.831
+cht_2031_60,2031,60,ATL,Hawks,Eastern,Southeast,Atlanta,Georgia,114,97,A,17,win,40,50 W 10 L,0.833
+cht_2031_61,2031,61,WAS,Wizards,Eastern,Southeast,Washington,District of Columbia,109,111,A,-2,loss,39,50 W 11 L,0.82
+cht_2031_62,2031,62,NAS,Stars,Eastern,Central,Nashville,Tennessee,95,108,A,-13,loss,38,50 W 12 L,0.806
+cht_2031_63,2031,63,HOU,Rockets,Western,Southwest,Charlotte,North Carolina,96,98,H,-2,loss,37,50 W 13 L,0.794
+cht_2031_64,2031,64,DET,Pistons,Eastern,Central,Detroit,Michigan,118,83,A,35,win,38,51 W 13 L,0.797
+cht_2031_65,2031,65,KCK,Knights,Western,Northwest,Charlotte,North Carolina,80,74,H,6,win,39,52 W 13 L,0.8
+cht_2031_66,2031,66,NOLA,Pelicans,Western,Southwest,New Orleans,Louisiana,119,81,A,38,win,40,53 W 13 L,0.803
+cht_2031_67,2031,67,DEN,Nuggets,Western,Northwest,Denver,Colorado,121,86,A,35,win,41,54 W 13 L,0.806
+cht_2031_68,2031,68,IND,Pacers,Eastern,Central,Indianapolis,Indiana,119,86,A,33,win,42,55 W 13 L,0.809
+cht_2031_69,2031,69,LAL,Lakers,Western,Pacific,Los Angeles,California,107,70,A,37,win,43,56 W 13 L,0.812
+cht_2031_70,2031,70,DAL,Mavericks,Western,Southwest,Dallas,Texas,110,99,A,11,win,44,57 W 13 L,0.814
+cht_2031_71,2031,71,ORL,Magic,Eastern,Southeast,Charlotte,North Carolina,116,111,H,5,win,45,58 W 13 L,0.817
+cht_2031_72,2031,72,BOS,Celtics,Eastern,Atlantic,Boston,Massachusetts,150,81,A,69,win,46,59 W 13 L,0.819
+cht_2031_73,2031,73,VIR,Storm,Eastern,Southeast,Richmond,Virginia,120,91,A,29,win,47,60 W 13 L,0.822
+cht_2031_74,2031,74,POR,Blazers,Western,Northwest,Charlotte,North Carolina,136,112,H,24,win,48,61 W 13 L,0.824
+cht_2031_75,2031,75,NOLA,Pelicans,Western,Southwest,Charlotte,North Carolina,134,78,H,56,win,49,62 W 13 L,0.827
+cht_2031_76,2031,76,BAL,Barons,Eastern,Atlantic,Charlotte,North Carolina,127,99,H,28,win,50,63 W 13 L,0.829
+cht_2031_77,2031,77,ATL,Hawks,Eastern,Southeast,Charlotte,North Carolina,95,80,H,15,win,51,64 W 13 L,0.831
+cht_2031_78,2031,78,HOU,Rockets,Western,Southwest,Houston,Texas,105,106,A,-1,loss,50,64 W 14 L,0.821
+cht_2031_79,2031,79,MIL,Bucks,Western,Northwest,Milwaukee,Wisconsin,110,101,A,9,win,51,65 W 14 L,0.823
+cht_2031_80,2031,80,LAL,Lakers,Western,Pacific,Charlotte,North Carolina,122,93,H,29,win,52,66 W 14 L,0.825
+cht_2031_81,2031,81,NYK,Knicks,Eastern,Atlantic,Charlotte,North Carolina,136,100,H,36,win,53,67 W 14 L,0.827
+cht_2031_82,2031,82,DET,Pistons,Eastern,Central,Detroit,Michigan,96,95,A,1,win,54,68 W 14 L,0.829
