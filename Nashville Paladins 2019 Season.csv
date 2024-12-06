@@ -1,83 +1,83 @@
-season,game,opp_id,opp_name,home_away,talons_score,opp_score,conference,division,city,state
-2019,1,LAC,Clippers,A,117,92,Western,Pacific,Los Angeles,California
-2019,2,IND,Pacers,A,86,107,Eastern,Central,Indianpolis,Indiana
-2019,3,LAL,Lakers,H,116,121,Western,Pacific,Nashville,Tennessee
-2019,4,VIR,Storm,H,143,86,Eastern,Southeast,Nashville,Tennessee
-2019,5,GSW,Warriors,A,112,129,Western,Pacific,San Francisco, California
-2019,6,GSW,Warriors,H,145,96,Western,Pacific,Nashville,Tennessee
-2019,7,NYK,Knicks,A,111,115,Eastern,Atlantic,New York City,New York
-2019,8,DAL,Mavericks,A,138,94,Western,Southwest,Dallas,Texas
-2019,9,BKN,Nets,A,117,98,Eastern,Atlantic,Brooklyn,New York
-2019,10,IND,Pacers,H,103,93,Eastern,Central,Nashville,Tennessee
-2019,11,UTA,Jazz,A,108,94,Western,Pacific,Salt Lake City,Utah
-2019,12,STL,Sound,A,99,101,Western,Northwest,St. Louis,Missouri
-2019,13,LOU,Liberty,H,137,97,Eastern,Central,Nashville,Tennessee
-2019,14,BAL,Barons,A,125,118,Eastern,Atlantic,Baltimore,Maryland
-2019,15,MIN,Timberwolves,H,131,127,Western,Northwest,Nashville,Tennessee
-2019,16,SAC,Kings,A,110,104,Western,Pacific,Sacramento,California
-2019,17,MEM,Grizzlies,H,114,89,Western,Southwest,Nashville,Tennessee
-2019,18,ATL,Hawks,H,133,104,Eastern,Southeast,Atlanta,Georgia
-2019,19,NYK,Knicks,H,138,135,Eastern,Atlantic,Nashville,Tennessee
-2019,20,CHI,Bulls,A,109,124,Eastern,Central,Chicago,Illinois
-2019,21,LOU,Liberty,H,111,108,Eastern,Central,Nashville,Tennessee
-2019,22,CLE,Cavaliers,H,104,122,Eastern,Central,Nashville,Tennessee
-2019,23,CLE,Cavaliers,A,109,117,Eastern,Central,Cleveland,Ohio
-2019,24,MIA,Heat,H,130,93,Eastern,Southeast,Nashville,Tennessee
-2019,25,OKC,Thunder,A,92,115,Western,Southwest,Oklahoma City,Oklahoma
-2019,26,WAS,Wizards,H,144,129,Eastern,Southeast,Nashville,Tennessee
-2019,27,UTA,Jazz,H,116,104,Western,Pacific,Nashville,Tennessee
-2019,28,NOLA,Pelicans,H,111,98,Western,Southwest,Nashville,Tennessee
-2019,29,POR,Blazers,A,105,91,Western,Northwest,Portland,Oregon
-2019,30,BKN,Nets,H,112,107,Eastern,Atlantic,Nashville,Tennessee
-2019,31,VCR,Ravens,A,124,86,Western,Northwest,Vancouver,Canada
-2019,32,MIA,Heat,A,138,101,Eastern,Southeast,Miami,Florida
-2019,33,NOLA,Pelicans,A,117,106,Western,Southwest,New Orleans,Louisiana
-2019,34,BOS,Celtics,A,155,108,Eastern,Atlantic,Boston,Massachusetts
-2019,35,SAN,Spurs,H,121,111,Western,Southwest,Nashville,Tennessee
-2019,36,LAC,Clippers,H,104,107,Western,Pacific,Nashville,Tennessee
-2019,37,BAL,Barons,A,136,81,Eastern,Atlantic,Baltimore,Maryland
-2019,38,PHX,Suns,H,117,125,Western,Pacific,Nashville,Tennessee
-2019,39,DET,Pistons,A,111,112,Eastern,Central,Detroit,Michigan
-2019,40,MIA,Heat,H,130,99,Eastern,Southeast,Nashville,Tennessee
-2019,41,BOS,Celtics,H,121,127,Eastern,Atlantic,Nashville,Tennessee
-2019,42,PHI,76ers,H,116,117,Eastern,Atlantic,Nashville,Tennessee
-2019,43,CHA,Hornets,H,138,99,Eastern,Southeast,Nashville,Tennessee
-2019,44,DAL,Mavericks,H,82,89,Western,Southwest,Nashville,Tennessee
-2019,45,MIL,Bucks,H,118,117,Western,Northwest,Nashville,Tennessee
-2019,46,SAC,Kings,H,124,111,Western,Pacific,Nashville,Tennessee
-2019,47,LAL,Lakers,A,125,115,Western,Pacific,Los Angeles,California
-2019,48,ATL,Hawks,A,105,114,Eastern,Southeast,Atlanta,Georgia
-2019,49,DET,Pistons,H,109,113,Eastern,Central,Nashville,Tennessee
-2019,50,PHI,76ers,A,101,129,Eastern,Atlantic,Philadelphia,Pennsylvania
-2019,51,TOR,Raptors,H,118,96,Eastern,Atlantic,Nashville,Tennessee
-2019,52,HOU,Rockets,H,126,107,Western,Southwest,Nashville,Tennessee
-2019,53,LOU,Liberty,A,108,82,Eastern,Central,Louisville,Kentucky
-2019,54,CHI,Bulls,H,102,92,Eastern,Central,Nashville,Tennessee
-2019,55,CHA,Hornets,A,125,126,Eastern,Southeast,Charlotte,North Carolina
-2019,56,LOU,Liberty,A,96,111,Eastern,Central,Louisville,Kentucky
-2019,57,IND,Pacers,A,99,109,Eastern,Central,Indianpolis,Indiana
-2019,58,TOR,Raptors,A,97,119,Eastern,Atlantic,Toronto,Canada
-2019,59,DEN,Nuggets,A,130,121,Western,Northwest,Denver,Colorado
-2019,60,IND,Pacers,H,116,101,Eastern,Central,Nashville,Tennessee
-2019,61,ORL,Magic,H,126,92,Eastern,Southeast,Nashville,Tennessee
-2019,62,POR,Blazers,H,100,114,Western,Northwest,Nashville,Tennessee
-2019,63,OKC,Thunder,H,73,125,Western,Southwest,Nashville,Tennessee
-2019,64,WAS,Wizards,A,112,92,Eastern,Southeast,Washington,District of Columbia
-2019,65,CHI,Bulls,H,126,114,Eastern,Central,Nashville,Tennessee
-2019,66,STL,Sound,H,151,110,Western,Northwest,Nashville,Tennessee
-2019,67,VIR,Storm,A,107,106,Eastern,Southeast,Richmond,Virginia
-2019,68,CHI,Bulls,A,121,111,Eastern,Central,Chicago,Illinois
-2019,69,DEN,Nuggets,H,115,104,Western,Northwest,Nashville,Tennessee
-2019,70,DET,Pistons,H,113,92,Eastern,Central,Nashville,Tennessee
-2019,71,CLE,Cavaliers,H,104,91,Eastern,Central,Nashville,Tennessee
-2019,72,MIN,Timberwolves,A,117,110,Western,Northwest,Minneapolis,Minnesota
-2019,73,MIL,Bucks,A,111,116,Western,Northwest,Milwaukee,Wisconsin
-2019,74,MEM,Grizzlies,A,121,104,Western,Southwest,Memphis,Tennessee
-2019,75,CLE,Cavaliers,A,105,121,Eastern,Central,Cleveland,Ohio
-2019,76,HOU,Rockets,A,111,138,Western,Southwest,Houston,Texas
-2019,77,VCR,Ravens,H,113,121,Western,Northwest,Nashville,Tennessee
-2019,78,SAN,Spurs,A,102,118,Western,Southwest,San Antonio,Texas
-2019,79,ORL,Magic,A,116,96,Eastern,Southeast,Orlando,Florida
-2019,80,PHX,Suns,A,109,107,Western,Pacific,Phoenix,Arizona
-2019,81,BAL,Barons,H,105,82,Eastern,Atlantic,Nashville,Tennessee
-2019,82,DET,Pistons,A,93,103,Eastern,Central,Detroit,Michigan
+game_id,season,game,opp_id,opp_name,home_away,team_score,opp_score,conference,division,city,state,margin,win_loss,games_above_500,record,percentage
+nas_2019_1,2019,1,LAC,Clippers,A,117,92,Western,Pacific,Los Angeles,California,25,win,1,1 W 0 L,1.0
+nas_2019_2,2019,2,IND,Pacers,A,86,107,Eastern,Central,Indianpolis,Indiana,-21,loss,0,1 W 1 L,0.5
+nas_2019_3,2019,3,LAL,Lakers,H,116,121,Western,Pacific,Nashville,Tennessee,-5,loss,0,1 W 2 L,0.333
+nas_2019_4,2019,4,VIR,Storm,H,143,86,Eastern,Southeast,Nashville,Tennessee,57,win,0,2 W 2 L,0.5
+nas_2019_5,2019,5,GSW,Warriors,A,112,129,Western,Pacific,San Francisco, California,-17,loss,0,2 W 3 L,0.4
+nas_2019_6,2019,6,GSW,Warriors,H,145,96,Western,Pacific,Nashville,Tennessee,49,win,0,3 W 3 L,0.5
+nas_2019_7,2019,7,NYK,Knicks,A,111,115,Eastern,Atlantic,New York City,New York,-4,loss,0,3 W 4 L,0.429
+nas_2019_8,2019,8,DAL,Mavericks,A,138,94,Western,Southwest,Dallas,Texas,44,win,0,4 W 4 L,0.5
+nas_2019_9,2019,9,BKN,Nets,A,117,98,Eastern,Atlantic,Brooklyn,New York,19,win,1,5 W 4 L,0.556
+nas_2019_10,2019,10,IND,Pacers,H,103,93,Eastern,Central,Nashville,Tennessee,10,win,2,6 W 4 L,0.6
+nas_2019_11,2019,11,UTA,Jazz,A,108,94,Western,Pacific,Salt Lake City,Utah,14,win,3,7 W 4 L,0.636
+nas_2019_12,2019,12,STL,Sound,A,99,101,Western,Northwest,St. Louis,Missouri,-2,loss,2,7 W 5 L,0.583
+nas_2019_13,2019,13,LOU,Liberty,H,137,97,Eastern,Central,Nashville,Tennessee,40,win,3,8 W 5 L,0.615
+nas_2019_14,2019,14,BAL,Barons,A,125,118,Eastern,Atlantic,Baltimore,Maryland,7,win,4,9 W 5 L,0.643
+nas_2019_15,2019,15,MIN,Timberwolves,H,131,127,Western,Northwest,Nashville,Tennessee,4,win,5,10 W 5 L,0.667
+nas_2019_16,2019,16,SAC,Kings,A,110,104,Western,Pacific,Sacramento,California,6,win,6,11 W 5 L,0.688
+nas_2019_17,2019,17,MEM,Grizzlies,H,114,89,Western,Southwest,Nashville,Tennessee,25,win,7,12 W 5 L,0.706
+nas_2019_18,2019,18,ATL,Hawks,H,133,104,Eastern,Southeast,Atlanta,Georgia,29,win,8,13 W 5 L,0.722
+nas_2019_19,2019,19,NYK,Knicks,H,138,135,Eastern,Atlantic,Nashville,Tennessee,3,win,9,14 W 5 L,0.737
+nas_2019_20,2019,20,CHI,Bulls,A,109,124,Eastern,Central,Chicago,Illinois,-15,loss,8,14 W 6 L,0.7
+nas_2019_21,2019,21,LOU,Liberty,H,111,108,Eastern,Central,Nashville,Tennessee,3,win,9,15 W 6 L,0.714
+nas_2019_22,2019,22,CLE,Cavaliers,H,104,122,Eastern,Central,Nashville,Tennessee,-18,loss,8,15 W 7 L,0.682
+nas_2019_23,2019,23,CLE,Cavaliers,A,109,117,Eastern,Central,Cleveland,Ohio,-8,loss,7,15 W 8 L,0.652
+nas_2019_24,2019,24,MIA,Heat,H,130,93,Eastern,Southeast,Nashville,Tennessee,37,win,8,16 W 8 L,0.667
+nas_2019_25,2019,25,OKC,Thunder,A,92,115,Western,Southwest,Oklahoma City,Oklahoma,-23,loss,7,16 W 9 L,0.64
+nas_2019_26,2019,26,WAS,Wizards,H,144,129,Eastern,Southeast,Nashville,Tennessee,15,win,8,17 W 9 L,0.654
+nas_2019_27,2019,27,UTA,Jazz,H,116,104,Western,Pacific,Nashville,Tennessee,12,win,9,18 W 9 L,0.667
+nas_2019_28,2019,28,NOLA,Pelicans,H,111,98,Western,Southwest,Nashville,Tennessee,13,win,10,19 W 9 L,0.679
+nas_2019_29,2019,29,POR,Blazers,A,105,91,Western,Northwest,Portland,Oregon,14,win,11,20 W 9 L,0.69
+nas_2019_30,2019,30,BKN,Nets,H,112,107,Eastern,Atlantic,Nashville,Tennessee,5,win,12,21 W 9 L,0.7
+nas_2019_31,2019,31,VCR,Ravens,A,124,86,Western,Northwest,Vancouver,Canada,38,win,13,22 W 9 L,0.71
+nas_2019_32,2019,32,MIA,Heat,A,138,101,Eastern,Southeast,Miami,Florida,37,win,14,23 W 9 L,0.719
+nas_2019_33,2019,33,NOLA,Pelicans,A,117,106,Western,Southwest,New Orleans,Louisiana,11,win,15,24 W 9 L,0.727
+nas_2019_34,2019,34,BOS,Celtics,A,155,108,Eastern,Atlantic,Boston,Massachusetts,47,win,16,25 W 9 L,0.735
+nas_2019_35,2019,35,SAN,Spurs,H,121,111,Western,Southwest,Nashville,Tennessee,10,win,17,26 W 9 L,0.743
+nas_2019_36,2019,36,LAC,Clippers,H,104,107,Western,Pacific,Nashville,Tennessee,-3,loss,16,26 W 10 L,0.722
+nas_2019_37,2019,37,BAL,Barons,A,136,81,Eastern,Atlantic,Baltimore,Maryland,55,win,17,27 W 10 L,0.73
+nas_2019_38,2019,38,PHX,Suns,H,117,125,Western,Pacific,Nashville,Tennessee,-8,loss,16,27 W 11 L,0.711
+nas_2019_39,2019,39,DET,Pistons,A,111,112,Eastern,Central,Detroit,Michigan,-1,loss,15,27 W 12 L,0.692
+nas_2019_40,2019,40,MIA,Heat,H,130,99,Eastern,Southeast,Nashville,Tennessee,31,win,16,28 W 12 L,0.7
+nas_2019_41,2019,41,BOS,Celtics,H,121,127,Eastern,Atlantic,Nashville,Tennessee,-6,loss,15,28 W 13 L,0.683
+nas_2019_42,2019,42,PHI,76ers,H,116,117,Eastern,Atlantic,Nashville,Tennessee,-1,loss,14,28 W 14 L,0.667
+nas_2019_43,2019,43,CHA,Hornets,H,138,99,Eastern,Southeast,Nashville,Tennessee,39,win,15,29 W 14 L,0.674
+nas_2019_44,2019,44,DAL,Mavericks,H,82,89,Western,Southwest,Nashville,Tennessee,-7,loss,14,29 W 15 L,0.659
+nas_2019_45,2019,45,MIL,Bucks,H,118,117,Western,Northwest,Nashville,Tennessee,1,win,15,30 W 15 L,0.667
+nas_2019_46,2019,46,SAC,Kings,H,124,111,Western,Pacific,Nashville,Tennessee,13,win,16,31 W 15 L,0.674
+nas_2019_47,2019,47,LAL,Lakers,A,125,115,Western,Pacific,Los Angeles,California,10,win,17,32 W 15 L,0.681
+nas_2019_48,2019,48,ATL,Hawks,A,105,114,Eastern,Southeast,Atlanta,Georgia,-9,loss,16,32 W 16 L,0.667
+nas_2019_49,2019,49,DET,Pistons,H,109,113,Eastern,Central,Nashville,Tennessee,-4,loss,15,32 W 17 L,0.653
+nas_2019_50,2019,50,PHI,76ers,A,101,129,Eastern,Atlantic,Philadelphia,Pennsylvania,-28,loss,14,32 W 18 L,0.64
+nas_2019_51,2019,51,TOR,Raptors,H,118,96,Eastern,Atlantic,Nashville,Tennessee,22,win,15,33 W 18 L,0.647
+nas_2019_52,2019,52,HOU,Rockets,H,126,107,Western,Southwest,Nashville,Tennessee,19,win,16,34 W 18 L,0.654
+nas_2019_53,2019,53,LOU,Liberty,A,108,82,Eastern,Central,Louisville,Kentucky,26,win,17,35 W 18 L,0.66
+nas_2019_54,2019,54,CHI,Bulls,H,102,92,Eastern,Central,Nashville,Tennessee,10,win,18,36 W 18 L,0.667
+nas_2019_55,2019,55,CHA,Hornets,A,125,126,Eastern,Southeast,Charlotte,North Carolina,-1,loss,17,36 W 19 L,0.655
+nas_2019_56,2019,56,LOU,Liberty,A,96,111,Eastern,Central,Louisville,Kentucky,-15,loss,16,36 W 20 L,0.643
+nas_2019_57,2019,57,IND,Pacers,A,99,109,Eastern,Central,Indianpolis,Indiana,-10,loss,15,36 W 21 L,0.632
+nas_2019_58,2019,58,TOR,Raptors,A,97,119,Eastern,Atlantic,Toronto,Canada,-22,loss,14,36 W 22 L,0.621
+nas_2019_59,2019,59,DEN,Nuggets,A,130,121,Western,Northwest,Denver,Colorado,9,win,15,37 W 22 L,0.627
+nas_2019_60,2019,60,IND,Pacers,H,116,101,Eastern,Central,Nashville,Tennessee,15,win,16,38 W 22 L,0.633
+nas_2019_61,2019,61,ORL,Magic,H,126,92,Eastern,Southeast,Nashville,Tennessee,34,win,17,39 W 22 L,0.639
+nas_2019_62,2019,62,POR,Blazers,H,100,114,Western,Northwest,Nashville,Tennessee,-14,loss,16,39 W 23 L,0.629
+nas_2019_63,2019,63,OKC,Thunder,H,73,125,Western,Southwest,Nashville,Tennessee,-52,loss,15,39 W 24 L,0.619
+nas_2019_64,2019,64,WAS,Wizards,A,112,92,Eastern,Southeast,Washington,District of Columbia,20,win,16,40 W 24 L,0.625
+nas_2019_65,2019,65,CHI,Bulls,H,126,114,Eastern,Central,Nashville,Tennessee,12,win,17,41 W 24 L,0.631
+nas_2019_66,2019,66,STL,Sound,H,151,110,Western,Northwest,Nashville,Tennessee,41,win,18,42 W 24 L,0.636
+nas_2019_67,2019,67,VIR,Storm,A,107,106,Eastern,Southeast,Richmond,Virginia,1,win,19,43 W 24 L,0.642
+nas_2019_68,2019,68,CHI,Bulls,A,121,111,Eastern,Central,Chicago,Illinois,10,win,20,44 W 24 L,0.647
+nas_2019_69,2019,69,DEN,Nuggets,H,115,104,Western,Northwest,Nashville,Tennessee,11,win,21,45 W 24 L,0.652
+nas_2019_70,2019,70,DET,Pistons,H,113,92,Eastern,Central,Nashville,Tennessee,21,win,22,46 W 24 L,0.657
+nas_2019_71,2019,71,CLE,Cavaliers,H,104,91,Eastern,Central,Nashville,Tennessee,13,win,23,47 W 24 L,0.662
+nas_2019_72,2019,72,MIN,Timberwolves,A,117,110,Western,Northwest,Minneapolis,Minnesota,7,win,24,48 W 24 L,0.667
+nas_2019_73,2019,73,MIL,Bucks,A,111,116,Western,Northwest,Milwaukee,Wisconsin,-5,loss,23,48 W 25 L,0.658
+nas_2019_74,2019,74,MEM,Grizzlies,A,121,104,Western,Southwest,Memphis,Tennessee,17,win,24,49 W 25 L,0.662
+nas_2019_75,2019,75,CLE,Cavaliers,A,105,121,Eastern,Central,Cleveland,Ohio,-16,loss,23,49 W 26 L,0.653
+nas_2019_76,2019,76,HOU,Rockets,A,111,138,Western,Southwest,Houston,Texas,-27,loss,22,49 W 27 L,0.645
+nas_2019_77,2019,77,VCR,Ravens,H,113,121,Western,Northwest,Nashville,Tennessee,-8,loss,21,49 W 28 L,0.636
+nas_2019_78,2019,78,SAN,Spurs,A,102,118,Western,Southwest,San Antonio,Texas,-16,loss,20,49 W 29 L,0.628
+nas_2019_79,2019,79,ORL,Magic,A,116,96,Eastern,Southeast,Orlando,Florida,20,win,21,50 W 29 L,0.633
+nas_2019_80,2019,80,PHX,Suns,A,109,107,Western,Pacific,Phoenix,Arizona,2,win,22,51 W 29 L,0.637
+nas_2019_81,2019,81,BAL,Barons,H,105,82,Eastern,Atlantic,Nashville,Tennessee,23,win,23,52 W 29 L,0.642
+nas_2019_82,2019,82,DET,Pistons,A,93,103,Eastern,Central,Detroit,Michigan,-10,loss,22,52 W 30 L,0.634
