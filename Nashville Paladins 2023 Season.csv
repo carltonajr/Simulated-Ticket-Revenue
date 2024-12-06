@@ -1,83 +1,83 @@
-season,game,opp_id,opp_name,home_away,talons_score,opp_score,conference,division,city,state
-2023,1,IND,Pacers,H,110,105,Eastern,Central,Nashville,Tennessee
-2023,2,MIN,Timberwolves,A,115,106,Western,Northwest,Minnenapolis,Minnesota
-2023,3,DAL,Mavericks,A,117,113,Western,Southwest,Dallas,Texas
-2023,4,VIR,Storm,H,125,100,Eastern,Southeast,Nashville,Tennessee
-2023,5,PHI,76ers,A,110,111,Eastern,Atlantic,Philadelphia,Pennsylvania
-2023,6,UTA,Jazz,H,114,107,Western,Pacific,Nashville,Tennessee
-2023,7,NOLA,Pelicans,H,128,99,Western,Southwest,Nashville,Tennessee
-2023,8,UTA,Jazz,A,110,101,Western,Pacific,Salt Lake City,Utah
-2023,9,DET,Pistons,H,120,92,Eastern,Central,Nashville,Tennessee
-2023,10,DEN,Nuggets,H,115,103,Western,Northwest,Nashville,Tennessee
-2023,11,CHI,Bulls,H,142,90,Eastern,Central,Nashville,Tennessee
-2023,12,BKN,Nets,A,116,106,Eastern,Atlantic,Brooklyn,New York
-2023,13,VIR,Storm,A,121,116,Eastern,Southeast,Richmond,Virginia
-2023,14,POR,Blazers,A,109,93,Western,Northwest,Portland,Oregon
-2023,15,SAC,Kings,H,114,105,Western,Pacific,Nashville,Tennessee
-2023,16,SAC,Kings,A,127,135,Western,Pacific,Sacramento,California
-2023,17,CHA,Hornets,A,110,90,Eastern,Southeast,Charlotte,North Carolina
-2023,18,BAL,Barons,H,102,73,Eastern,Atlantic,Nashville,Tennessee
-2023,19,OKC,Thunder,H,115,111,Western,Southwest,Nashville,Tennessee
-2023,20,PHI,76ers,H,116,104,Eastern,Atlantic,Nashville,Tennessee
-2023,21,LOU,Liberty,A,99,106,Eastern,Central,Louisville,Kentucky
-2023,22,MIN,Timberwolves,H,122,91,Western,Northwest,Nashville,Tennessee
-2023,23,CLE,Cavaliers,A,100,124,Eastern,Central,Cleveland,Ohio
-2023,24,LAL,Lakers,H,123,90,Western,Pacific,Nashville,Tennessee
-2023,25,MIL,Bucks,A,100,98,Western,Northwest,Milwaukee,Wisconsin
-2023,26,DET,Pistons,H,111,102,Eastern,Central,Nashville,Tennessee
-2023,27,SAN,Spurs,A,116,102,Western,Southwest,San Antonio,Texas
-2023,28,IND,Pacers,H,120,90,Eastern,Central,Nashville,Tennessee
-2023,29,DAL,Mavericks,H,129,98,Western,Southwest,Nashville,Tennessee
-2023,30,LOU,Liberty,H,108,117,Eastern,Central,Nashville,Tennessee
-2023,31,CLE,Cavaliers,H,131,101,Eastern,Central,Nashville,Tennessee
-2023,32,CHI,Bulls,A,129,107,Eastern,Central,Chicago,Illinois
-2023,33,STL,Sound,H,109,85,Western,Northwest,Nashville,Tennessee
-2023,34,ATL,Hawks,H,104,100,Eastern,Southeast,Nashville,Tennessee
-2023,35,ATL,Hawks,A,128,114,Eastern,Southeast,Atlanta,Georgia
-2023,36,DET,Pistons,A,116,103,Eastern,Central,Detroit,Michigan
-2023,37,PHX,Suns,A,111,94,Western,Pacific,Phoenix,Arizona
-2023,38,MEM,Grizzlies,H,99,123,Western,Southwest,Nashville,Tennessee
-2023,39,LOU,Liberty,A,124,117,Eastern,Central,Louisville,Kentucky
-2023,40,PHI,76ers,A,121,108,Eastern,Atlantic,Philadelphia,Pennsylvania
-2023,41,HOU,Rockets,H,113,99,Western,Southwest,Nashville,Tennessee
-2023,42,BOS,Celtics,H,147,86,Eastern,Atlantic,Nashville,Tennessee
-2023,43,BKN,Nets,H,120,90,Eastern,Atlantic,Nashville,Tennessee
-2023,44,LAC,Clippers,A,108,91,Western,Pacific,Los Angeles,California
-2023,45,IND,Pacers,A,104,112,Eastern,Central,Indianapolis,Indiana
-2023,46,BOS,Celtics,A,109,134,Eastern,Atlantic,Boston,Massachusetts
-2023,47,VCR,Ravens,H,133,107,Western,Northwest,Nashville,Tennessee
-2023,48,MIA,Heat,H,134,88,Eastern,Southeast,Nashville,Tennessee
-2023,49,MIA,Heat,A,115,105,Eastern,Southeast,Miami,Florida
-2023,50,ORL,Magic,A,98,113,Eastern,Southeast,Orlando,Florida
-2023,51,DET,Pistons,A,129,131,Eastern,Central,Detroit,Michigan
-2023,52,WAS,Wizards,H,120,118,Eastern,Southeast,Nashville,Tennessee
-2023,53,CHI,Bulls,A,123,113,Eastern,Central,Chicago,Illinois
-2023,54,WAS,Wizards,A,115,116,Eastern,Southeast,Washington,District of Columbia
-2023,55,NYK,Knicks,H,134,128,Eastern,Atlantic,Nashville,Tennessee
-2023,56,ATL,Hawks,H,134,111,Eastern,Southeast,Nashville,Tennessee
-2023,57,CLE,Cavaliers,H,116,104,Eastern,Central,Nashville,Tennessee
-2023,58,CHI,Bulls,H,125,101,Eastern,Central,Nashville,Tennessee
-2023,59,NYK,Knicks,A,142,132,Eastern,Atlantic,New York City,New York
-2023,60,IND,Pacers,A,118,122,Eastern,Central,Indianapolis,Indiana
-2023,61,GSW,Warriors,H,124,91,Western,Pacific,Nashville,Tennessee
-2023,62,GSW,Warriors,A,114,91,Western,Pacific,San Francisco,California
-2023,63,VCR,Ravens,A,109,98,Western,Northwest,Vancouver,Canada
-2023,64,TOR,Raptors,A,106,112,Eastern,Atlantic,Toronto,Canada
-2023,65,LAL,Lakers,A,121,91,Western,Pacific,Los Angeles,California
-2023,66,TOR,Raptors,H,114,107,Eastern,Atlantic,Nashville,Tennessee
-2023,67,MEM,Grizzlies,A,120,97,Western,Southwest,Memphis,Tennessee
-2023,68,DEN,Nuggets,A,134,89,Western,Northwest,Denver,Colorado
-2023,69,MIL,Bucks,H,115,105,Western,Northwest,Nashville,Tennessee
-2023,70,CLE,Cavaliers,A,110,121,Eastern,Central,Cleveland,Ohio
-2023,71,ORL,Magic,H,121,99,Eastern,Southeast,Nashville,Tennessee
-2023,72,LAC,Clippers,H,115,97,Western,Pacific,Nashville,Tennessee
-2023,73,PHX,Suns,H,139,107,Western,Pacific,Nashville,Tennessee
-2023,74,OKC,Thunder,A,115,100,Western,Southwest,Oklahoma City,Oklahoma
-2023,75,CHA,Hornets,H,119,113,Eastern,Southeast,Nashville,Tennessee
-2023,76,NOLA,Pelicans,A,93,86,Western,Southwest,New Orleans,Louisiana
-2023,77,BAL,Barons,A,107,91,Eastern,Atlantic,Baltimore,Maryland
-2023,78,LOU,Liberty,A,123,100,Eastern,Central,Louisville,Kentucky
-2023,79,SAN,Spurs,H,102,97,Western,Southwest,Nashville,Tennessee
-2023,80,HOU,Rockets,A,114,113,Western,Southwest,Houston,Texas
-2023,81,POR,Blazers,H,123,106,Western,Northwest,Nashville,Tennessee
-2023,82,STL,Sound,A,136,117,Western,Northwest,St. Louis,Missouri
+game_id,season,game,opp_id,opp_name,home_away,team_score,opp_score,conference,division,city,state,margin,win_loss,games_above_500,record,percentage
+nas_2023_1,2023,1,IND,Pacers,H,110,105,Eastern,Central,Nashville,Tennessee,5,win,1,1 W 0 L,1.0
+nas_2023_2,2023,2,MIN,Timberwolves,A,115,106,Western,Northwest,Minnenapolis,Minnesota,9,win,2,2 W 0 L,1.0
+nas_2023_3,2023,3,DAL,Mavericks,A,117,113,Western,Southwest,Dallas,Texas,4,win,3,3 W 0 L,1.0
+nas_2023_4,2023,4,VIR,Storm,H,125,100,Eastern,Southeast,Nashville,Tennessee,25,win,4,4 W 0 L,1.0
+nas_2023_5,2023,5,PHI,76ers,A,110,111,Eastern,Atlantic,Philadelphia,Pennsylvania,-1,loss,3,4 W 1 L,0.8
+nas_2023_6,2023,6,UTA,Jazz,H,114,107,Western,Pacific,Nashville,Tennessee,7,win,4,5 W 1 L,0.833
+nas_2023_7,2023,7,NOLA,Pelicans,H,128,99,Western,Southwest,Nashville,Tennessee,29,win,5,6 W 1 L,0.857
+nas_2023_8,2023,8,UTA,Jazz,A,110,101,Western,Pacific,Salt Lake City,Utah,9,win,6,7 W 1 L,0.875
+nas_2023_9,2023,9,DET,Pistons,H,120,92,Eastern,Central,Nashville,Tennessee,28,win,7,8 W 1 L,0.889
+nas_2023_10,2023,10,DEN,Nuggets,H,115,103,Western,Northwest,Nashville,Tennessee,12,win,8,9 W 1 L,0.9
+nas_2023_11,2023,11,CHI,Bulls,H,142,90,Eastern,Central,Nashville,Tennessee,52,win,9,10 W 1 L,0.909
+nas_2023_12,2023,12,BKN,Nets,A,116,106,Eastern,Atlantic,Brooklyn,New York,10,win,10,11 W 1 L,0.917
+nas_2023_13,2023,13,VIR,Storm,A,121,116,Eastern,Southeast,Richmond,Virginia,5,win,11,12 W 1 L,0.923
+nas_2023_14,2023,14,POR,Blazers,A,109,93,Western,Northwest,Portland,Oregon,16,win,12,13 W 1 L,0.929
+nas_2023_15,2023,15,SAC,Kings,H,114,105,Western,Pacific,Nashville,Tennessee,9,win,13,14 W 1 L,0.933
+nas_2023_16,2023,16,SAC,Kings,A,127,135,Western,Pacific,Sacramento,California,-8,loss,12,14 W 2 L,0.875
+nas_2023_17,2023,17,CHA,Hornets,A,110,90,Eastern,Southeast,Charlotte,North Carolina,20,win,13,15 W 2 L,0.882
+nas_2023_18,2023,18,BAL,Barons,H,102,73,Eastern,Atlantic,Nashville,Tennessee,29,win,14,16 W 2 L,0.889
+nas_2023_19,2023,19,OKC,Thunder,H,115,111,Western,Southwest,Nashville,Tennessee,4,win,15,17 W 2 L,0.895
+nas_2023_20,2023,20,PHI,76ers,H,116,104,Eastern,Atlantic,Nashville,Tennessee,12,win,16,18 W 2 L,0.9
+nas_2023_21,2023,21,LOU,Liberty,A,99,106,Eastern,Central,Louisville,Kentucky,-7,loss,15,18 W 3 L,0.857
+nas_2023_22,2023,22,MIN,Timberwolves,H,122,91,Western,Northwest,Nashville,Tennessee,31,win,16,19 W 3 L,0.864
+nas_2023_23,2023,23,CLE,Cavaliers,A,100,124,Eastern,Central,Cleveland,Ohio,-24,loss,15,19 W 4 L,0.826
+nas_2023_24,2023,24,LAL,Lakers,H,123,90,Western,Pacific,Nashville,Tennessee,33,win,16,20 W 4 L,0.833
+nas_2023_25,2023,25,MIL,Bucks,A,100,98,Western,Northwest,Milwaukee,Wisconsin,2,win,17,21 W 4 L,0.84
+nas_2023_26,2023,26,DET,Pistons,H,111,102,Eastern,Central,Nashville,Tennessee,9,win,18,22 W 4 L,0.846
+nas_2023_27,2023,27,SAN,Spurs,A,116,102,Western,Southwest,San Antonio,Texas,14,win,19,23 W 4 L,0.852
+nas_2023_28,2023,28,IND,Pacers,H,120,90,Eastern,Central,Nashville,Tennessee,30,win,20,24 W 4 L,0.857
+nas_2023_29,2023,29,DAL,Mavericks,H,129,98,Western,Southwest,Nashville,Tennessee,31,win,21,25 W 4 L,0.862
+nas_2023_30,2023,30,LOU,Liberty,H,108,117,Eastern,Central,Nashville,Tennessee,-9,loss,20,25 W 5 L,0.833
+nas_2023_31,2023,31,CLE,Cavaliers,H,131,101,Eastern,Central,Nashville,Tennessee,30,win,21,26 W 5 L,0.839
+nas_2023_32,2023,32,CHI,Bulls,A,129,107,Eastern,Central,Chicago,Illinois,22,win,22,27 W 5 L,0.844
+nas_2023_33,2023,33,STL,Sound,H,109,85,Western,Northwest,Nashville,Tennessee,24,win,23,28 W 5 L,0.848
+nas_2023_34,2023,34,ATL,Hawks,H,104,100,Eastern,Southeast,Nashville,Tennessee,4,win,24,29 W 5 L,0.853
+nas_2023_35,2023,35,ATL,Hawks,A,128,114,Eastern,Southeast,Atlanta,Georgia,14,win,25,30 W 5 L,0.857
+nas_2023_36,2023,36,DET,Pistons,A,116,103,Eastern,Central,Detroit,Michigan,13,win,26,31 W 5 L,0.861
+nas_2023_37,2023,37,PHX,Suns,A,111,94,Western,Pacific,Phoenix,Arizona,17,win,27,32 W 5 L,0.865
+nas_2023_38,2023,38,MEM,Grizzlies,H,99,123,Western,Southwest,Nashville,Tennessee,-24,loss,26,32 W 6 L,0.842
+nas_2023_39,2023,39,LOU,Liberty,A,124,117,Eastern,Central,Louisville,Kentucky,7,win,27,33 W 6 L,0.846
+nas_2023_40,2023,40,PHI,76ers,A,121,108,Eastern,Atlantic,Philadelphia,Pennsylvania,13,win,28,34 W 6 L,0.85
+nas_2023_41,2023,41,HOU,Rockets,H,113,99,Western,Southwest,Nashville,Tennessee,14,win,29,35 W 6 L,0.854
+nas_2023_42,2023,42,BOS,Celtics,H,147,86,Eastern,Atlantic,Nashville,Tennessee,61,win,30,36 W 6 L,0.857
+nas_2023_43,2023,43,BKN,Nets,H,120,90,Eastern,Atlantic,Nashville,Tennessee,30,win,31,37 W 6 L,0.86
+nas_2023_44,2023,44,LAC,Clippers,A,108,91,Western,Pacific,Los Angeles,California,17,win,32,38 W 6 L,0.864
+nas_2023_45,2023,45,IND,Pacers,A,104,112,Eastern,Central,Indianapolis,Indiana,-8,loss,31,38 W 7 L,0.844
+nas_2023_46,2023,46,BOS,Celtics,A,109,134,Eastern,Atlantic,Boston,Massachusetts,-25,loss,30,38 W 8 L,0.826
+nas_2023_47,2023,47,VCR,Ravens,H,133,107,Western,Northwest,Nashville,Tennessee,26,win,31,39 W 8 L,0.83
+nas_2023_48,2023,48,MIA,Heat,H,134,88,Eastern,Southeast,Nashville,Tennessee,46,win,32,40 W 8 L,0.833
+nas_2023_49,2023,49,MIA,Heat,A,115,105,Eastern,Southeast,Miami,Florida,10,win,33,41 W 8 L,0.837
+nas_2023_50,2023,50,ORL,Magic,A,98,113,Eastern,Southeast,Orlando,Florida,-15,loss,32,41 W 9 L,0.82
+nas_2023_51,2023,51,DET,Pistons,A,129,131,Eastern,Central,Detroit,Michigan,-2,loss,31,41 W 10 L,0.804
+nas_2023_52,2023,52,WAS,Wizards,H,120,118,Eastern,Southeast,Nashville,Tennessee,2,win,32,42 W 10 L,0.808
+nas_2023_53,2023,53,CHI,Bulls,A,123,113,Eastern,Central,Chicago,Illinois,10,win,33,43 W 10 L,0.811
+nas_2023_54,2023,54,WAS,Wizards,A,115,116,Eastern,Southeast,Washington,District of Columbia,-1,loss,32,43 W 11 L,0.796
+nas_2023_55,2023,55,NYK,Knicks,H,134,128,Eastern,Atlantic,Nashville,Tennessee,6,win,33,44 W 11 L,0.8
+nas_2023_56,2023,56,ATL,Hawks,H,134,111,Eastern,Southeast,Nashville,Tennessee,23,win,34,45 W 11 L,0.804
+nas_2023_57,2023,57,CLE,Cavaliers,H,116,104,Eastern,Central,Nashville,Tennessee,12,win,35,46 W 11 L,0.807
+nas_2023_58,2023,58,CHI,Bulls,H,125,101,Eastern,Central,Nashville,Tennessee,24,win,36,47 W 11 L,0.81
+nas_2023_59,2023,59,NYK,Knicks,A,142,132,Eastern,Atlantic,New York City,New York,10,win,37,48 W 11 L,0.814
+nas_2023_60,2023,60,IND,Pacers,A,118,122,Eastern,Central,Indianapolis,Indiana,-4,loss,36,48 W 12 L,0.8
+nas_2023_61,2023,61,GSW,Warriors,H,124,91,Western,Pacific,Nashville,Tennessee,33,win,37,49 W 12 L,0.803
+nas_2023_62,2023,62,GSW,Warriors,A,114,91,Western,Pacific,San Francisco,California,23,win,38,50 W 12 L,0.806
+nas_2023_63,2023,63,VCR,Ravens,A,109,98,Western,Northwest,Vancouver,Canada,11,win,39,51 W 12 L,0.81
+nas_2023_64,2023,64,TOR,Raptors,A,106,112,Eastern,Atlantic,Toronto,Canada,-6,loss,38,51 W 13 L,0.797
+nas_2023_65,2023,65,LAL,Lakers,A,121,91,Western,Pacific,Los Angeles,California,30,win,39,52 W 13 L,0.8
+nas_2023_66,2023,66,TOR,Raptors,H,114,107,Eastern,Atlantic,Nashville,Tennessee,7,win,40,53 W 13 L,0.803
+nas_2023_67,2023,67,MEM,Grizzlies,A,120,97,Western,Southwest,Memphis,Tennessee,23,win,41,54 W 13 L,0.806
+nas_2023_68,2023,68,DEN,Nuggets,A,134,89,Western,Northwest,Denver,Colorado,45,win,42,55 W 13 L,0.809
+nas_2023_69,2023,69,MIL,Bucks,H,115,105,Western,Northwest,Nashville,Tennessee,10,win,43,56 W 13 L,0.812
+nas_2023_70,2023,70,CLE,Cavaliers,A,110,121,Eastern,Central,Cleveland,Ohio,-11,loss,42,56 W 14 L,0.8
+nas_2023_71,2023,71,ORL,Magic,H,121,99,Eastern,Southeast,Nashville,Tennessee,22,win,43,57 W 14 L,0.803
+nas_2023_72,2023,72,LAC,Clippers,H,115,97,Western,Pacific,Nashville,Tennessee,18,win,44,58 W 14 L,0.806
+nas_2023_73,2023,73,PHX,Suns,H,139,107,Western,Pacific,Nashville,Tennessee,32,win,45,59 W 14 L,0.808
+nas_2023_74,2023,74,OKC,Thunder,A,115,100,Western,Southwest,Oklahoma City,Oklahoma,15,win,46,60 W 14 L,0.811
+nas_2023_75,2023,75,CHA,Hornets,H,119,113,Eastern,Southeast,Nashville,Tennessee,6,win,47,61 W 14 L,0.813
+nas_2023_76,2023,76,NOLA,Pelicans,A,93,86,Western,Southwest,New Orleans,Louisiana,7,win,48,62 W 14 L,0.816
+nas_2023_77,2023,77,BAL,Barons,A,107,91,Eastern,Atlantic,Baltimore,Maryland,16,win,49,63 W 14 L,0.818
+nas_2023_78,2023,78,LOU,Liberty,A,123,100,Eastern,Central,Louisville,Kentucky,23,win,50,64 W 14 L,0.821
+nas_2023_79,2023,79,SAN,Spurs,H,102,97,Western,Southwest,Nashville,Tennessee,5,win,51,65 W 14 L,0.823
+nas_2023_80,2023,80,HOU,Rockets,A,114,113,Western,Southwest,Houston,Texas,1,win,52,66 W 14 L,0.825
+nas_2023_81,2023,81,POR,Blazers,H,123,106,Western,Northwest,Nashville,Tennessee,17,win,53,67 W 14 L,0.827
+nas_2023_82,2023,82,STL,Sound,A,136,117,Western,Northwest,St. Louis,Missouri,19,win,54,68 W 14 L,0.829
