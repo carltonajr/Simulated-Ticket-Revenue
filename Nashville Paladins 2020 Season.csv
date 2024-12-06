@@ -1,83 +1,83 @@
-season,game,opp_id,opp_name,home_away,talons_score,opp_score,conference,division,city,state
-2020,1,PHX,Suns,H,105,116,Western,Pacific,Nashville,Tennessee
-2020,2,LAC,Clippers,H,103,86,Western,Pacific,Nashville,Tennessee
-2020,3,MIL,Bucks,A,98,124,Western,Northwest,Milwaukee,Wisconsin
-2020,4,NYK,Knicks,H,112,103,Eastern,Atlantic,Nashville,Tennessee
-2020,5,HOU,Rockets,H,138,110,Western,Southwest,Nashville,Tennessee
-2020,6,LOU,Liberty,A,120,126,Eastern,Central,Louisville,Kentucky
-2020,7,IND,Pacers,H,118,122,Eastern,Central,Nashville,Tennessee
-2020,8,UTA,Jazz,A,139,83,Western,Pacific,Salt Lake City,Utah
-2020,9,STL,Sound,A,129,92,Western,Northwest,St. Louis,Missouri
-2020,10,HOU,Rockets,A,113,110,Western,Southwest,Houston,Texas
-2020,11,DET,Pistons,H,103,77,Eastern,Central,Nashville,Tennessee
-2020,12,DAL,Mavericks,H,112,88,Western,Southwest,Nashville,Tennessee
-2020,13,BAL,Barons,A,116,88,Eastern,Atlantic,Baltimore,Maryland
-2020,14,BOS,Celtics,H,135,109,Eastern,Atlantic,Nashville,Tennessee
-2020,15,CHA,Hornets,A,124,111,Eastern,Southeast,Charlotte,North Carolina
-2020,16,CHI,Bulls,A,114,96,Eastern,Central,Chicago,Illinois
-2020,17,PHI,76ers,H,130,117,Eastern,Atlantic,Nashville,Tennessee
-2020,18,LAL,Lakers,H,129,117,Western,Pacific,Nashville,Tennessee
-2020,19,ORL,Magic,H,109,93,Eastern,Southeast,Nashville,Tennessee
-2020,20,CHA,Hornets,H,135,115,Eastern,Southeast,Nashville,Tennessee
-2020,21,MEM,Grizzlies,A,129,92,Western,Southwest,Memphis,Tennessee
-2020,22,POR,Blazers,A,138,111,Western,Northwest,Portland,Oregon
-2020,23,CLE,Cavaliers,A,97,111,Eastern,Central,Cleveland,Ohio
-2020,24,SAC,Kings,A,98,101,Western,Pacific,Sacramento,California
-2020,25,CHI,Bulls,H,107,106,Eastern,Central,Nashville,Tennessee
-2020,26,CHI,Bulls,A,97,108,Eastern,Central,Chicago,Illinois
-2020,27,OKC,Thunder,H,106,100,Western,Southwest,Nashville,Tennessee
-2020,28,VCR,Ravens,A,115,90,Western,Northwest,Vancouver,Canada
-2020,29,BKN,Nets,A,116,102,Eastern,Atlantic,Brooklyn,New York
-2020,30,NYK,Knicks,A,146,103,Eastern,Atlantic,New York City,New York
-2020,31,SAN,Spurs,H,121,107,Western,Southwest,Nashville,Tennessee
-2020,32,VIR,Storm,A,110,114,Eastern,Southeast,Richmond,Virginia
-2020,33,LOU,Liberty,A,126,109,Eastern,Central,Louisville,Kentucky
-2020,34,CLE,Cavaliers,H,139,150,Eastern,Central,Nashville,Tennessee
-2020,35,WAS,Wizards,A,91,113,Eastern,Southeast,Washington,District of Columbia
-2020,36,LOU,Liberty,H,118,91,Eastern,Central,Nashville,Tennessee
-2020,37,POR,Blazers,H,122,120,Western,Northwest,Nashville,Tennessee
-2020,38,DEN,Nuggets,H,142,110,Western,Northwest,Nashville,Tennessee
-2020,39,MIL,Bucks,H,106,132,Western,Northwest,Nashville,Tennessee
-2020,40,TOR,Raptors,H,135,86,Eastern,Atlantic,Nashville,Tennessee
-2020,41,MIA,Heat,H,109,104,Eastern,Southeast,Nashville,Tennessee
-2020,42,DAL,Mavericks,A,115,108,Western,Southwest,Dallas,Texas
-2020,43,OKC,Thunder,A,112,117,Western,Southwest,Oklahoma City,Oklahoma
-2020,44,DEN,Nuggets,A,96,111,Western,Northwest,Denver,Colorado
-2020,45,BOS,Celtics,A,104,115,Eastern,Atlantic,Boston,Massachusetts
-2020,46,VIR,Storm,H,98,107,Eastern,Southeast,Nashville,Tennessee
-2020,47,ORL,Magic,H,116,133,Eastern,Southeast,Nashville,Tennessee
-2020,48,LAC,Clippers,A,107,81,Western,Pacific,Los Angeles,California
-2020,49,BAL,Barons,H,123,98,Eastern,Atlantic,Nashville,Tennessee
-2020,50,CHI,Bulls,H,138,102,Eastern,Central,Nashville,Tennessee
-2020,51,SAN,Spurs,A,127,126,Western,Southwest,San Antonio,Texas
-2020,52,PHX,Suns,A,103,111,Western,Pacific,Phoenix,Arizona
-2020,53,DET,Pistons,H,132,117,Eastern,Central,Nashville,Tennessee
-2020,54,MIA,Heat,A,104,103,Eastern,Southeast,Miami,Florida
-2020,55,DET,Pistons,A,98,107,Eastern,Central,Detroit,Michigan
-2020,56,BKN,Nets,H,114,93,Eastern,Atlantic,Nashville,Tennessee
-2020,57,MEM,Grizzlies,H,119,103,Western,Southwest,Nashville,Tennessee
-2020,58,STL,Sound,H,114,117,Western,Northwest,Nashville,Tennessee
-2020,59,DET,Pistons,A,132,119,Eastern,Central,Detroit,Michigan
-2020,60,GSW,Warriors,A,113,103,Western,Pacific,San Francisco,California
-2020,61,UTA,Jazz,H,119,85,Western,Pacific,Nashville,Tennessee
-2020,62,WAS,Wizards,H,124,106,Eastern,Southeast,Nashville,Tennessee
-2020,63,NOLA,Pelicans,A,120,119,Western,Southwest,New Orleans,Louisiana
-2020,64,PHI,76ers,A,116,108,Eastern,Atlantic,Philadelphia,Pennsylvania
-2020,65,ATL,Hawks,A,128,109,Eastern,Southeast,Atlanta,Georgia
-2020,66,GSW,Warriors,H,123,116,Western,Pacific,Nashville,Tennessee
-2020,67,IND,Pacers,A,118,112,Eastern,Central,Indianapolis,Indiana
-2020,68,BAL,Barons,A,98,95,Eastern,Atlantic,Baltimore,Maryland
-2020,69,MIN,Timberwolves,H,115,100,Western,Northwest,Nashville,Tennessee
-2020,70,ORL,Magic,A,110,122,Eastern,Southeast,Orlando,Florida
-2020,71,ATL,Hawks,H,133,113,Eastern,Southeast,Nashville,Tennessee
-2020,72,CLE,Cavaliers,A,135,123,Eastern,Central,Cleveland,Ohio
-2020,73,IND,Pacers,A,120,105,Eastern,Central,Indianapolis,Indiana
-2020,74,LOU,Liberty,H,120,92,Eastern,Central,Nashville,Tennessee
-2020,75,TOR,Raptors,A,106,98,Eastern,Atlantic,Toronto,Canada
-2020,76,CLE,Cavaliers,H,120,100,Eastern,Central,Nashville,Tennessee
-2020,77,LAL,Lakers,A,117,104,Western,Pacific,Los Angeles,California
-2020,78,IND,Pacers,H,142,95,Eastern,Central,Nashville,Tennessee
-2020,79,NOLA,Pelicans,H,129,119,Western,Southwest,Nashville,Tennessee
-2020,80,SAC,Kings,H,133,131,Western,Pacific,Nashville,Tennessee
-2020,81,VCR,Ravens,H,110,105,Western,Northwest,Nashville,Tennessee
-2020,82,MIN,Timberwolves,A,116,114,Western,Northwest,Minnenapolis,Minnesota
+game_id,season,game,opp_id,opp_name,home_away,team_score,opp_score,conference,division,city,state,margin,win_loss,games_above_500,record,percentage
+nas_2020_1,2020,1,PHX,Suns,H,105,116,Western,Pacific,Nashville,Tennessee,-11,loss,0,0 W 1 L,0.0
+nas_2020_2,2020,2,LAC,Clippers,H,103,86,Western,Pacific,Nashville,Tennessee,17,win,0,1 W 1 L,0.5
+nas_2020_3,2020,3,MIL,Bucks,A,98,124,Western,Northwest,Milwaukee,Wisconsin,-26,loss,0,1 W 2 L,0.333
+nas_2020_4,2020,4,NYK,Knicks,H,112,103,Eastern,Atlantic,Nashville,Tennessee,9,win,0,2 W 2 L,0.5
+nas_2020_5,2020,5,HOU,Rockets,H,138,110,Western,Southwest,Nashville,Tennessee,28,win,1,3 W 2 L,0.6
+nas_2020_6,2020,6,LOU,Liberty,A,120,126,Eastern,Central,Louisville,Kentucky,-6,loss,0,3 W 3 L,0.5
+nas_2020_7,2020,7,IND,Pacers,H,118,122,Eastern,Central,Nashville,Tennessee,-4,loss,0,3 W 4 L,0.429
+nas_2020_8,2020,8,UTA,Jazz,A,139,83,Western,Pacific,Salt Lake City,Utah,56,win,0,4 W 4 L,0.5
+nas_2020_9,2020,9,STL,Sound,A,129,92,Western,Northwest,St. Louis,Missouri,37,win,1,5 W 4 L,0.556
+nas_2020_10,2020,10,HOU,Rockets,A,113,110,Western,Southwest,Houston,Texas,3,win,2,6 W 4 L,0.6
+nas_2020_11,2020,11,DET,Pistons,H,103,77,Eastern,Central,Nashville,Tennessee,26,win,3,7 W 4 L,0.636
+nas_2020_12,2020,12,DAL,Mavericks,H,112,88,Western,Southwest,Nashville,Tennessee,24,win,4,8 W 4 L,0.667
+nas_2020_13,2020,13,BAL,Barons,A,116,88,Eastern,Atlantic,Baltimore,Maryland,28,win,5,9 W 4 L,0.692
+nas_2020_14,2020,14,BOS,Celtics,H,135,109,Eastern,Atlantic,Nashville,Tennessee,26,win,6,10 W 4 L,0.714
+nas_2020_15,2020,15,CHA,Hornets,A,124,111,Eastern,Southeast,Charlotte,North Carolina,13,win,7,11 W 4 L,0.733
+nas_2020_16,2020,16,CHI,Bulls,A,114,96,Eastern,Central,Chicago,Illinois,18,win,8,12 W 4 L,0.75
+nas_2020_17,2020,17,PHI,76ers,H,130,117,Eastern,Atlantic,Nashville,Tennessee,13,win,9,13 W 4 L,0.765
+nas_2020_18,2020,18,LAL,Lakers,H,129,117,Western,Pacific,Nashville,Tennessee,12,win,10,14 W 4 L,0.778
+nas_2020_19,2020,19,ORL,Magic,H,109,93,Eastern,Southeast,Nashville,Tennessee,16,win,11,15 W 4 L,0.789
+nas_2020_20,2020,20,CHA,Hornets,H,135,115,Eastern,Southeast,Nashville,Tennessee,20,win,12,16 W 4 L,0.8
+nas_2020_21,2020,21,MEM,Grizzlies,A,129,92,Western,Southwest,Memphis,Tennessee,37,win,13,17 W 4 L,0.81
+nas_2020_22,2020,22,POR,Blazers,A,138,111,Western,Northwest,Portland,Oregon,27,win,14,18 W 4 L,0.818
+nas_2020_23,2020,23,CLE,Cavaliers,A,97,111,Eastern,Central,Cleveland,Ohio,-14,loss,13,18 W 5 L,0.783
+nas_2020_24,2020,24,SAC,Kings,A,98,101,Western,Pacific,Sacramento,California,-3,loss,12,18 W 6 L,0.75
+nas_2020_25,2020,25,CHI,Bulls,H,107,106,Eastern,Central,Nashville,Tennessee,1,win,13,19 W 6 L,0.76
+nas_2020_26,2020,26,CHI,Bulls,A,97,108,Eastern,Central,Chicago,Illinois,-11,loss,12,19 W 7 L,0.731
+nas_2020_27,2020,27,OKC,Thunder,H,106,100,Western,Southwest,Nashville,Tennessee,6,win,13,20 W 7 L,0.741
+nas_2020_28,2020,28,VCR,Ravens,A,115,90,Western,Northwest,Vancouver,Canada,25,win,14,21 W 7 L,0.75
+nas_2020_29,2020,29,BKN,Nets,A,116,102,Eastern,Atlantic,Brooklyn,New York,14,win,15,22 W 7 L,0.759
+nas_2020_30,2020,30,NYK,Knicks,A,146,103,Eastern,Atlantic,New York City,New York,43,win,16,23 W 7 L,0.767
+nas_2020_31,2020,31,SAN,Spurs,H,121,107,Western,Southwest,Nashville,Tennessee,14,win,17,24 W 7 L,0.774
+nas_2020_32,2020,32,VIR,Storm,A,110,114,Eastern,Southeast,Richmond,Virginia,-4,loss,16,24 W 8 L,0.75
+nas_2020_33,2020,33,LOU,Liberty,A,126,109,Eastern,Central,Louisville,Kentucky,17,win,17,25 W 8 L,0.758
+nas_2020_34,2020,34,CLE,Cavaliers,H,139,150,Eastern,Central,Nashville,Tennessee,-11,loss,16,25 W 9 L,0.735
+nas_2020_35,2020,35,WAS,Wizards,A,91,113,Eastern,Southeast,Washington,District of Columbia,-22,loss,15,25 W 10 L,0.714
+nas_2020_36,2020,36,LOU,Liberty,H,118,91,Eastern,Central,Nashville,Tennessee,27,win,16,26 W 10 L,0.722
+nas_2020_37,2020,37,POR,Blazers,H,122,120,Western,Northwest,Nashville,Tennessee,2,win,17,27 W 10 L,0.73
+nas_2020_38,2020,38,DEN,Nuggets,H,142,110,Western,Northwest,Nashville,Tennessee,32,win,18,28 W 10 L,0.737
+nas_2020_39,2020,39,MIL,Bucks,H,106,132,Western,Northwest,Nashville,Tennessee,-26,loss,17,28 W 11 L,0.718
+nas_2020_40,2020,40,TOR,Raptors,H,135,86,Eastern,Atlantic,Nashville,Tennessee,49,win,18,29 W 11 L,0.725
+nas_2020_41,2020,41,MIA,Heat,H,109,104,Eastern,Southeast,Nashville,Tennessee,5,win,19,30 W 11 L,0.732
+nas_2020_42,2020,42,DAL,Mavericks,A,115,108,Western,Southwest,Dallas,Texas,7,win,20,31 W 11 L,0.738
+nas_2020_43,2020,43,OKC,Thunder,A,112,117,Western,Southwest,Oklahoma City,Oklahoma,-5,loss,19,31 W 12 L,0.721
+nas_2020_44,2020,44,DEN,Nuggets,A,96,111,Western,Northwest,Denver,Colorado,-15,loss,18,31 W 13 L,0.705
+nas_2020_45,2020,45,BOS,Celtics,A,104,115,Eastern,Atlantic,Boston,Massachusetts,-11,loss,17,31 W 14 L,0.689
+nas_2020_46,2020,46,VIR,Storm,H,98,107,Eastern,Southeast,Nashville,Tennessee,-9,loss,16,31 W 15 L,0.674
+nas_2020_47,2020,47,ORL,Magic,H,116,133,Eastern,Southeast,Nashville,Tennessee,-17,loss,15,31 W 16 L,0.66
+nas_2020_48,2020,48,LAC,Clippers,A,107,81,Western,Pacific,Los Angeles,California,26,win,16,32 W 16 L,0.667
+nas_2020_49,2020,49,BAL,Barons,H,123,98,Eastern,Atlantic,Nashville,Tennessee,25,win,17,33 W 16 L,0.673
+nas_2020_50,2020,50,CHI,Bulls,H,138,102,Eastern,Central,Nashville,Tennessee,36,win,18,34 W 16 L,0.68
+nas_2020_51,2020,51,SAN,Spurs,A,127,126,Western,Southwest,San Antonio,Texas,1,win,19,35 W 16 L,0.686
+nas_2020_52,2020,52,PHX,Suns,A,103,111,Western,Pacific,Phoenix,Arizona,-8,loss,18,35 W 17 L,0.673
+nas_2020_53,2020,53,DET,Pistons,H,132,117,Eastern,Central,Nashville,Tennessee,15,win,19,36 W 17 L,0.679
+nas_2020_54,2020,54,MIA,Heat,A,104,103,Eastern,Southeast,Miami,Florida,1,win,20,37 W 17 L,0.685
+nas_2020_55,2020,55,DET,Pistons,A,98,107,Eastern,Central,Detroit,Michigan,-9,loss,19,37 W 18 L,0.673
+nas_2020_56,2020,56,BKN,Nets,H,114,93,Eastern,Atlantic,Nashville,Tennessee,21,win,20,38 W 18 L,0.679
+nas_2020_57,2020,57,MEM,Grizzlies,H,119,103,Western,Southwest,Nashville,Tennessee,16,win,21,39 W 18 L,0.684
+nas_2020_58,2020,58,STL,Sound,H,114,117,Western,Northwest,Nashville,Tennessee,-3,loss,20,39 W 19 L,0.672
+nas_2020_59,2020,59,DET,Pistons,A,132,119,Eastern,Central,Detroit,Michigan,13,win,21,40 W 19 L,0.678
+nas_2020_60,2020,60,GSW,Warriors,A,113,103,Western,Pacific,San Francisco,California,10,win,22,41 W 19 L,0.683
+nas_2020_61,2020,61,UTA,Jazz,H,119,85,Western,Pacific,Nashville,Tennessee,34,win,23,42 W 19 L,0.689
+nas_2020_62,2020,62,WAS,Wizards,H,124,106,Eastern,Southeast,Nashville,Tennessee,18,win,24,43 W 19 L,0.694
+nas_2020_63,2020,63,NOLA,Pelicans,A,120,119,Western,Southwest,New Orleans,Louisiana,1,win,25,44 W 19 L,0.698
+nas_2020_64,2020,64,PHI,76ers,A,116,108,Eastern,Atlantic,Philadelphia,Pennsylvania,8,win,26,45 W 19 L,0.703
+nas_2020_65,2020,65,ATL,Hawks,A,128,109,Eastern,Southeast,Atlanta,Georgia,19,win,27,46 W 19 L,0.708
+nas_2020_66,2020,66,GSW,Warriors,H,123,116,Western,Pacific,Nashville,Tennessee,7,win,28,47 W 19 L,0.712
+nas_2020_67,2020,67,IND,Pacers,A,118,112,Eastern,Central,Indianapolis,Indiana,6,win,29,48 W 19 L,0.716
+nas_2020_68,2020,68,BAL,Barons,A,98,95,Eastern,Atlantic,Baltimore,Maryland,3,win,30,49 W 19 L,0.721
+nas_2020_69,2020,69,MIN,Timberwolves,H,115,100,Western,Northwest,Nashville,Tennessee,15,win,31,50 W 19 L,0.725
+nas_2020_70,2020,70,ORL,Magic,A,110,122,Eastern,Southeast,Orlando,Florida,-12,loss,30,50 W 20 L,0.714
+nas_2020_71,2020,71,ATL,Hawks,H,133,113,Eastern,Southeast,Nashville,Tennessee,20,win,31,51 W 20 L,0.718
+nas_2020_72,2020,72,CLE,Cavaliers,A,135,123,Eastern,Central,Cleveland,Ohio,12,win,32,52 W 20 L,0.722
+nas_2020_73,2020,73,IND,Pacers,A,120,105,Eastern,Central,Indianapolis,Indiana,15,win,33,53 W 20 L,0.726
+nas_2020_74,2020,74,LOU,Liberty,H,120,92,Eastern,Central,Nashville,Tennessee,28,win,34,54 W 20 L,0.73
+nas_2020_75,2020,75,TOR,Raptors,A,106,98,Eastern,Atlantic,Toronto,Canada,8,win,35,55 W 20 L,0.733
+nas_2020_76,2020,76,CLE,Cavaliers,H,120,100,Eastern,Central,Nashville,Tennessee,20,win,36,56 W 20 L,0.737
+nas_2020_77,2020,77,LAL,Lakers,A,117,104,Western,Pacific,Los Angeles,California,13,win,37,57 W 20 L,0.74
+nas_2020_78,2020,78,IND,Pacers,H,142,95,Eastern,Central,Nashville,Tennessee,47,win,38,58 W 20 L,0.744
+nas_2020_79,2020,79,NOLA,Pelicans,H,129,119,Western,Southwest,Nashville,Tennessee,10,win,39,59 W 20 L,0.747
+nas_2020_80,2020,80,SAC,Kings,H,133,131,Western,Pacific,Nashville,Tennessee,2,win,40,60 W 20 L,0.75
+nas_2020_81,2020,81,VCR,Ravens,H,110,105,Western,Northwest,Nashville,Tennessee,5,win,41,61 W 20 L,0.753
+nas_2020_82,2020,82,MIN,Timberwolves,A,116,114,Western,Northwest,Minnenapolis,Minnesota,2,win,42,62 W 20 L,0.756
