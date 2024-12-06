@@ -1,83 +1,83 @@
-season,game,opp_id,opp_name,home_away,talons_score,opp_score,conference,division,city,state
-2027,1,MIL,Bucks,H,107,112,Western,Northwest,Milwaukee,Wisconsin
-2027,2,STL,Sound,A,130,122,Western,Northwest,St. Louis,Missouri
-2027,3,VIR,Storm,A,144,105,Eastern,Southeast,Richmond,Virginia
-2027,4,MEM,Grizzlies,H,121,101,Western,Southwest,Nashville,Tennessee
-2027,5,HOU,Rockets,H,138,100,Western,Southwest,Nashville,Tennessee
-2027,6,CHI,Bulls,H,130,99,Eastern,Central,Nashville,Tennessee
-2027,7,ATL,Hawks,A,82,86,Eastern,Southeast,Atlanta,Georgia
-2027,8,NYK,Knicks,H,128,110,Eastern,Atlantic,Nashville,Tennessee
-2027,9,ORL,Magic,H,135,100,Eastern,Southeast,Nashville,Tennessee
-2027,10,PHI,76ers,A,133,99,Eastern,Atlantic,Philadelphia,Pennsylvania
-2027,11,BAL,Barons,A,129,74,Eastern,Atlantic,Baltimore,Maryland
-2027,12,PHX,Suns,A,120,91,Western,Pacific,Phoenix,Arizona
-2027,13,CHA,Hornets,H,110,118,Eastern,Southeast,Nashville,Tennessee
-2027,14,MIA,Heat,A,126,125,Eastern,Southeast,Miami,Florida
-2027,15,IND,Pacers,A,111,122,Eastern,Central,Indianapolis,Indiana
-2027,16,LOU,Liberty,A,112,88,Eastern,Central,Louisville,Kentucky
-2027,17,BKN,Nets,A,139,129,Eastern,Atlantic,Brooklyn,New York
-2027,18,LOU,Liberty,H,122,102,Eastern,Central,Nashville,Tennessee
-2027,19,STL,Sound,H,156,90,Western,Northwest,Nashville,Tennessee
-2027,20,SAN,Spurs,H,154,110,Western,Southwest,Nashville,Tennessee
-2027,21,LAC,Clippers,A,120,87,Western,Pacific,Los Angeles,California
-2027,22,GSW,Warriors,H,126,102,Western,Pacific,Nashville,Tennessee
-2027,23,LAC,Clippers,H,134,122,Western,Pacific,Nashville,Tennessee
-2027,24,MIL,Bucks,A,127,110,Western,Northwest,Milwaukee,Wisconsin
-2027,25,BKN,Nets,H,123,106,Eastern,Atlantic,Nashville,Tennessee
-2027,26,LAL,Lakers,H,106,84,Western,Pacific,Nashville,Tennessee
-2027,27,OKC,Thunder,A,131,122,Western,Southwest,Oklahoma City,Oklahoma
-2027,28,VIR,Storm,H,140,106,Eastern,Southeast,Nashville,Tennessee
-2027,29,MIN,Timberwolves,H,127,92,Western,Northwest,Nashville,Tennessee
-2027,30,BOS,Celtics,H,133,96,Eastern,Atlantic,Nashville,Tennessee
-2027,31,CHA,Hornets,A,139,117,Eastern,Southeast,Charlotte,North Carolina
-2027,32,OKC,Thunder,H,137,98,Western,Southwest,Nashville,Tennessee
-2027,33,MIN,Timberwolves,A,122,102,Western,Northwest,Minnenapolis,Minnesota
-2027,34,CLE,Cavaliers,A,130,124,Eastern,Central,Cleveland,Ohio
-2027,35,SAN,Spurs,A,103,96,Western,Southwest,San Antonio,Texas
-2027,36,NOLA,Pelicans,A,135,86,Western,Southwest,New Orleans,Louisiana
-2027,37,LOU,Liberty,H,120,87,Eastern,Central,Nashville,Tennessee
-2027,38,POR,Blazers,A,144,141,Western,Northwest,Portland,Oregon
-2027,39,IND,Pacers,H,110,133,Eastern,Central,Nashville,Tennessee
-2027,40,ORL,Magic,A,139,89,Eastern,Southeast,Orlando,Florida
-2027,41,BOS,Celtics,A,127,109,Eastern,Atlantic,Boston,Massachusetts
-2027,42,DET,Pistons,A,123,100,Eastern,Central,Detroit,Michigan
-2027,43,DET,Pistons,H,130,105,Eastern,Central,Nashville,Tennessee
-2027,44,CHI,Bulls,A,150,118,Eastern,Central,Chicago,Illinois
-2027,45,DET,Pistons,H,100,88,Eastern,Central,Nashville,Tennessee
-2027,46,GSW,Warriors,A,118,98,Western,Pacific,San Francisco,California
-2027,47,UTA,Jazz,H,157,141,Western,Pacific,Nashville,Tennessee
-2027,48,PHI,76ers,H,117,104,Eastern,Atlantic,Nashville,Tennessee
-2027,49,PHI,76ers,A,102,106,Eastern,Atlantic,Philadelphia,Pennsylvania
-2027,50,TOR,Raptors,A,103,119,Eastern,Atlantic,Toronto,Canada
-2027,51,CLE,Cavaliers,H,132,120,Eastern,Central,Nashville,Tennessee
-2027,52,UTA,Jazz,A,97,99,Western,Pacific,Salt Lake City,Utah
-2027,53,BAL,Barons,H,110,98,Eastern,Atlantic,Nashville,Tennessee
-2027,54,CHI,Bulls,A,132,128,Eastern,Central,Chicago,Illinois
-2027,55,SAC,Kings,A,105,81,Western,Pacific,Sacramento,California
-2027,56,DAL,Mavericks,H,104,97,Western,Southwest,Nashville,Tennessee
-2027,57,PHX,Suns,H,129,102,Western,Pacific,Nashville,Tennessee
-2027,58,HOU,Rockets,A,145,122,Western,Southwest,Houston,Texas
-2027,59,DEN,Nuggets,A,105,110,Western,Northwest,Denver,Colorado
-2027,60,CHI,Bulls,H,122,93,Eastern,Central,Nashville,Tennessee
-2027,61,NYK,Knicks,A,106,101,Eastern,Atlantic,New York City,New York
-2027,62,LAL,Lakers,A,110,120,Western,Pacific,Los Angeles,California
-2027,63,IND,Pacers,A,140,102,Eastern,Central,Indianapolis,Indiana
-2027,64,DET,Pistons,A,134,120,Eastern,Central,Detroit,Michigan
-2027,65,DAL,Mavericks,A,123,103,Western,Southwest,Dallas,Texas
-2027,66,VCR,Ravens,H,89,99,Western,Northwest,Nashville,Tennessee
-2027,67,CLE,Cavaliers,A,122,135,Eastern,Central,Cleveland,Ohio
-2027,68,WAS,Wizards,H,147,105,Eastern,Southeast,Nashville,Tennessee
-2027,69,DEN,Nuggets,H,126,119,Western,Northwest,Nashville,Tennessee
-2027,70,VCR,Ravens,A,145,128,Western,Northwest,Vancouver,Canada
-2027,71,ATL,Hawks,H,152,123,Eastern,Southeast,Nashville,Tennessee
-2027,72,SAC,Kings,H,129,112,Western,Pacific,Nashville,Tennessee
-2027,73,CLE,Cavaliers,H,124,80,Eastern,Central,Nashville,Tennessee
-2027,74,WAS,Wizards,A,122,107,Eastern,Southeast,Washington,District of Columbia
-2027,75,WAS,Wizards,H,124,93,Eastern,Southeast,Nashville,Tennessee
-2027,76,IND,Pacers,H,130,131,Eastern,Central,Nashville,Tennessee
-2027,77,MEM,Grizzlies,A,97,90,Western,Southwest,Memphis,Tennessee
-2027,78,LOU,Liberty,A,108,92,Eastern,Central,Louisville,Kentucky
-2027,79,NOLA,Pelicans,H,121,74,Western,Southwest,Nashville,Tennessee
-2027,80,POR,Blazers,H,137,99,Western,Northwest,Nashville,Tennessee
-2027,81,TOR,Raptors,H,103,114,Eastern,Atlantic,Nashville,Tennessee
-2027,82,MIA,Heat,H,115,77,Eastern,Southeast,Nashville,Tennessee
+game_id,season,game,opp_id,opp_name,home_away,team_score,opp_score,conference,division,city,state,margin,win_loss,games_above_500,record,percentage
+nas_2027_1,2027,1,MIL,Bucks,H,107,112,Western,Northwest,Nashville,Tennessee,-5,loss,0,0 W 1 L,0.0
+nas_2027_2,2027,2,STL,Sound,A,130,122,Western,Northwest,St. Louis,Missouri,8,win,0,1 W 1 L,0.5
+nas_2027_3,2027,3,VIR,Storm,A,144,105,Eastern,Southeast,Richmond,Virginia,39,win,1,2 W 1 L,0.667
+nas_2027_4,2027,4,MEM,Grizzlies,H,121,101,Western,Southwest,Nashville,Tennessee,20,win,2,3 W 1 L,0.75
+nas_2027_5,2027,5,HOU,Rockets,H,138,100,Western,Southwest,Nashville,Tennessee,38,win,3,4 W 1 L,0.8
+nas_2027_6,2027,6,CHI,Bulls,H,130,99,Eastern,Central,Nashville,Tennessee,31,win,4,5 W 1 L,0.833
+nas_2027_7,2027,7,ATL,Hawks,A,82,86,Eastern,Southeast,Atlanta,Georgia,-4,loss,3,5 W 2 L,0.714
+nas_2027_8,2027,8,NYK,Knicks,H,128,110,Eastern,Atlantic,Nashville,Tennessee,18,win,4,6 W 2 L,0.75
+nas_2027_9,2027,9,ORL,Magic,H,135,100,Eastern,Southeast,Nashville,Tennessee,35,win,5,7 W 2 L,0.778
+nas_2027_10,2027,10,PHI,76ers,A,133,99,Eastern,Atlantic,Philadelphia,Pennsylvania,34,win,6,8 W 2 L,0.8
+nas_2027_11,2027,11,BAL,Barons,A,129,74,Eastern,Atlantic,Baltimore,Maryland,55,win,7,9 W 2 L,0.818
+nas_2027_12,2027,12,PHX,Suns,A,120,91,Western,Pacific,Phoenix,Arizona,29,win,8,10 W 2 L,0.833
+nas_2027_13,2027,13,CHA,Hornets,H,110,118,Eastern,Southeast,Nashville,Tennessee,-8,loss,7,10 W 3 L,0.769
+nas_2027_14,2027,14,MIA,Heat,A,126,125,Eastern,Southeast,Miami,Florida,1,win,8,11 W 3 L,0.786
+nas_2027_15,2027,15,IND,Pacers,A,111,122,Eastern,Central,Indianapolis,Indiana,-11,loss,7,11 W 4 L,0.733
+nas_2027_16,2027,16,LOU,Liberty,A,112,88,Eastern,Central,Louisville,Kentucky,24,win,8,12 W 4 L,0.75
+nas_2027_17,2027,17,BKN,Nets,A,139,129,Eastern,Atlantic,Brooklyn,New York,10,win,9,13 W 4 L,0.765
+nas_2027_18,2027,18,LOU,Liberty,H,122,102,Eastern,Central,Nashville,Tennessee,20,win,10,14 W 4 L,0.778
+nas_2027_19,2027,19,STL,Sound,H,156,90,Western,Northwest,Nashville,Tennessee,66,win,11,15 W 4 L,0.789
+nas_2027_20,2027,20,SAN,Spurs,H,154,110,Western,Southwest,Nashville,Tennessee,44,win,12,16 W 4 L,0.8
+nas_2027_21,2027,21,LAC,Clippers,A,120,87,Western,Pacific,Los Angeles,California,33,win,13,17 W 4 L,0.81
+nas_2027_22,2027,22,GSW,Warriors,H,126,102,Western,Pacific,Nashville,Tennessee,24,win,14,18 W 4 L,0.818
+nas_2027_23,2027,23,LAC,Clippers,H,134,122,Western,Pacific,Nashville,Tennessee,12,win,15,19 W 4 L,0.826
+nas_2027_24,2027,24,MIL,Bucks,A,127,110,Western,Northwest,Milwaukee,Wisconsin,17,win,16,20 W 4 L,0.833
+nas_2027_25,2027,25,BKN,Nets,H,123,106,Eastern,Atlantic,Nashville,Tennessee,17,win,17,21 W 4 L,0.84
+nas_2027_26,2027,26,LAL,Lakers,H,106,84,Western,Pacific,Nashville,Tennessee,22,win,18,22 W 4 L,0.846
+nas_2027_27,2027,27,OKC,Thunder,A,131,122,Western,Southwest,Oklahoma City,Oklahoma,9,win,19,23 W 4 L,0.852
+nas_2027_28,2027,28,VIR,Storm,H,140,106,Eastern,Southeast,Nashville,Tennessee,34,win,20,24 W 4 L,0.857
+nas_2027_29,2027,29,MIN,Timberwolves,H,127,92,Western,Northwest,Nashville,Tennessee,35,win,21,25 W 4 L,0.862
+nas_2027_30,2027,30,BOS,Celtics,H,133,96,Eastern,Atlantic,Nashville,Tennessee,37,win,22,26 W 4 L,0.867
+nas_2027_31,2027,31,CHA,Hornets,A,139,117,Eastern,Southeast,Charlotte,North Carolina,22,win,23,27 W 4 L,0.871
+nas_2027_32,2027,32,OKC,Thunder,H,137,98,Western,Southwest,Nashville,Tennessee,39,win,24,28 W 4 L,0.875
+nas_2027_33,2027,33,MIN,Timberwolves,A,122,102,Western,Northwest,Minnenapolis,Minnesota,20,win,25,29 W 4 L,0.879
+nas_2027_34,2027,34,CLE,Cavaliers,A,130,124,Eastern,Central,Cleveland,Ohio,6,win,26,30 W 4 L,0.882
+nas_2027_35,2027,35,SAN,Spurs,A,103,96,Western,Southwest,San Antonio,Texas,7,win,27,31 W 4 L,0.886
+nas_2027_36,2027,36,NOLA,Pelicans,A,135,86,Western,Southwest,New Orleans,Louisiana,49,win,28,32 W 4 L,0.889
+nas_2027_37,2027,37,LOU,Liberty,H,120,87,Eastern,Central,Nashville,Tennessee,33,win,29,33 W 4 L,0.892
+nas_2027_38,2027,38,POR,Blazers,A,144,141,Western,Northwest,Portland,Oregon,3,win,30,34 W 4 L,0.895
+nas_2027_39,2027,39,IND,Pacers,H,110,133,Eastern,Central,Nashville,Tennessee,-23,loss,29,34 W 5 L,0.872
+nas_2027_40,2027,40,ORL,Magic,A,139,89,Eastern,Southeast,Orlando,Florida,50,win,30,35 W 5 L,0.875
+nas_2027_41,2027,41,BOS,Celtics,A,127,109,Eastern,Atlantic,Boston,Massachusetts,18,win,31,36 W 5 L,0.878
+nas_2027_42,2027,42,DET,Pistons,A,123,100,Eastern,Central,Detroit,Michigan,23,win,32,37 W 5 L,0.881
+nas_2027_43,2027,43,DET,Pistons,H,130,105,Eastern,Central,Nashville,Tennessee,25,win,33,38 W 5 L,0.884
+nas_2027_44,2027,44,CHI,Bulls,A,150,118,Eastern,Central,Chicago,Illinois,32,win,34,39 W 5 L,0.886
+nas_2027_45,2027,45,DET,Pistons,H,100,88,Eastern,Central,Nashville,Tennessee,12,win,35,40 W 5 L,0.889
+nas_2027_46,2027,46,GSW,Warriors,A,118,98,Western,Pacific,San Francisco,California,20,win,36,41 W 5 L,0.891
+nas_2027_47,2027,47,UTA,Jazz,H,157,141,Western,Pacific,Nashville,Tennessee,16,win,37,42 W 5 L,0.894
+nas_2027_48,2027,48,PHI,76ers,H,117,104,Eastern,Atlantic,Nashville,Tennessee,13,win,38,43 W 5 L,0.896
+nas_2027_49,2027,49,PHI,76ers,A,102,106,Eastern,Atlantic,Philadelphia,Pennsylvania,-4,loss,37,43 W 6 L,0.878
+nas_2027_50,2027,50,TOR,Raptors,A,103,119,Eastern,Atlantic,Toronto,Canada,-16,loss,36,43 W 7 L,0.86
+nas_2027_51,2027,51,CLE,Cavaliers,H,132,120,Eastern,Central,Nashville,Tennessee,12,win,37,44 W 7 L,0.863
+nas_2027_52,2027,52,UTA,Jazz,A,97,99,Western,Pacific,Salt Lake City,Utah,-2,loss,36,44 W 8 L,0.846
+nas_2027_53,2027,53,BAL,Barons,H,110,98,Eastern,Atlantic,Nashville,Tennessee,12,win,37,45 W 8 L,0.849
+nas_2027_54,2027,54,CHI,Bulls,A,132,128,Eastern,Central,Chicago,Illinois,4,win,38,46 W 8 L,0.852
+nas_2027_55,2027,55,SAC,Kings,A,105,81,Western,Pacific,Sacramento,California,24,win,39,47 W 8 L,0.855
+nas_2027_56,2027,56,DAL,Mavericks,H,104,97,Western,Southwest,Nashville,Tennessee,7,win,40,48 W 8 L,0.857
+nas_2027_57,2027,57,PHX,Suns,H,129,102,Western,Pacific,Nashville,Tennessee,27,win,41,49 W 8 L,0.86
+nas_2027_58,2027,58,HOU,Rockets,A,145,122,Western,Southwest,Houston,Texas,23,win,42,50 W 8 L,0.862
+nas_2027_59,2027,59,DEN,Nuggets,A,105,110,Western,Northwest,Denver,Colorado,-5,loss,41,50 W 9 L,0.847
+nas_2027_60,2027,60,CHI,Bulls,H,122,93,Eastern,Central,Nashville,Tennessee,29,win,42,51 W 9 L,0.85
+nas_2027_61,2027,61,NYK,Knicks,A,106,101,Eastern,Atlantic,New York City,New York,5,win,43,52 W 9 L,0.852
+nas_2027_62,2027,62,LAL,Lakers,A,110,120,Western,Pacific,Los Angeles,California,-10,loss,42,52 W 10 L,0.839
+nas_2027_63,2027,63,IND,Pacers,A,140,102,Eastern,Central,Indianapolis,Indiana,38,win,43,53 W 10 L,0.841
+nas_2027_64,2027,64,DET,Pistons,A,134,120,Eastern,Central,Detroit,Michigan,14,win,44,54 W 10 L,0.844
+nas_2027_65,2027,65,DAL,Mavericks,A,123,103,Western,Southwest,Dallas,Texas,20,win,45,55 W 10 L,0.846
+nas_2027_66,2027,66,VCR,Ravens,H,89,99,Western,Northwest,Nashville,Tennessee,-10,loss,44,55 W 11 L,0.833
+nas_2027_67,2027,67,CLE,Cavaliers,A,122,135,Eastern,Central,Cleveland,Ohio,-13,loss,43,55 W 12 L,0.821
+nas_2027_68,2027,68,WAS,Wizards,H,147,105,Eastern,Southeast,Nashville,Tennessee,42,win,44,56 W 12 L,0.824
+nas_2027_69,2027,69,DEN,Nuggets,H,126,119,Western,Northwest,Nashville,Tennessee,7,win,45,57 W 12 L,0.826
+nas_2027_70,2027,70,VCR,Ravens,A,145,128,Western,Northwest,Vancouver,Canada,17,win,46,58 W 12 L,0.829
+nas_2027_71,2027,71,ATL,Hawks,H,152,123,Eastern,Southeast,Nashville,Tennessee,29,win,47,59 W 12 L,0.831
+nas_2027_72,2027,72,SAC,Kings,H,129,112,Western,Pacific,Nashville,Tennessee,17,win,48,60 W 12 L,0.833
+nas_2027_73,2027,73,CLE,Cavaliers,H,124,80,Eastern,Central,Nashville,Tennessee,44,win,49,61 W 12 L,0.836
+nas_2027_74,2027,74,WAS,Wizards,A,122,107,Eastern,Southeast,Washington,District of Columbia,15,win,50,62 W 12 L,0.838
+nas_2027_75,2027,75,WAS,Wizards,H,124,93,Eastern,Southeast,Nashville,Tennessee,31,win,51,63 W 12 L,0.84
+nas_2027_76,2027,76,IND,Pacers,H,130,131,Eastern,Central,Nashville,Tennessee,-1,loss,50,63 W 13 L,0.829
+nas_2027_77,2027,77,MEM,Grizzlies,A,97,90,Western,Southwest,Memphis,Tennessee,7,win,51,64 W 13 L,0.831
+nas_2027_78,2027,78,LOU,Liberty,A,108,92,Eastern,Central,Louisville,Kentucky,16,win,52,65 W 13 L,0.833
+nas_2027_79,2027,79,NOLA,Pelicans,H,121,74,Western,Southwest,Nashville,Tennessee,47,win,53,66 W 13 L,0.835
+nas_2027_80,2027,80,POR,Blazers,H,137,99,Western,Northwest,Nashville,Tennessee,38,win,54,67 W 13 L,0.838
+nas_2027_81,2027,81,TOR,Raptors,H,103,114,Eastern,Atlantic,Nashville,Tennessee,-11,loss,53,67 W 14 L,0.827
+nas_2027_82,2027,82,MIA,Heat,H,115,77,Eastern,Southeast,Nashville,Tennessee,38,win,54,68 W 14 L,0.829
